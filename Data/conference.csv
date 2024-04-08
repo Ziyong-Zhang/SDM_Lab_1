@@ -1,4 +1,5 @@
 name,year,city
+nan,,nan
 "46th IEEE/ACM International Conference on Software Engineering, ICSE 2024",2024,Lisbon
 "32nd EACSL Annual Conference on Computer Science Logic, CSL 2024",2024,Naples
 "17th Innovations in Software Engineering Conference,  ISEC 2024",2024,Bangalore
@@ -76,7 +77,7 @@ name,year,city
 "25th International Conference on Multimodal Interaction, ICMI 2023",2023,Paris
 "28th International Conference on Web3D Technology, Web3D 2023",2023,San Sebastian
 "37th Brazilian Symposium on Software Engineering, SBES 2023, held in conjunction with the Brazilian Conference on Software: Theory and Practice, CBSoft 2023",2023,Campo Grande
-"20th International Conference on Culture and Computer Science ""Code and Materiality"", KUI 2023",2023,Lisbon
+"20th International Conference on Culture and Computer Science Code and Materiality, KUI 2023",2023,Lisbon
 "18th WiPSCE Conference in Primary and Secondary Computing Education Research, WiPSCE 2023",2023,Cambridge
 "15th International Conference on Education Technology and Computers, ICETC 2023",2023,Barcelona
 "5th World Symposium on Software Engineering, WSSE 2023",2023,Tokyo
@@ -141,7 +142,7 @@ ACM SIGCOMM 2023 Conference,2023,New York
 "37th AAAI Conference on Artificial Intelligence, AAAI 2023",2023,Washington
 "31st ACM Conference on User Modeling, Adaptation and Personalization, UMAP 2023",2023,Limassol
 "1st ACM Conference on Reproducibility and Replicability, REP 2023",2023,Santa Cruz
-"15th ACM SIGCHI Symposium on Engineering Interactive Computing Systems, EICS 2023",2023,
+"15th ACM SIGCHI Symposium on Engineering Interactive Computing Systems, EICS 2023",2023,nan
 "37th ACM International Conference on Supercomputing, ICS 2023",2023,Orlando
 "29th CIPA Symposium on Documenting, Understanding, Preserving Cultural Heritage. Humanities and Digital Technologies for Shaping the Future",2023,Florence
 "2023 Symposium on Learning, Design and Technology, LDT 2023",2023,Evanston
@@ -310,15 +311,15 @@ ACM SIGCOMM 2023 Conference,2023,New York
 2023 Findings of the Association for Computational Linguistics: EMNLP 2023,2023,Singapore
 "16th International Conference on Computer-Supported Collaborative Learning, CSCL 2023",2023,Montreal
 "50th International Conference on Very Large Data Bases, VLDB 2024",2024,Guangzhou
-"3rd International Conference on Machine Learning and Big Data Analytics for IoT Security and Privacy, SPIoT2023",2023,
+"3rd International Conference on Machine Learning and Big Data Analytics for IoT Security and Privacy, SPIoT2023",2023,nan
 "6th IEEE International Conference on Information and Telecommunication Technologies and Radio Electronics, UkrMiCo 2023",2023,Kyiv
 "49th Euromicro Conference on Software Engineering and Advanced Applications, SEAA 2023",2023,Durres
 "14th IIAI International Congress on Advanced Applied Informatics, IIAI-AAI 2023",2023,Koriyama
 "8th International Conference on Informatics and Computing, ICIC 2023",2023,"Hybrid, Malang"
-"2023 International Conference ""Quality Management, Transport and Information Security, Information Technologies"", IT and QM and IS 2023",2023,Petrozavodsk
+"2023 International Conference Quality Management, Transport and Information Security, Information Technologies, IT and QM and IS 2023",2023,Petrozavodsk
 "Young Engineers Colloquium 2023, YEC 2023",2023,Ghent
 "23rd IEEE International Symposium on Computational Intelligence and Informatics, CINTI 2023",2023,Budapest
-"10th International Scientific Conference ""Information Technology and Implementation"", IT and I 2023",2023,Kyiv
+"10th International Scientific Conference Information Technology and Implementation, IT and I 2023",2023,Kyiv
 "2nd Workshop on Bias, Ethical AI, Explainability and the Role of Logic and Logic Programming, BEWARE 2023",2023,Rome
 "15th Congress of Latin American Women in Computing, LAWCC 2023",2023,La Paz
 "2023 IEEE History of Electrotechnology Conference, HISTELCON 2023",2023,Florence
@@ -1463,7 +1464,7 @@ Artificial Intelligence and Machine Learning for Multi-Domain Operations Applica
 "17th International Middle Eastern Simulation and Modelling Conference, MESM 2022",2022,Baghdad
 "2022 OCEANS Hampton Roads, OCEANS 2022",2022,Hampton Roads
 "1st Workshop on Bias, Ethical AI, Explainability and the Role of Logic and Logic Programming, BEWARE 2022",2022,Udine
-"2022 International Conference ""Quality Management, Transport and Information Security, Information Technologies"", IT and QM and IS 2022",2022,St. Petersburg
+"2022 International Conference Quality Management, Transport and Information Security, Information Technologies, IT and QM and IS 2022",2022,St. Petersburg
 "4th International Conference on Computer Science and Technologies in Education, CSTE 2022",2022,"Virtual, Online"
 "4th International Workshop of Modern Machine Learning Technologies and Data Science, MoMLeT and DS 2022",2022,Leiden
 "2nd Annual Meeting of the International Society of the Learning Sciences, ISLS 2022",2022,"Virtual, Online"
@@ -1553,7 +1554,7 @@ NordDesign 2022: How Product and Manufacturing Design Enable Sustainable Compani
 "32nd Conference of Open Innovations Association FRUCT, FRUCT 2022",2022,Tampere
 "5th International Conference on Advanced Electronic Materials, Computers and Software Engineering, AEMCSE 2022",2022,Wuhan
 "4th IEEE Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability, ECBIOS 2022",2022,Tainan
-"NetSciLA 2022 Workshop ""Networks and Learning Analytics: Addressing Educational Challenges"", NetSciLA 2022",2022,"Virtual, Online"
+"NetSciLA 2022 Workshop Networks and Learning Analytics: Addressing Educational Challenges, NetSciLA 2022",2022,"Virtual, Online"
 "2022 IEEE-EMBS International Conference on Biomedical and Health Informatics, BHI 2022",2022,Ioannina
 "2nd IEEE International Conference on Educational Technology, ICET 2022",2022,Beijing
 "Joint 5th International Conference on Applied Informatics Workshops, ICAIW 2022: 3rd International Workshop on Applied Artificial Intelligence, WAAI 2022, 4th International Workshop on Applied Informatics for Economy, Society, and Development, AIESD 2022, 5th International Workshop on Data Engineering and Analytics, WDEA 2022, 1st International Workshop on Intelligent Transportation Systems and Smart Mobility Technology, WITS 2022, 2nd International Workshop on Knowledge Management and Information Technologies, WKMIT 2022 and 1st International Workshop on Systems Modeling, WSSC 2022",2022,Arequipa
@@ -1576,7 +1577,7 @@ Earth Observing Systems XXVII 2022,2022,San Diego
 "2nd Asian Conference on Innovation in Technology, ASIANCON 2022",2022,Ravet
 "3rd Workshop of Technology Enhanced Learning Environments for Blended Education - The Italian e-Learning Conference, teleXbe 2022",2022,Vieste
 "15th International Conference Management of Large-Scale System Development, MLSD 2022",2022,Moscow
-"6th Scientific School ""Dynamics of Complex Networks and their Applications"", DCNA 2022",2022,Kaliningrad
+"6th Scientific School Dynamics of Complex Networks and their Applications, DCNA 2022",2022,Kaliningrad
 "2022 IEEE Long Island Systems, Applications and Technology Conference, LISAT 2022",2022,Old Westbury
 "2022 IEEE Congress on Cybermatics: 15th IEEE International Conferences on Internet of Things, iThings 2022, 18th IEEE International Conferences on Green Computing and Communications, GreenCom 2022, 2022 IEEE International Conference on Cyber, Physical and Social Computing, CPSCom 2022 and 8th IEEE International Conference on Smart Data, SmartData 2022",2022,Espoo
 "6th International Workshop on Advanced Algorithms and Control Engineering, IWAACE 2022",2022,Qingdao
@@ -1902,7 +1903,7 @@ Polarized Light and Optical Angular Momentum for Biomedical Diagnostics 2022,202
 "30th Euromicro International Conference on Parallel, Distributed and Network-Based Processing, PDP 2022",2022,Valladolid
 "19th IEEE International Symposium on Biomedical Imaging, ISBI 2022",2022,Kolkata
 "2022 International Conference for Advancement in Technology, ICONAT 2022",2022,"Virtual, Online"
-"18. Workshop der ""Software Engineering im Unterricht der Hochschulen"", SEUH 2022 - 18th Workshop of the ""SEUH - Software Engineering in University Teaching"", SEUH 2022",2022,"Virtual, Online"
+"18. Workshop der Software Engineering im Unterricht der Hochschulen, SEUH 2022 - 18th Workshop of the SEUH - Software Engineering in University Teaching, SEUH 2022",2022,"Virtual, Online"
 "2022 IEEE International Conference on Big Data and Smart Computing, BigComp 2022",2022,Daegu
 "2022 IEEE International Conference on Communications, ICC 2022",2022,Seoul
 "7th International Conference on Digital Arts, Media and Technology, DAMT 2022 and 5th ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering, NCON 2022",2022,Chiang Rai
@@ -2165,7 +2166,7 @@ FOSS4G 2021 - Academic Track,2021,Buenos Aires
 "5th International Conference on Education and Multimedia Technology, ICEMT 2021",2021,"Virtual, Online"
 "1st IEEE International Conference on Digital Twins and Parallel Intelligence, DTPI 2021",2021,Beijing
 "1st Mohammad Ali Jinnah University International Conference on Computing, MAJICC 2021",2021,Karachi
-"International Round Table ""Industry 4.0 Technologies in the Arctic""",2021,Saint-Petersburg
+International Round Table Industry 4.0 Technologies in the Arctic,2021,Saint-Petersburg
 "2021 Annual Modeling and Simulation Conference, ANNSIM 2021",2021,"Virtual, Fairfax"
 "7th International Conference on Computer Technology Applications, ICCTA 2021",2021,"Virtual, Online"
 "2021 International Conference on Information Technology, ICIT 2021",2021,Amman

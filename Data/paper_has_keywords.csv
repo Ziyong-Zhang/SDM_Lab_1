@@ -17907,7 +17907,7 @@ paper_id,keywords
 ,Motivation
 ,Personality Traits
 ,Statistics Anxiety
-10.1109/TMM.2023.3330112,"360<inline-formula xmlns:ali=""http://www.niso.org/schemas/ali/1.0/"" xmlns:mml=""http://www.w3.org/1998/Math/MathML"" xmlns:xlink=""http://www.w3.org/1999/xlink"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""> <tex-math notation=""LaTeX"">$^\circ$</tex-math> </inline-formula> live video streaming"
+10.1109/TMM.2023.3330112,360<inline-formula xmlns:ali=http://www.niso.org/schemas/ali/1.0/ xmlns:mml=http://www.w3.org/1998/Math/MathML xmlns:xlink=http://www.w3.org/1999/xlink xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance> <tex-math notation=LaTeX>$^\circ$</tex-math> </inline-formula> live video streaming
 10.1109/TMM.2023.3330112,Bandwidth
 10.1109/TMM.2023.3330112,Behavioral sciences
 10.1109/TMM.2023.3330112,Clustered collaborative learning
@@ -20402,7 +20402,7 @@ paper_id,keywords
 10.1007/s11042-023-17421-3,Point cloud generation
 10.1007/s11042-023-17421-3,Q-learning
 10.1007/s11042-023-17421-3,Robotic surgery
-10.1109/TTE.2023.3320262,"<italic xmlns:ali=""http://www.niso.org/schemas/ali/1.0/"" xmlns:mml=""http://www.w3.org/1998/Math/MathML"" xmlns:xlink=""http://www.w3.org/1999/xlink"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">H</italic>∞-based linear quadratic regulator (<italic xmlns:ali=""http://www.niso.org/schemas/ali/1.0/"" xmlns:mml=""http://www.w3.org/1998/Math/MathML"" xmlns:xlink=""http://www.w3.org/1999/xlink"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">H</italic>∞-LQR)"
+10.1109/TTE.2023.3320262,<italic xmlns:ali=http://www.niso.org/schemas/ali/1.0/ xmlns:mml=http://www.w3.org/1998/Math/MathML xmlns:xlink=http://www.w3.org/1999/xlink xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance>H</italic>∞-based linear quadratic regulator (<italic xmlns:ali=http://www.niso.org/schemas/ali/1.0/ xmlns:mml=http://www.w3.org/1998/Math/MathML xmlns:xlink=http://www.w3.org/1999/xlink xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance>H</italic>∞-LQR)
 10.1109/TTE.2023.3320262,Behavioral sciences
 10.1109/TTE.2023.3320262,centralized software-defined networking (SDN)
 10.1109/TTE.2023.3320262,Computer architecture
@@ -21572,7 +21572,7 @@ paper_id,keywords
 10.1109/TII.2023.3312405,Central diffusion algorithm
 10.1109/TII.2023.3312405,dynamical behaviors
 10.1109/TII.2023.3312405,Encryption
-10.1109/TII.2023.3312405,"fibonacci <named-content xmlns:xlink=""http://www.w3.org/1999/xlink"" xmlns:ali=""http://www.niso.org/schemas/ali/1.0/"" xmlns:mml=""http://www.w3.org/1998/Math/MathML"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" content-type=""math"" xlink:type=""simple""> <inline-formula> <tex-math notation=""LaTeX"">$Q$</tex-math> </inline-formula> </named-content>-matrix"
+10.1109/TII.2023.3312405,fibonacci <named-content xmlns:xlink=http://www.w3.org/1999/xlink xmlns:ali=http://www.niso.org/schemas/ali/1.0/ xmlns:mml=http://www.w3.org/1998/Math/MathML xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance content-type=math xlink:type=simple> <inline-formula> <tex-math notation=LaTeX>$Q$</tex-math> </inline-formula> </named-content>-matrix
 10.1109/TII.2023.3312405,Heuristic algorithms
 10.1109/TII.2023.3312405,image encryption
 10.1109/TII.2023.3312405,memristive fully connect neural network
@@ -21865,7 +21865,7 @@ paper_id,keywords
 10.1109/ACCESS.2023.3312687,automatic learning
 10.1109/ACCESS.2023.3312687,conflict resolution
 10.1109/ACCESS.2023.3312687,social affective robots
-10.1109/TNET.2023.3309624,"<inline-formula xmlns:ali=""http://www.niso.org/schemas/ali/1.0/"" xmlns:mml=""http://www.w3.org/1998/Math/MathML"" xmlns:xlink=""http://www.w3.org/1999/xlink"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""> <tex-math notation=""LaTeX"">$k$</tex-math> </inline-formula>-core individual"
+10.1109/TNET.2023.3309624,<inline-formula xmlns:ali=http://www.niso.org/schemas/ali/1.0/ xmlns:mml=http://www.w3.org/1998/Math/MathML xmlns:xlink=http://www.w3.org/1999/xlink xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance> <tex-math notation=LaTeX>$k$</tex-math> </inline-formula>-core individual
 10.1109/TNET.2023.3309624,activity-oriented promotion
 10.1109/TNET.2023.3309624,Avatars
 10.1109/TNET.2023.3309624,Media
@@ -24414,7 +24414,7 @@ paper_id,keywords
 10.1109/EDUCON54358.2023.10125250,infrastructure as code
 10.1109/EDUCON54358.2023.10125250,penetration testing
 10.1109/EDUCON54358.2023.10125250,Terraform
-10.1109/TNNLS.2023.3279122,"<inline-formula xmlns:ali=""http://www.niso.org/schemas/ali/1.0/"" xmlns:mml=""http://www.w3.org/1998/Math/MathML"" xmlns:xlink=""http://www.w3.org/1999/xlink"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""> <tex-math notation=""LaTeX"">$K$</tex-math> </inline-formula>-means (km)"
+10.1109/TNNLS.2023.3279122,<inline-formula xmlns:ali=http://www.niso.org/schemas/ali/1.0/ xmlns:mml=http://www.w3.org/1998/Math/MathML xmlns:xlink=http://www.w3.org/1999/xlink xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance> <tex-math notation=LaTeX>$K$</tex-math> </inline-formula>-means (km)
 10.1109/TNNLS.2023.3279122,Clustering
 10.1109/TNNLS.2023.3279122,Clustering algorithms
 10.1109/TNNLS.2023.3279122,Computational efficiency
@@ -57905,7 +57905,7 @@ paper_id,keywords
 10.3390/s21144867,Resize method
 10.1109/EUROCON52738.2021.9535548,Academy of science
 10.1109/EUROCON52738.2021.9535548,Annual affect
-10.1109/EUROCON52738.2021.9535548,"Computer ""MIR"""
+10.1109/EUROCON52738.2021.9535548,Computer MIR
 10.1109/EUROCON52738.2021.9535548,Computer architecture
 10.1109/EUROCON52738.2021.9535548,Computer science history
 10.1109/EUROCON52738.2021.9535548,Engineering calculation

@@ -13121,7 +13121,7 @@ Academic Dishonesty
 Learning Environment
 Personality Traits
 Statistics Anxiety
-"360<inline-formula xmlns:ali=""http://www.niso.org/schemas/ali/1.0/"" xmlns:mml=""http://www.w3.org/1998/Math/MathML"" xmlns:xlink=""http://www.w3.org/1999/xlink"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""> <tex-math notation=""LaTeX"">$^\circ$</tex-math> </inline-formula> live video streaming"
+360<inline-formula xmlns:ali=http://www.niso.org/schemas/ali/1.0/ xmlns:mml=http://www.w3.org/1998/Math/MathML xmlns:xlink=http://www.w3.org/1999/xlink xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance> <tex-math notation=LaTeX>$^\circ$</tex-math> </inline-formula> live video streaming
 Clustered collaborative learning
 FoV prediction
 Heuristic algorithms
@@ -14640,7 +14640,7 @@ Computer Science.
 Brain tumor segmentation
 Gazelle optimizer
 Point cloud generation
-"<italic xmlns:ali=""http://www.niso.org/schemas/ali/1.0/"" xmlns:mml=""http://www.w3.org/1998/Math/MathML"" xmlns:xlink=""http://www.w3.org/1999/xlink"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">H</italic>∞-based linear quadratic regulator (<italic xmlns:ali=""http://www.niso.org/schemas/ali/1.0/"" xmlns:mml=""http://www.w3.org/1998/Math/MathML"" xmlns:xlink=""http://www.w3.org/1999/xlink"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">H</italic>∞-LQR)"
+<italic xmlns:ali=http://www.niso.org/schemas/ali/1.0/ xmlns:mml=http://www.w3.org/1998/Math/MathML xmlns:xlink=http://www.w3.org/1999/xlink xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance>H</italic>∞-based linear quadratic regulator (<italic xmlns:ali=http://www.niso.org/schemas/ali/1.0/ xmlns:mml=http://www.w3.org/1998/Math/MathML xmlns:xlink=http://www.w3.org/1999/xlink xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance>H</italic>∞-LQR)
 centralized software-defined networking (SDN)
 direct yaw-moment control (DYC)
 Drives
@@ -15340,7 +15340,7 @@ Furniture design
 Parameter design
 Biomedical imaging
 Central diffusion algorithm
-"fibonacci <named-content xmlns:xlink=""http://www.w3.org/1999/xlink"" xmlns:ali=""http://www.niso.org/schemas/ali/1.0/"" xmlns:mml=""http://www.w3.org/1998/Math/MathML"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" content-type=""math"" xlink:type=""simple""> <inline-formula> <tex-math notation=""LaTeX"">$Q$</tex-math> </inline-formula> </named-content>-matrix"
+fibonacci <named-content xmlns:xlink=http://www.w3.org/1999/xlink xmlns:ali=http://www.niso.org/schemas/ali/1.0/ xmlns:mml=http://www.w3.org/1998/Math/MathML xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance content-type=math xlink:type=simple> <inline-formula> <tex-math notation=LaTeX>$Q$</tex-math> </inline-formula> </named-content>-matrix
 image encryption
 memristive fully connect neural network
 Memristors
@@ -15537,7 +15537,7 @@ Theoretical model0F
 automatic learning
 conflict resolution
 social affective robots
-"<inline-formula xmlns:ali=""http://www.niso.org/schemas/ali/1.0/"" xmlns:mml=""http://www.w3.org/1998/Math/MathML"" xmlns:xlink=""http://www.w3.org/1999/xlink"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""> <tex-math notation=""LaTeX"">$k$</tex-math> </inline-formula>-core individual"
+<inline-formula xmlns:ali=http://www.niso.org/schemas/ali/1.0/ xmlns:mml=http://www.w3.org/1998/Math/MathML xmlns:xlink=http://www.w3.org/1999/xlink xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance> <tex-math notation=LaTeX>$k$</tex-math> </inline-formula>-core individual
 activity-oriented promotion
 Media
 Metaverse social network
@@ -17025,7 +17025,7 @@ educational tech-nology
 infrastructure as code
 penetration testing
 Terraform
-"<inline-formula xmlns:ali=""http://www.niso.org/schemas/ali/1.0/"" xmlns:mml=""http://www.w3.org/1998/Math/MathML"" xmlns:xlink=""http://www.w3.org/1999/xlink"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""> <tex-math notation=""LaTeX"">$K$</tex-math> </inline-formula>-means (km)"
+<inline-formula xmlns:ali=http://www.niso.org/schemas/ali/1.0/ xmlns:mml=http://www.w3.org/1998/Math/MathML xmlns:xlink=http://www.w3.org/1999/xlink xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance> <tex-math notation=LaTeX>$K$</tex-math> </inline-formula>-means (km)
 staleness-reduction
 Best-First Search
 Breadth-First Search
@@ -36293,7 +36293,7 @@ Picture generation
 Resize method
 Academy of science
 Annual affect
-"Computer ""MIR"""
+Computer MIR
 Computer science history
 Engineering calculation
 MIR-series
