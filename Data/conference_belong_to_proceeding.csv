@@ -1,407 +1,174 @@
 start_id,end_id
-nan,Recent Patents on Biotechnology
-nan,Physical Review Letters
-nan,Practical Radiation Oncology
-nan,Journal of Physical Chemistry Letters
-nan,Proceedings of the ACM on Programming Languages
-nan,INFORMS Journal on Computing
-nan,Computational Intelligence and Neuroscience
-nan,Dianzi Yu Xinxi Xuebao/Journal of Electronics and Information Technology
-nan,SIAM Journal on Applied Algebra and Geometry
-nan,IEEE Transactions on Education
-nan,Journal of Computational Science
-nan,International Journal of Emerging Technologies in Learning
-nan,Physical and Engineering Sciences in Medicine
-nan,International Journal for Numerical Methods in Engineering
-nan,Journal of Biomedical Informatics
-nan,International Journal of Environmental Research and Public Health
-nan,PLoS Neglected Tropical Diseases
-nan,Journal of integrative bioinformatics
-nan,Acta Astronautica
-nan,IEEE Transactions on Learning Technologies
-nan,Computer Applications in Engineering Education
-nan,Neural Computing and Applications
-nan,IEEE Access
-nan,Annals of Medicine and Surgery
-nan,Nurse Education Today
-nan,Neurology
-nan,Logical Methods in Computer Science
-nan,Current Protocols
-nan,Scientific Reports
-nan,ACM Transactions on Software Engineering and Methodology
-nan,Computational and Structural Biotechnology Journal
-nan,International Journal of Advanced Computer Science and Applications
-nan,IEEE Transactions on Dependable and Secure Computing
-nan,Arabian Journal of Geosciences
-nan,Journal of Ambient Intelligence and Humanized Computing
-nan,IEEE Open Journal of the Communications Society
-nan,Acta Biomedica
-nan,Computing
-nan,Frontiers in Physics
-nan,Proceedings of the National Academy of Sciences of the United States of America
-nan,IEEE Transactions on Computers
-nan,Computers and Electrical Engineering
-nan,Personal and Ubiquitous Computing
-nan,Cluster Computing
-nan,"Earth, Planets and Space"
-nan,Cities
-nan,Algorithmica
-nan,European Journal of Obstetrics and Gynecology and Reproductive Biology: X
-nan,"Current Opinion in Endocrinology, Diabetes and Obesity"
-nan,Theoretical Computer Science
-nan,Proceedings of the ACM on Human-Computer Interaction
-nan,Mathematical Structures in Computer Science
-nan,Mathematical Methods in the Applied Sciences
-nan,Forensic Science International
-nan,Structural Engineering and Mechanics
-nan,Process Safety and Environmental Protection
-nan,Physical Review A
-nan,Zhongguo Zhongyao Zazhi
-nan,Communications in Statistics: Simulation and Computation
-nan,PeerJ
-nan,Onkologia i Radioterapia
-nan,ACM Transactions on Knowledge Discovery from Data
-nan,Journal of Alzheimer's Disease
-nan,Medicine (United States)
-nan,Journal of Cognitive Neuroscience
-nan,Wireless Communications and Mobile Computing
-nan,Energy
-nan,IT Professional
-nan,Toxicological Sciences
-nan,IEEE Transactions on Human-Machine Systems
-nan,International Journal of Legal Medicine
-nan,Geophysical Research Letters
-nan,ACM Transactions on Computing Education
-nan,Cost Effectiveness and Resource Allocation
-nan,Journal of Computer Information Systems
-nan,Applied Soft Computing
-nan,JSES International
-nan,JMIR mHealth and uHealth
-nan,Genome Biology and Evolution
-nan,Computer-Aided Design and Applications
-nan,IET Image Processing
-nan,"Journal of Circuits, Systems and Computers"
-nan,Soil Dynamics and Earthquake Engineering
-nan,Concurrency and Computation: Practice and Experience
-nan,"Acta Physica Polonica B, Proceedings Supplement"
-nan,IEEE Transactions on Instrumentation and Measurement
-nan,PLoS ONE
-nan,Journal on Computing and Cultural Heritage
-nan,International Journal of Modelling and Simulation
-nan,Multimedia Tools and Applications
-nan,IEEE Transactions on Information Forensics and Security
-nan,Electrophoresis
-nan,Fire and Materials
-nan,STAR Protocols
-nan,IEEE Engineering Management Review
-nan,Environmental Science and Technology
-nan,Computers in Industry
-nan,Foundations and Trends in Communications and Information Theory
-nan,IEEE Sensors Journal
-nan,Clinical Laboratory
-nan,Neural Networks
-nan,eClinicalMedicine
-nan,Expert Systems with Applications
-nan,Izvestiya - Atmospheric and Ocean Physics
-nan,IEEE Transactions on Very Large Scale Integration (VLSI) Systems
-nan,IEEE Software
-nan,Transportation Research Record
-nan,Jisuanji Xuebao/Chinese Journal of Computers
-nan,IEEE Transactions on Circuits and Systems II: Express Briefs
-nan,Cognition
-nan,Atmosphere
-nan,Journal of Clinical Urology
-nan,Measurement: Sensors
-nan,Evolving Systems
-nan,Investigative Ophthalmology and Visual Science
-nan,Materials and Manufacturing Processes
-nan,Climate Dynamics
-nan,IEEE Transactions on Vehicular Technology
-nan,Journal of Systems and Software
-nan,NTT Technical Review
-nan,Nucleic Acids Research
-nan,"Nutrition, Metabolism and Cardiovascular Diseases"
-nan,IEEE Transactions on Visualization and Computer Graphics
-nan,Sustainable Computing: Informatics and Systems
-nan,Developmental Biology
-nan,IEEE Journal of Oceanic Engineering
-nan,Systematic and Applied Microbiology
-nan,Global Spine Journal
-nan,Psychometrika
-nan,Chinese Journal of Tissue Engineering Research
-nan,IEEE Transactions on Affective Computing
-nan,Social Studies of Science
-nan,BMC Oral Health
-nan,Journal of Friction and Wear
-nan,Iraqi Journal for Computer Science and Mathematics
-nan,Computers and Graphics (Pergamon)
-nan,Journal of Molecular Biology
-nan,IEEE Transactions on Parallel and Distributed Systems
-nan,Cirugia y Cirujanos (English Edition)
-nan,Frontiers in Oncology
-nan,PeerJ Computer Science
-nan,Forensic Imaging
-nan,Computers in Biology and Medicine
-nan,Computer Physics Communications
-nan,Journal of Computer and System Sciences
-nan,ICIC Express Letters
-nan,Communications Biology
-nan,Nongye Gongcheng Xuebao/Transactions of the Chinese Society of Agricultural Engineering
-nan,Sustainability (Switzerland)
-nan,BMC Medical Education
-nan,Wiley Interdisciplinary Reviews: Computational Molecular Science
-nan,Nature Physics
-nan,IEEE Annals of the History of Computing
-nan,Nursing Ethics
-nan,Clinical and Translational Imaging
-nan,Guangzi Xuebao/Acta Photonica Sinica
-nan,Biometrical Journal
-nan,IEEE Signal Processing Letters
-nan,"Computers, Materials and Continua"
-nan,Cybernetics and Systems Analysis
-nan,Epitheorese Klinikes Farmakologias kai Farmakokinetikes
-nan,Separation and Purification Technology
-nan,The Lancet Neurology
-nan,Journal of Clinical Epidemiology
-nan,Journal of the Liaquat University of Medical and Health Sciences
-nan,Intensive Care Medicine
-nan,IEEE Transactions on Pattern Analysis and Machine Intelligence
-nan,Progress in Geography
-nan,Journal of Petroleum Science and Engineering
-nan,Brain Structure and Function
-nan,IEEE Transactions on Network Science and Engineering
-nan,Minerva Pediatrics
-nan,New Journal of Physics
-nan,Analytica Chimica Acta
-nan,Development and Psychopathology
-nan,npj Computational Materials
-nan,"Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences"
-nan,EAI Endorsed Transactions on Energy Web
-nan,Journal of Feline Medicine and Surgery
-nan,Information Sciences
-nan,Computing in Science and Engineering
-nan,IEEE Aerospace and Electronic Systems Magazine
-nan,IEEE Transactions on Knowledge and Data Engineering
-nan,Journal of Clinical Medicine
-nan,Mathematical Programming
-nan,"International Journal of Parallel, Emergent and Distributed Systems"
-nan,Advanced Materials Technologies
-nan,Energies
-nan,Acta Materialia
-nan,Biomedical Signal Processing and Control
-nan,IEEE/ACM Transactions on Networking
-nan,Behavior Research Methods
-nan,Journal of Intelligent and Fuzzy Systems
-nan,Computers and Chemical Engineering
-nan,Journal of Research in Science Teaching
-nan,Journal of Gerontology and Geriatrics
-nan,Sustainable Energy Technologies and Assessments
-nan,Radiotherapy and Oncology
-nan,Forensic Science International: Digital Investigation
-nan,Frontiers in Veterinary Science
-nan,Chemical Communications
-nan,Cognitive Computation
-nan,Cailiao Daobao/Materials Reports
-nan,Seminars in Thrombosis and Hemostasis
-"13th IEEE Integrated STEM Education Conference, ISEC 2023","13th IEEE Integrated STEM Education Conference, ISEC 2023"
-"2022 International Conference on Frontiers of Information Technology, FIT 2022","Proceedings - 2022 International Conference on Frontiers of Information Technology, FIT 2022"
-"2023 IEEE BiCMOS and Compound Semiconductor Integrated Circuits and Technology Symposium, BCICTS 2023","2023 IEEE BiCMOS and Compound Semiconductor Integrated Circuits and Technology Symposium, BCICTS 2023"
-"18th IEEE Nanotechnology Materials and Devices Conference, NMDC 2023","2023 IEEE Nanotechnology Materials and Devices Conference, NMDC 2023"
-"10th Mediterranean Conference on Embedded Computing, MECO 2021","2021 10th Mediterranean Conference on Embedded Computing, MECO 2021"
-"Joint of the Workshops, Work in Progress Demos and Doctoral Consortium at the 9th International Symposium on End-User Development, WWDD@IS-EUD 2023",CEUR Workshop Proceedings
-"2021 ASEE Virtual Annual Conference, ASEE 2021","ASEE Annual Conference and Exposition, Conference Proceedings"
-"28th Annual Conference on Innovation and Technology in Computer Science Education, ITiCSE 2023","Annual Conference on Innovation and Technology in Computer Science Education, ITiCSE"
-"49th EATCS International Conference on Automata, Languages, and Programming, ICALP 2022","Leibniz International Proceedings in Informatics, LIPIcs"
-"2021 IEEE International Parallel and Distributed Processing Symposium Workshops, IPDPSW 2021","2021 IEEE International Parallel and Distributed Processing Symposium Workshops, IPDPSW 2021 - In conjunction with IEEE IPDPS 2021"
-6th International Conference on Smart City Applications,"International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences - ISPRS Archives"
-"5th International Conference on Contemporary Computing and Informatics, IC3I 2022","Proceedings of 5th International Conference on Contemporary Computing and Informatics, IC3I 2022"
-"54th ACM Technical Symposium on Computer Science Education, SIGCSE 2023",SIGCSE 2023 - Proceedings of the 54th ACM Technical Symposium on Computer Science Education
-"19th Annual ACM International Computing Education Research Conference, ICER 2023",ICER 2023 - Proceedings of the 2023 ACM Conference on International Computing Education Research V.1
-"53rd Annual ACM Technical Symposium on Computer Science Education, SIGCSE 2022",SIGCSE 2022 - Proceedings of the 53rd ACM Technical Symposium on Computer Science Education
-"29th International Conference on Computers in Education Conference, ICCE 2021","29th International Conference on Computers in Education Conference, ICCE 2021 - Proceedings"
-"8th International Conference on Computer Technology Applications, ICCTA 2022",ACM International Conference Proceeding Series
-"14th International Conference on Computer Supported Education, CSEDU 2022","International Conference on Computer Supported Education, CSEDU - Proceedings"
-"13th International Conference on Computational Creativity, ICCC 2022","Proceedings of the 13th International Conference on Computational Creativity, ICCC 2022"
-"International Symposium of Geoscience, Oil and Gas Engineering, Sustainable and Environmental Technology 2020, GEOSOSTEK 2020",IOP Conference Series: Earth and Environmental Science
-"4th International Conference on Computing, Electronics and Communications Engineering, iCCECE 2021","Proceedings - 2021 International Conference on Computing, Electronics and Communications Engineering, iCCECE 2021"
-"2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems, MODELS-C 2023","Proceedings - 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion, MODELS-C 2023"
-"8th International Conference on Informatics and Computing, ICIC 2023","2023 8th International Conference on Informatics and Computing, ICIC 2023"
-"17th International Conference on Electronics Computer and Computation, ICECCO 2023","Proceedings - 2023 17th International Conference on Electronics Computer and Computation, ICECCO 2023"
-"35th IEEE International Conference on Software Engineering Education and Training, CSEE and T 2023","Software Engineering Education Conference, Proceedings"
-"10th ACM Conference on Learning @ Scale, L@S 2023",L@S 2023 - Proceedings of the 10th ACM Conference on Learning @ Scale
-"17th IEEE Conference on Industrial Electronics and Applications, ICIEA 2022",ICIEA 2022 - Proceedings of the 17th IEEE Conference on Industrial Electronics and Applications
-"9th IEEE International Conference on Sciences of Electronics, Technologies of Information and Telecommunications, SETIT 2022","2022 IEEE 9th International Conference on Sciences of Electronics, Technologies of Information and Telecommunications, SETIT 2022"
-"2021 Genetic and Evolutionary Computation Conference, GECCO 2021",GECCO 2021 - Proceedings of the 2021 Genetic and Evolutionary Computation Conference
-"6th International Workshop on Advanced Algorithms and Control Engineering, IWAACE 2022",Proceedings of SPIE - The International Society for Optical Engineering
-"2022 IEEE International Conference on Computing, ICOCO 2022","2022 IEEE International Conference on Computing, ICOCO 2022"
-"9th International Conference on Information Technology: IoT and Smart City, ICIT 2021",ACM International Conference Proceeding Series
-"30th Italian Symposium on Advanced Database Systems, SEBD 2022",CEUR Workshop Proceedings
-"52nd ACM Technical Symposium on Computer Science Education, SIGCSE 2021",SIGCSE 2021 - Proceedings of the 52nd ACM Technical Symposium on Computer Science Education
-"13th International Scientific and Practical Programming Conference, UkrPROG 2022",CEUR Workshop Proceedings
-"7th International Conference on Education and Technology, ICET 2021","Proceedings - 2021 7th International Conference on Education and Technology, ICET 2021"
-"18th WiPSCE Conference in Primary and Secondary Computing Education Research, WiPSCE 2023",ACM International Conference Proceeding Series
-"2nd International Conference on Computing and Data Science, CONF-CDS 2021",Journal of Physics: Conference Series
-"22nd International Conference on Advances in ICT for Emerging Regions, ICTer 2022","22nd International Conference on Advances in ICT for Emerging Regions, ICTer 2022"
-"2nd IEEE International Conference on Power, Electronics and Computer Applications, ICPECA 2022","2022 IEEE 2nd International Conference on Power, Electronics and Computer Applications, ICPECA 2022"
-"2023 ACM Southeast Conference, ACMSE 2023",ACMSE 2023 - Proceedings of the 2023 ACM Southeast Conference
-"53rd Annual ACM Technical Symposium on Computer Science Education, SIGCSE 2022",SIGCSE 2022 - Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V.2
-"4th International Conference on Information Systems and Computer Aided Education, ICISCAE 2021",ACM International Conference Proceeding Series
-"International Conference on Machine Learning and Big Data Analytics, ICMLBDA 2022",Springer Proceedings in Mathematics and Statistics
-"2020 Annual International Conference on Brain-Inspired Cognitive Architectures for Artificial Intelligence: Eleventh Annual Meeting of the BICA Society, BICA*AI 2020",Procedia Computer Science
-"2023 ASEE Annual Conference and Exposition - The Harbor of Engineering: Education for 130 Years, ASEE 2023","ASEE Annual Conference and Exposition, Conference Proceedings"
-"27th International Mining Congress and Exhibition of Turkey, IMCET 2022","Proceedings of the 27th International Mining Congress and Exhibition of Turkey, IMCET 2022"
-"28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD 2022",Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining
-"2nd International Conference on Advance Computing and Innovative Technologies in Engineering, ICACITE 2022","2022 2nd International Conference on Advance Computing and Innovative Technologies in Engineering, ICACITE 2022"
-"22nd International Scientific Conference on Energy Management of Municipal Facilities and Sustainable Energy Technologies, EMMFT 2020",E3S Web of Conferences
-"129th ASEE Annual Conference and Exposition: Excellence Through Diversity, ASEE 2022","ASEE Annual Conference and Exposition, Conference Proceedings"
-"21st Koli Calling International Conference on Computing Education Research, Koli Calling 2021",ACM International Conference Proceeding Series
-"2023 International Conference on Intelligent Systems for Communication, IoT and Security, ICISCoIS 2023","Proceedings of the 2023 International Conference on Intelligent Systems for Communication, IoT and Security, ICISCoIS 2023"
-"18th Conference on Theoretical Aspects of Rationality and Knowledge, TARK 2021","Electronic Proceedings in Theoretical Computer Science, EPTCS"
-"5th United Kingdom and Ireland Computing Education Research, UKICER 2023",ACM International Conference Proceeding Series
-"3rd International Workshop on Current Information Security and Compliance Issues in Information Systems Research, CIISR 2023",CEUR Workshop Proceedings
-"3rd International Conference on Research and Learning of Physics, ICRLP 2020",Journal of Physics: Conference Series
-"13th International Conference on Education Technology and Computers, ICETC 2021",ACM International Conference Proceeding Series
-"22nd IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology, WI-IAT 2023","Proceedings - 2023 22nd IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology, WI-IAT 2023"
-"2022 IEEE Creative Communication and Innovative Technology, ICCIT 2022","2022 IEEE Creative Communication and Innovative Technology, ICCIT 2022"
-"2023 International Conference on Electrical Engineering and Informatics, ICEEI 2023",Proceedings of the International Conference on Electrical Engineering and Informatics
-"2022 International Conference on Data Science and Intelligent Computing, ICDSIC 2022","2022 International Conference on Data Science and Intelligent Computing, ICDSIC 2022"
-"2022 IEEE Frontiers in Education Conference, FIE 2022","Proceedings - Frontiers in Education Conference, FIE"
-"42nd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science, FSTTCS 2022","Leibniz International Proceedings in Informatics, LIPIcs"
-"45th Jubilee International Convention on Information, Communication and Electronic Technology, MIPRO 2022","2022 45th Jubilee International Convention on Information, Communication and Electronic Technology, MIPRO 2022 - Proceedings"
-"2nd ACM Conference on Global Computing Education, CompEd 2023",CompEd 2023 - Proceedings of the ACM Conference on Global Computing Education
-"21st IEEE International Conference on Advanced Learning Technologies, ICALT 2021","Proceedings - IEEE 21st International Conference on Advanced Learning Technologies, ICALT 2021"
-"2021 International Conference on Computer Graphics, Artificial Intelligence, and Data Processing, ICCAID 2021",Proceedings of SPIE - The International Society for Optical Engineering
-"3rd International Conference on Education Development and Studies, ICEDS 2022",ACM International Conference Proceeding Series
-"42nd International Conference on Conceptual Modeling: ER Forum, 7th Symposium on Conceptual Modeling Education, SCME 2023, Project Exhibitions, Posters and Demos, and Doctoral Consortium, ER-Companion 2023",CEUR Workshop Proceedings
-"8th Iberoamerican Workshop on Human-Computer Interaction, HCI-COLLAB 2022",CEUR Workshop Proceedings
-"36th IEEE International Parallel and Distributed Processing Symposium Workshops, IPDPSW 2022","Proceedings - 2022 IEEE 36th International Parallel and Distributed Processing Symposium Workshops, IPDPSW 2022"
-"8th Workshop on Practical Aspects of Automated Reasoning, PAAR 2022",CEUR Workshop Proceedings
-"5th International Conference on Computing Methodologies and Communication, ICCMC 2021","Proceedings - 5th International Conference on Computing Methodologies and Communication, ICCMC 2021"
-"24th Australasian Computing Education Conference, ACE 2022,  held in conjunction with Australasian Computer Science Week",ACM International Conference Proceeding Series
-"22nd International Carpathian Control Conference, ICCC 2021","2021 22nd International Carpathian Control Conference, ICCC 2021"
-"2022 Information Systems and Grid Technologies, ISGT 2022",CEUR Workshop Proceedings
-"4th ACM Conference on Fairness, Accountability, and Transparency, FAccT 2021","FAccT 2021 - Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency"
-"2022 Augmented Humans Conference, AHs 2022",ACM International Conference Proceeding Series
-"32nd IEEE International Symposium on Industrial Electronics, ISIE 2023",IEEE International Symposium on Industrial Electronics
-"2022 IEEE International Conference on Systems, Man, and Cybernetics, SMC 2022","Conference Proceedings - IEEE International Conference on Systems, Man and Cybernetics"
-"1st International Conference on Technologies for Smart Green Connected Society 2021, ICTSGS 2021",ECS Transactions
-"2022 International Conference on Information and Knowledge Management Workshops, CIKM-WS 2022",CEUR Workshop Proceedings
-"29th CIPA Symposium on Documenting, Understanding, Preserving Cultural Heritage. Humanities and Digital Technologies for Shaping the Future","International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences - ISPRS Archives"
-"3rd International Conference on Education, Knowledge and Information Management, ICEKIM 2022","Proceedings - 2022 3rd International Conference on Education, Knowledge and Information Management, ICEKIM 2022"
+"11th ACM Workshop on Information Hiding and Multimedia Security, IH and MMSec 2023",IH and MMSec 2023 - Proceedings of the 2023 ACM Workshop on Information Hiding and Multimedia Security
+"14th International Conference on Emerging Ubiquitous Systems and Pervasive Networks / 13th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare, EUSPN/ICTH 2023",Procedia Computer Science
+"19th International Workshop on Data Management on New Hardware, DaMoN 2023","Proceedings of the 19th International Workshop on Data Management on New Hardware, DaMoN 2023"
+"11th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data, BigSpatial 2023",BigSpatial 2023 - Proceedings of the 11th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data
+"29th ACM Symposium on Operating Systems Principles, SOSP 2023",SOSP 2023 - Proceedings of the 29th ACM Symposium on Operating Systems Principles
+"18th International Symposium on Spatial and Temporal Data, SSTD 2023",ACM International Conference Proceeding Series
+"31st ACM International Conference on Multimedia, MM 2023",MM 2023 - Proceedings of the 31st ACM International Conference on Multimedia
+"27th International Conference on Database Theory, ICDT 2024","Leibniz International Proceedings in Informatics, LIPIcs"
+"1st Workshop on Verifiable Database Systems, VDBS 2023",ACM International Conference Proceeding Series
+"14th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, ACM-BCB 2023","ACM-BCB 2023 - 14th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics"
+"5th International Conference on Information Technology and Computer Communications, ITCC 2023",ACM International Conference Proceeding Series
+"30th ACM SIGSAC Conference on Computer and Communications Security, CCS 2023",CCS 2023 - Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security
+"14th International Conference on E-business, Management and Economics, ICEME 2023",ACM International Conference Proceeding Series
+"29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD 2023",Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining
+"2023 ACM/SIGMOD International Conference on Management of Data, SIGMOD 2023",Proceedings of the ACM SIGMOD International Conference on Management of Data
+"12th International Conference on Software and Information Engineering, ICSIE 2023",ACM International Conference Proceeding Series
+"8th International Conference on Control Engineering and Artificial Intelligence, CCEAI 2024",ACM International Conference Proceeding Series
+"14th ACM/IEEE International Conference on Cyber-Physical Systems, with CPS-IoT Week 2023, ICCPS 2023",ICCPS 2023 - Proceedings of the 2023 ACM/IEEE 14th International Conference on Cyber-Physical Systems with CPS-IoT Week 2023
 "2023 International Conference on Computer, Vision and Intelligent Technology, ICCVIT 2023",ACM International Conference Proceeding Series
-"22nd ACM/IEEE Joint Conference on Digital Libraries, JCDL 2022",Proceedings of the ACM/IEEE Joint Conference on Digital Libraries
-"2022 ACM Conference on Equity andAccess in Algorithms, Mechanisms, and Optimization, EAAMO 2022",ACM International Conference Proceeding Series
-"55th Annual Conference on Information Sciences and Systems, CISS 2021","2021 55th Annual Conference on Information Sciences and Systems, CISS 2021"
-"9th IFAC Conference on Networked Systems, NECSYS 2022",IFAC-PapersOnLine
-"2023 SPE/IADC Middle East Drilling Technology Conference and Exhibition, MEDT 2023",Proceedings of the SPE/IADC Middle East Drilling Technology Conference and Exhibition
-"13th IEEE Global Engineering Education Conference, EDUCON 2022","IEEE Global Engineering Education Conference, EDUCON"
-"37th Annual European Simulation and Modelling Conference, ESM 2023","Modelling and Simulation 2023 - European Simulation and Modelling Conference 2023, ESM 2023"
-"2021 IEEE Global Engineering Education Conference, EDUCON 2021","IEEE Global Engineering Education Conference, EDUCON"
-"2023 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems, SIGMETRICS 2023",SIGMETRICS 2023 - Abstract Proceedings of the 2023 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems
-"2nd Annual Meeting of the International Society of the Learning Sciences, ISLS 2022","Proceedings of International Conference of the Learning Sciences, ICLS"
-"6th World Symposium on Communication Engineering, WSCE 2023","2023 6th World Symposium on Communication Engineering, WSCE 2023"
-"36th International Cosmic Ray Conference, ICRC 2019",Proceedings of Science
-"23rd IEEE International Conference of Young Professionals in Electron Devices and Materials, EDM 2022","International Conference of Young Specialists on Micro/Nanotechnologies and Electron Devices, EDM"
-"1st International Conference of Intelligent Methods, Systems and Applications, IMSA 2023","1st International Conference of Intelligent Methods, Systems and Applications, IMSA 2023"
-"24th International Academic Mindtrek Conference, Mindtrek 2021",ACM International Conference Proceeding Series
-"2021 International Conference on Internet, Education and Information Technology, IEIT 2021","Proceedings - 2021 International Conference on Internet, Education and Information Technology, IEIT 2021"
-"2022 International Conference on Digital Transformation and Intelligence, ICDI 2022","2022 International Conference on Digital Transformation and Intelligence, ICDI 2022 - Proceedings"
-"23rd International Conference on Computing Education Research, Koli Calling 2023",ACM International Conference Proceeding Series
-"3rd International Workshop on Software Engineering Education for the Next Generation, SEENG 2021","Proceedings - 2021 3rd International Workshop on Software Engineering Education for the Next Generation, SEENG 2021"
-"3rd IEEE International Conference on Computer Science and Educational Informatization, CSEI 2021","2021 IEEE 3rd International Conference on Computer Science and Educational Informatization, CSEI 2021"
-"16th International Conference on Computer-Supported Collaborative Learning, CSCL 2023","Computer-Supported Collaborative Learning Conference, CSCL"
-"16th ACM Asia Conference on Computer and Communications Security, ASIA CCS 2021",ASIA CCS 2021 - Proceedings of the 2021 ACM Asia Conference on Computer and Communications Security
-"16th International Conference of the Learning Sciences, ICLS 2022","Proceedings of International Conference of the Learning Sciences, ICLS"
-"2nd IEEE International Conference on Data Science and Computer Application, ICDSCA 2022","2022 IEEE 2nd International Conference on Data Science and Computer Application, ICDSCA 2022"
-"International Conference Joint with the 34th International Olympiad in Informatics, IOI 2022",Olympiads in Informatics
-"17th Workshop in Primary and Secondary Computing Education, WiPSCE 2022",ACM International Conference Proceeding Series
-"2021 IEEE International Symposium on Information Theory, ISIT 2021",IEEE International Symposium on Information Theory - Proceedings
-"2nd Asia-Pacific Conference on Communications Technology and Computer Science, ACCTCS 2022","Proceedings - 2022 2nd Asia-Pacific Conference on Communications Technology and Computer Science, ACCTCS 2022"
-"25th International Conference on Electromagnetics in Advanced Applications, ICEAA 2023","2023 International Conference on Electromagnetics in Advanced Applications, ICEAA 2023"
-"2022 IEEE International Conference on Knowledge Engineering and Communication Systems, ICKES 2022","IEEE International Conference on Knowledge Engineering and Communication Systems, ICKES 2022"
-"17th International Conference on Wirtschaftsinformatik, WI 2022","17th International Conference on Wirtschaftsinformatik, WI 2022"
-"11th Computer Science Education Research Conference, CSERC 2022",ACM International Conference Proceeding Series
-"33rd International Conference for High Performance Computing, Networking, Storage and Analysis: Science and Beyond, SC 2021","International Conference for High Performance Computing, Networking, Storage and Analysis, SC"
-"37th AAAI Conference on Artificial Intelligence, AAAI 2023","Proceedings of the 37th AAAI Conference on Artificial Intelligence, AAAI 2023"
-"2022 Informatik in den Naturwissenschaften, INFORMATIK 2022 - 2022 Computer Science in the Natural Sciences, INFORMATIK 2022","Lecture Notes in Informatics (LNI), Proceedings - Series of the Gesellschaft fur Informatik (GI)"
-"45th Annual Meeting and Symposium of the Antenna Measurement Techniques Association, AMTA 2023","45th Annual Meeting and Symposium of the Antenna Measurement Techniques Association, AMTA 2023 - Proceedings"
-"56th Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2023","Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2023"
-"9th Annual ACM Conference on Learning at Scale, L@S 2022",L@S 2022 - Proceedings of the 9th ACM Conference on Learning @ Scale
-"5th IEEE World Engineering Education Conference, EDUNINE 2021","EDUNINE 2021 - 5th IEEE World Engineering Education Conference: The Future of Engineering Education: Current Challenges and Opportunities, Proceedings"
-"16th IEEE International Conference on Computer Science and Education, ICCSE 2021",ICCSE 2021 - IEEE 16th International Conference on Computer Science and Education
-"16th Workshop in Primary and Secondary Computing Education, WiPSCE 2021",ACM International Conference Proceeding Series
-"4th IEEE/ACM Workshop on Gender Equity, Diversity, and Inclusion in Software Engineering, GEICSE 2023","Proceedings - 2023 IEEE/ACM 4th Workshop on Gender Equity, Diversity, and Inclusion in Software Engineering, GEICSE 2023"
-"2021 ACM SIGPLAN International Symposium on SPLASH-E, SPLASH-E 2021, co-located with SPLASH 2021","SPLASH-E 2021 - Proceedings of the 2021 ACM SIGPLAN International Symposium on SPLASH-E, co-located with SPLASH 2021"
-"22nd Koli Calling International Conference on Computing Education Research, Koli Calling 2022",ACM International Conference Proceeding Series
-"46th ICT and Electronics Convention, MIPRO 2023","2023 46th ICT and Electronics Convention, MIPRO 2023 - Proceedings"
-"7th International Conference on Intelligent, Interactive Systems and Applications, IISA2022",Procedia Computer Science
-"8th Conference on Computing Education Practice, CEP 2024",ACM International Conference Proceeding Series
-"2021 IEEE Symposium on Visual Languages and Human-Centric Computing, VL/HCC 2021","Proceedings of IEEE Symposium on Visual Languages and Human-Centric Computing, VL/HCC"
-"50th Annual Conference of the European Society for Engineering Education, SEFI 2022","SEFI 2022 - 50th Annual Conference of the European Society for Engineering Education, Proceedings"
-"2nd IEEE International Conference on Mobile Networks and Wireless Communications, ICMNWC 2022","2022 IEEE 2nd International Conference on Mobile Networks and Wireless Communications, ICMNWC 2022"
-"21st International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2022","Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems, AAMAS"
-"12th International Conference on Computer Communication and Informatics, ICCCI 2022","2022 International Conference on Computer Communication and Informatics, ICCCI 2022"
-"2nd IEEE Asia-Pacific Conference on Image Processing, Electronics and Computers, IPEC 2021","Proceedings of IEEE Asia-Pacific Conference on Image Processing, Electronics and Computers, IPEC 2021"
-"2021 International Science and Technology Conference on Earth Science, ISTCEarthScience 2021",IOP Conference Series: Earth and Environmental Science
-"9th International Conference on Wireless Networks and Mobile Communications, WINCOM 2022","Proceedings - 2022 9th International Conference on Wireless Networks and Mobile Communications, WINCOM 2022"
-"2021 International Conference on Optoelectronic Materials and Devices, ICOMD 2021",Proceedings of SPIE - The International Society for Optical Engineering
-"3rd International Conference on Computer Vision, Image and Deep Learning and International Conference on Computer Engineering and Applications, CVIDL and ICCEA 2022","2022 3rd International Conference on Computer Vision, Image and Deep Learning and International Conference on Computer Engineering and Applications, CVIDL and ICCEA 2022"
-"21st IEEE International Conference on Industrial Informatics, INDIN 2023",IEEE International Conference on Industrial Informatics (INDIN)
-"2022 IMEKO TC-4 International Conference on Metrology for Archaeology and Cultural Heritage, MetroArchaeo 2022","2022 IMEKO TC-4 International Conference on Metrology for Archaeology and Cultural Heritage, MetroArchaeo 2022"
-"28th Brazilian Symposium on Multimedia and Web, WebMedia 2022",ACM International Conference Proceeding Series
-"24th International Conference on Advanced Communication Technology, ICACT 2022","International Conference on Advanced Communication Technology, ICACT"
-"2021 International Conference on Information Systems and Computer Engineering, ISCE 2021",Journal of Physics: Conference Series
-"2023 IEEE International Conference on Teaching, Assessment and Learning for Engineering, TALE 2023","2023 IEEE International Conference on Teaching, Assessment and Learning for Engineering, TALE 2023 - Conference Proceedings"
-"2021 Genetic and Evolutionary Computation Conference, GECCO 2021",GECCO 2021 Companion - Proceedings of the 2021 Genetic and Evolutionary Computation Conference Companion
-"4th Augmented Humans International Conference, AHs 2023",ACM International Conference Proceeding Series
-"Joint of the 20th European Semantic Web Conference - Workshops and Tutorials, ESWC-JP 2023",CEUR Workshop Proceedings
-"31st Annual European Symposium on Algorithms, ESA 2023","Leibniz International Proceedings in Informatics, LIPIcs"
-"11th International IEEE/EMBS Conference on Neural Engineering, NER 2023","International IEEE/EMBS Conference on Neural Engineering, NER"
+"14th ACM Symposium on Cloud Computing, SoCC 2023",SoCC 2023 - Proceedings of the 2023 ACM Symposium on Cloud Computing
+"18th ACM ASIA Conference on Computer and Communications Security, ASIA CCS 2023",Proceedings of the ACM Conference on Computer and Communications Security
+"8th International Conference on Multimedia Systems and Signal Processing, ICMSSP 2023",ACM International Conference Proceeding Series
+"2023 Genetic and Evolutionary Computation Conference Companion, GECCO 2023 Companion",GECCO 2023 Companion - Proceedings of the 2023 Genetic and Evolutionary Computation Conference Companion
+"6th International Conference on Signal Processing and Machine Learning, SPML 2023",ACM International Conference Proceeding Series
+"Workshops of the EDBT/ICDT 2024 Joint Conference, EDBT/ICDT-WS 2024",CEUR Workshop Proceedings
+"27th International Database Engineered Applications Symposium, IDEAS 2023",ACM International Conference Proceeding Series
+"32nd International Symposium on High-Performance Parallel and Distributed Computing, HPDC 2023",HPDC 2023 - Proceedings of the 32nd International Symposium on High-Performance Parallel and Distributed Computing
+"16th International Symposium on Visual Information Communication and Interaction, VINCI 2023",ACM International Conference Proceeding Series
 "48th International Symposium on Mathematical Foundations of Computer Science, MFCS 2023","Leibniz International Proceedings in Informatics, LIPIcs"
-"22nd International Symposium INFOTEH-JAHORINA, INFOTEH 2023","2023 22nd International Symposium INFOTEH-JAHORINA, INFOTEH 2023"
-"8th International Conference on Smart and Sustainable Technologies, SpliTech 2023","2023 8th International Conference on Smart and Sustainable Technologies, SpliTech 2023"
-"3rd International Conference on Advanced Computing Technologies and Applications, ICACTA 2023","Proceedings of 3rd International Conference on Advanced Computing Technologies and Applications, ICACTA 2023"
-"2nd International Symposium on Artificial Intelligence for Medicine Sciences, ISAIMS 2021",ACM International Conference Proceeding Series
-"2nd IEEE International Conference on Educational Technology, ICET 2022","2022 IEEE 2nd International Conference on Educational Technology, ICET 2022"
-"24th Annual Conference on Information Technology Education, SIGITE 2023",SIGITE 2023 - Proceedings of the 24th Annual Conference on Information Technology Education
-"5th European Conference on Software Engineering Education, ECSEE 2023",ACM International Conference Proceeding Series
-"15th International Conference on Mathematics, Science and Technology Education, ICon-MaSTEd 2023",Journal of Physics: Conference Series
-"6th International Conference on Information Management and Technology, CIMTECH 2021",ACM International Conference Proceeding Series
-"16th European Conference on Computer Systems, EuroSys 2021",EuroSys 2021 - Proceedings of the 16th European Conference on Computer Systems
-"40th International Symposium on Theoretical Aspects of Computer Science, STACS 2023","Leibniz International Proceedings in Informatics, LIPIcs"
-"2nd International Workshop on Social Communication and Information Activity in Digital Humanities, SCIA 2023",CEUR Workshop Proceedings
-"2022 IEEE Asia-Pacific Conference on Computer Science and Data Engineering, CSDE 2022","Proceedings of IEEE Asia-Pacific Conference on Computer Science and Data Engineering, CSDE 2022"
-"17th INDIACom; 2023 10th International Conference on Computing for Sustainable Global Development, INDIACom 2023","Proceedings of the 17th INDIACom; 2023 10th International Conference on Computing for Sustainable Global Development, INDIACom 2023"
-"2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing, AACL-IJCNLP 2022",2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing - Findings of the Association for Computational Linguistics: AACL-IJCNLP 2022
-"1st IEEE International Conference on Applied Intelligence and Sustainable Computing, ICAISC 2023","International Conference on Applied Intelligence and Sustainable Computing, ICAISC 2023"
-"27th ACM Conference on Innovation and Technology in Computer Science Education, ITiCSE 2022","Annual Conference on Innovation and Technology in Computer Science Education, ITiCSE"
-"11th International Conference on System Modeling and Advancement in Research Trends, SMART 2022","Proceedings of the 2022 11th International Conference on System Modeling and Advancement in Research Trends, SMART 2022"
-"6th International Conference on Education and Multimedia Technology, ICEMT 2022",ACM International Conference Proceeding Series
-"2022 CHI Conference on Human Factors in Computing Systems, CHI 2022",Conference on Human Factors in Computing Systems - Proceedings
-"2023 ACM International Conference on Interactive Media Experiences, IMX 2023",IMX 2023 - Proceedings of the 2023 ACM International Conference on Interactive Media Experiences
-"73rd International Astronautical Congress, IAC 2022","Proceedings of the International Astronautical Congress, IAC"
-"30th IEEE International Conference on Software Analysis, Evolution and Reengineering, SANER 2023","Proceedings - 2023 IEEE International Conference on Software Analysis, Evolution and Reengineering, SANER 2023"
-"2022 IEEE International Conference on Cognitive and Computational Aspects of Situation Management, CogSIMA 2022","Proceedings - 2022 IEEE International Conference on Cognitive and Computational Aspects of Situation Management, CogSIMA 2022"
-"2nd International Conference on Robotics, Automation and Intelligent Control, ICRAIC 2022",Journal of Physics: Conference Series
-"22nd IEEE International Conference on Data Mining Workshops, ICDMW 2022","IEEE International Conference on Data Mining Workshops, ICDMW"
-"30th ACM International Conference on Information and Knowledge Management, CIKM 2021","International Conference on Information and Knowledge Management, Proceedings"
-"51st Annual Conference of the European Society for Engineering Education, SEFI 2023","SEFI 2023 - 51st Annual Conference of the European Society for Engineering Education: Engineering Education for Sustainability, Proceedings"
-"7th International Conference on Advanced Computing and Communication Systems, ICACCS 2021","2021 7th International Conference on Advanced Computing and Communication Systems, ICACCS 2021"
-"34th Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2023",Proceedings of the Annual ACM-SIAM Symposium on Discrete Algorithms
-"5th Practice and Experience in Advanced Research Computing Conference: Evolution Across All Dimensions, PEARC 2021",ACM International Conference Proceeding Series
-"9th International Conference on Computing and Artificial Intelligence, ICCAI 2023",ACM International Conference Proceeding Series
-"6th IEEE International Conference on Computer and Communication Systems, ICCCS 2021","2021 IEEE 6th International Conference on Computer and Communication Systems, ICCCS 2021"
-"The 2023 International Conference on Display Technology, (ICDT 2023)",Digest of Technical Papers - SID International Symposium
-"3rd International Conference on Advances in Computer Technology, Information Science and Communication, CTISC 2021","Proceedings - 2021 3rd International Conference on Advances in Computer Technology, Information Science and Communication, CTISC 2021"
-"4th IEEE International Conference on Quantum Computing and Engineering, QCE 2023","Proceedings - 2023 IEEE International Conference on Quantum Computing and Engineering, QCE 2023"
+"2nd ACM SIGSPATIAL International Workshop on Searching and Mining Large Collections of Geospatial Data, GeoSearch 2023",GeoSearch 2023 - Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Searching and Mining Large Collections of Geospatial Data
+"23rd Edition of the ACM Internet Measurement Conference, IMC 2023","Proceedings of the ACM SIGCOMM Internet Measurement Conference, IMC"
+"25th International Conference on Grey Literature: Confronting Climate Change with Trusted Grey Resources, GL 2023",GL-Conference Series: Conference Proceedings
+"55th Annual ACM Symposium on Theory of Computing, STOC 2023",Proceedings of the Annual ACM Symposium on Theory of Computing
+"2023 ACM Turing Award Celebration Conference, CHINA 2023","Proceedings of ACM Turing Award Celebration Conference, CHINA 2023"
+"2023 Free and Open Source Software for Geospatial, FOSS4G 2023","International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences - ISPRS Archives"
+"2023 CoNEXT Student Workshop, CoNEXT-SW 2023",CoNEXT-SW 2023 - Proceedings of the CoNEXT Student Workshop 2023
+"22nd ACM/IEEE International Conference on Information Processing in Sensor Networks, IPSN 2023",IPSN 2023 -  Proceedings of the 2023 22nd International Conference on Information Processing in Sensor Networks
+"7th Workshop on Data Management for End-To-End Machine Learning, DEEM 2023","Proceedings of the 7th Workshop on Data Management for End-To-End Machine Learning, DEEM 2023"
+"8th Conference on Computing Education Practice, CEP 2024",ACM International Conference Proceeding Series
+"46th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2023",SIGIR 2023 - Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval
+"1st Workshop on Simplicity in Management of Data, SiMoD 2023",ACM International Conference Proceeding Series
+"2nd International Conference of the Greece ACM SIGCHI Chapter, CHIGreece 2023",ACM International Conference Proceeding Series
+"7th ACM SIGSPATIAL International Workshop on Geospatial Humanities, GeoHumanities 2023",GeoHumanities 2023 - Proceedings of the 7th ACM SIGSPATIAL International Workshop on Geospatial Humanities
+"23rd International Conference on Computing Education Research, Koli Calling 2023",ACM International Conference Proceeding Series
+"7th International Conference on Video and Image Processing, ICVIP 2023",ACM International Conference Proceeding Series
+"7th International Conference on Big Data and Internet of Things, BDIOT 2023",ACM International Conference Proceeding Series
+"29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP 2024","Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, PPOPP"
+"31st ACM Joint Meeting European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/FSE 2023",ESEC/FSE 2023 - Proceedings of the 31st ACM Joint Meeting European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+"31st ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM SIGSPATIAL GIS 2023",GIS: Proceedings of the ACM International Symposium on Advances in Geographic Information Systems
+"18th European Conference on Computer Systems, EuroSys 2023","Proceedings of the 18th European Conference on Computer Systems, EuroSys 2023"
+"International Conference on Artificial Intelligence, Blockchain, Computing and Security, ICABCS 2023","Artificial Intelligence, Blockchain, Computing and Security - Proceedings of the International Conference on Artificial Intelligence, Blockchain, Computing and Security, ICABCS 2023"
+"42nd ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems, PODS 2023",Proceedings of the ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems
+"16th International Conference on Theory and Practice of Electronic Governance, ICEGOV 2023",ACM International Conference Proceeding Series
+"18th Conference of the European Chapter of the Association for Computational Linguistics, EACL 2024 - Findings of EACL 2024","EACL 2024 - 18th Conference of the European Chapter of the Association for Computational Linguistics, Findings of EACL 2024"
+"19th Workshop on Hot Topics in Operating Systems, HotOS 2023",HotOS 2023 - Proceedings of the 19th Workshop on Hot Topics in Operating Systems
+"34th ACM Conference on Hypertext and Social Media, HT 2023",HT 2023 - The 34th ACM Conference on Hypertext and Social Media
+"2023 International Conference on Electronics, Computers and Communication Technology, CECCT 2023",ACM International Conference Proceeding Series
+"2023 ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization, EAAMO 2023",ACM International Conference Proceeding Series
+"37th ACM International Conference on Supercomputing, ICS 2023",Proceedings of the International Conference on Supercomputing
+"12th International Symposium on Mobile Mapping Technology, MMT 2023","International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences - ISPRS Archives"
+"12th International Conference on Networks, Communication and Computing, Conference Proceedings, ICNCC 2023",ACM International Conference Proceeding Series
+"2023 Workshop on Human-In-the-Loop Data Analytics, HILDA 2023 - Co-located with SIGMOD 2023",HILDA 2023 - Workshop on Human-In-the-Loop Data Analytics - Co-located with SIGMOD 2023
+"18th International Conference on Ubiquitous Information Management and Communication, IMCOM 2024","Proceedings of the 2024 18th International Conference on Ubiquitous Information Management and Communication, IMCOM 2024"
+"2024 International Conference on Electronics, Information, and Communication, ICEIC 2024","2024 International Conference on Electronics, Information, and Communication, ICEIC 2024"
+"29th CIPA Symposium on Documenting, Understanding, Preserving Cultural Heritage. Humanities and Digital Technologies for Shaping the Future","International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences - ISPRS Archives"
+"27th ACM International Systems and Software Product Line Conference, SPLC 2023",ACM International Conference Proceeding Series
+"32nd ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2023",ISSTA 2023 - Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis
+2022 Geoinformation Week: Broadening Geospatial Science and Technology,"International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences - ISPRS Archives"
+"3rd International Conference on Bioinformatics and Intelligent Computing, BIC 2023",ACM International Conference Proceeding Series
+"26th International Conference on Database Theory, ICDT 2023","Leibniz International Proceedings in Informatics, LIPIcs"
+"54th ACM Technical Symposium on Computer Science Education, SIGCSE 2023",SIGCSE 2023 - Proceedings of the 54th ACM Technical Symposium on Computer Science Education
+"7th International Conference on Electronics, Materials Engineering and Nano-Technology, IEMENTech 2023","2023 7th International Conference on Electronics, Materials Engineering and Nano-Technology, IEMENTech 2023"
+"2023 IEEE International Conference on Visual Communications and Image Processing, VCIP 2023","2023 IEEE International Conference on Visual Communications and Image Processing, VCIP 2023"
+"13th International Conference on Dependable Systems, Services and Technologies, DESSERT 2023","2023 13th International Conference on Dependable Systems, Services and Technologies, DESSERT 2023"
+"2023 IEEE Latin American Conference on Computational Intelligence, LA-CCI 2023","2023 IEEE Latin American Conference on Computational Intelligence, LA-CCI 2023"
+"8th International Conference on Information Technology and Digital Applications, ICITDA 2023",ICITDA 2023 - Proceedings of the 2023 8th International Conference on Information Technology and Digital Applications
+"2023 International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies, 3ICT 2023","2023 International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies, 3ICT 2023"
+"21st OITS International Conference on Information Technology, OCIT 2023","OCIT 2023 - 21st International Conference on Information Technology, Proceedings"
+"1st Workshop on Computational Terminology in NLP and Translation Studies, ConTeNTS 2023","Computational Terminology in NLP and Translation Studies, ConTeNTS 2023 - Incorporating the 16th Workshop on Building and Using Comparable Corpora, BUCC 2023, associated with 14th International Conference on Recent Advances in Natural Language Processing 2023, RANLP 2023 - Proceedings"
 "8th International Conference on Information and Education Innovations, ICIEI 2023",ACM International Conference Proceeding Series
-"4th International Conference on Electronics and Sustainable Communication Systems, ICESC 2023","2023 4th International Conference on Electronics and Sustainable Communication Systems, ICESC 2023 - Proceedings"
-2022 Findings of the Association for Computational Linguistics: EMNLP 2022,Findings of the Association for Computational Linguistics: EMNLP 2022
-"2022 International Conference on Computing, Design and Making in Education, FabLearn Europe / MakeEd 2022",ACM International Conference Proceeding Series
-"2022 Conference on Infrared, Millimeter, Terahertz Waves and Applications, IMT 2022",Proceedings of SPIE - The International Society for Optical Engineering
-"30th IEEE International Conference on Image Processing, ICIP 2023","Proceedings - International Conference on Image Processing, ICIP"
-"6th International Workshop on Cultures of Participation in the Digital Age, CoPDA 2022",CEUR Workshop Proceedings
-"10th and 11th International Workshop on Trends in Functional Programming in Education, TFPIE 2021 and 2022","Electronic Proceedings in Theoretical Computer Science, EPTCS"
-"17th Innovations in Software Engineering Conference,  ISEC 2024",ACM International Conference Proceeding Series
-"15th International Conference on Computer Supported Education, CSEDU 2023","International Conference on Computer Supported Education, CSEDU - Proceedings"
-"2021 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software, Onward! 2021, co-located with SPLASH 2021","Onward! 2021 - Proceedings of the 2021 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software, co-located with SPLASH 2021"
+"17th Workshop on Recent Advances in Slavonic Natural Language Processing, RASLAN 2023",Recent Advances in Slavonic Natural Language Processing
+"2023 International Conference on Integration of Computational Intelligent System, ICICIS 2023","2023 International Conference on Integration of Computational Intelligent System, ICICIS 2023"
+"6th International Conference on Electronics, Communications and Control Engineering, ICECC 2023",ACM International Conference Proceeding Series
+"3rd International Conference on Intelligent Cybernetics Technology and Applications, ICICyTA 2023","2023 3rd International Conference on Intelligent Cybernetics Technology and Applications, ICICyTA 2023"
+"2023 Symposium on Internet of Things, SIoT 2023","2023 Symposium on Internet of Things, SIoT 2023"
+"11th International Symposium on Computing and Networking, CANDAR 2023","Proceedings - 2023 11th International Symposium on Computing and Networking, CANDAR 2023"
+"2023 International Conference on Computer Network Security and Software Engineering, CNSSE 2023",Proceedings of SPIE - The International Society for Optical Engineering
+"8th ACM SIGIR Conference on Human Information Interaction and Retrieval, CHIIR 2023",CHIIR 2023 - Proceedings of the 2023 Conference on Human Information Interaction and Retrieval
+"11th International Symposium on Computing and Networking Workshops, CANDARW 2023","Proceedings - 2023 11th International Symposium on Computing and Networking Workshops, CANDARW 2023"
+"3rd IEEE International Conference on ICT in Business Industry and Government, ICTBIG 2023","3rd IEEE International Conference on ICT in Business Industry and Government, ICTBIG 2023"
+"2023 World Wide Web Conference, WWW 2023","ACM Web Conference 2023 - Companion of the World Wide Web Conference, WWW 2023"
+"2nd International Conference on Ambient Intelligence in Health Care, ICAIHC 2023","2023 2nd International Conference on Ambient Intelligence in Health Care, ICAIHC 2023"
+"2023 CHI Conference on Human Factors in Computing Systems, CHI 2023",Conference on Human Factors in Computing Systems - Proceedings
+"4th International Workshop on Computational Approaches to Historical Language Change, LChange 2023","LChange 2023 - 4th International Workshop on Computational Approaches to Historical Language Change 2023, Proceedings"
+"2023 Learning. Knowledge. Data. Analytics, LWDA 2023",CEUR Workshop Proceedings
+"2023 Smart Systems Integration Conference and Exhibition, SSI 2023","2023 Smart Systems Integration Conference and Exhibition, SSI 2023"
+"26th International Conference on Extending Database Technology, EDBT 2023",Advances in Database Technology - EDBT
+"4th IEEE International Conference on Computing, Communication, and Intelligent Systems, ICCCIS 2023","Proceedings - 4th IEEE 2023 International Conference on Computing, Communication, and Intelligent Systems, ICCCIS 2023"
+"2023 International Conference on Recent Advances in Science and Engineering Technology, ICRASET 2023","International Conference on Recent Advances in Science and Engineering Technology, ICRASET 2023"
+"11th International Conference on Information Systems and Computing Technology, ISCTech 2023","Proceedings - 2023 11th International Conference on Information Systems and Computing Technology, ISCTech 2023"
+"9th IEEE International Conference on Smart Structures and Systems, ICSSS 2023","IEEE 9th International Conference on Smart Structures and Systems, ICSSS 2023"
+"2023 IEEE Symposium on Visualization for Cyber Security, VizSec 2023","Proceedings - 2023 IEEE Symposium on Visualization for Cyber Security, VizSec 2023"
+"2023 IEEE International Joint Conference on Biometrics, IJCB 2023","2023 IEEE International Joint Conference on Biometrics, IJCB 2023"
+"2023 Computer Applications and Technological Solutions, CATS 2023","2023 Computer Applications and Technological Solutions, CATS 2023"
+"2nd International Conference on Intelligent Computing and Next Generation Networks, ICNGN 2023","Proceedings of 2023 2nd International Conference on Intelligent Computing and Next Generation Networks, ICNGN 2023"
+"3rd International Conference on Advanced Computing Technologies and Applications, ICACTA 2023","Proceedings of 3rd International Conference on Advanced Computing Technologies and Applications, ICACTA 2023"
+"2nd International Conference on Artificial Intelligence and Intelligent Information Processing, AIIIP 2023","Proceedings - 2023 2nd International Conference on Artificial Intelligence and Intelligent Information Processing, AIIIP 2023"
+"9th International Conference on Big Data and Information Analytics, BigDIA 2023","2023 9th International Conference on Big Data and Information Analytics, BigDIA 2023 - Proceedings"
+"9th International Conference on Big Data Computing and Communications, BigCom 2023","Proceedings - 2023 9th International Conference on Big Data Computing and Communications, BigCom 2023"
+"38th Annual ACM Symposium on Applied Computing, SAC 2023",Proceedings of the ACM Symposium on Applied Computing
+"2023 IEEE International Conference on Next Generation Electronics, NEleX 2023","2023 International Conference on Next Generation Electronics, NEleX 2023"
+"28th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP 2023","Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, PPOPP"
+"10th International Scientific Conference ""Information Technology and Implementation"", IT and I-WS 2023",CEUR Workshop Proceedings
+"1st International Conference on Recent Developments in Electronics and Communication Systems, RDECS 2022",Advances in Transdisciplinary Engineering
+"2023 5th International Conference on Artificial Intelligence and Computer Applications, ICAICA 2023","2023 5th International Conference on Artificial Intelligence and Computer Applications, ICAICA 2023"
+"2nd IEEE North Karnataka Subsection Flagship International Conference, NKCon 2023",Proceedings of NKCon 2023 - 2nd IEEE North Karnataka Subsection Flagship International Conference
+"1st IEEE Afro-Mediterranean Conference on Artificial Intelligence, AMCAI 2023","2023 1st IEEE Afro-Mediterranean Conference on Artificial Intelligence, AMCAI 2023 - Proceedings"
+"16th IEEE Malaysia International Conference on Communication, MICC 2023","2023 IEEE 16th Malaysia International Conference on Communication: Smart Digital Communication for Humanity, MICC 2023 - Proceedings"
+"6th International Conference on Information and Communications Technology, ICOIACT 2023","2023 6th International Conference on Information and Communications Technology, ICOIACT 2023"
+"11th IEEE International Conference on Systems and Control, ICSC 2023","2023 IEEE 11th International Conference on Systems and Control, ICSC 2023"
+"7th International Conference on Machine Learning and Soft Computing, ICMLSC 2023",ACM International Conference Proceeding Series
+"19th Machine Translation Summit, MT Summit 2023",MT Summit 2023 - Proceedings of 19th Machine Translation Summit
+"9th International Conference on Computing and Artificial Intelligence, ICCAI 2023",ACM International Conference Proceeding Series
+"6th ACM India Joint International Conference on Data Science and Management of Data, CODS-COMAD 2023",ACM International Conference Proceeding Series
+"11th International Conference on Affective Computing and Intelligent Interaction, ACII 2023","2023 11th International Conference on Affective Computing and Intelligent Interaction, ACII 2023"
+"28th International Conference on Intelligent User Interfaces, IUI 2023","International Conference on Intelligent User Interfaces, Proceedings IUI"
+"4th International Informatics and Software Engineering Conference, IISEC 2023","4th International Informatics and Software Engineering Conference - Symposium Program, IISEC 2023"
+"11th IEEE International Conference on Intelligent Computing and Information Systems, ICICIS 2023","Proceedings - 11th IEEE International Conference on Intelligent Computing and Information Systems, ICICIS 2023"
+"12th IEEE International Conference on Communication, Networks and Satellite, COMNETSAT 2023","Proceeding - COMNETSAT 2023: IEEE International Conference on Communication, Networks and Satellite"
+"2023 Conference on Empirical Methods in Natural Language Processing, EMNLP 2023","EMNLP 2023 - 2023 Conference on Empirical Methods in Natural Language Processing, Proceedings"
+"2023 International Conference on Data Science, Agents and Artificial Intelligence, ICDSAAI 2023","2023 International Conference on Data Science, Agents and Artificial Intelligence, ICDSAAI 2023"
+"28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS 2023",International Conference on Architectural Support for Programming Languages and Operating Systems - ASPLOS
+"2023 International Conference on the Confluence of Advancements in Robotics, Vision and Interdisciplinary Technology Management, IC-RVITM 2023","2023 International Conference on the Confluence of Advancements in Robotics, Vision and Interdisciplinary Technology Management, IC-RVITM 2023"
+"3rd International Conference on Emerging Frontiers in Electrical and Electronic Technologies, ICEFEET 2023","2023 3rd International Conference on Emerging Frontiers in Electrical and Electronic Technologies, ICEFEET 2023"
+"21st International Conference on Advanced Robotics, ICAR 2023","2023 21st International Conference on Advanced Robotics, ICAR 2023"
+"1st IEEE Colombian Caribbean Conference, C3 2023","1st IEEE Colombian Caribbean Conference, C3 2023"
+"6th IEEE Pune Section International Conference, PuneCon 2023","2023 IEEE Pune Section International Conference, PuneCon 2023"
+"7th International Conference on Electronics, Communication and Aerospace Technology, ICECA 2023","7th International Conference on Electronics, Communication and Aerospace Technology, ICECA 2023 - Proceedings"
+"2nd International Conference on Advances in Computational Intelligence and Communication, ICACIC 2023","2023 2nd International Conference on Advances in Computational Intelligence and Communication, ICACIC 2023"
+"22nd International Conference of the Biometrics Special Interest Group, BIOSIG 2023",BIOSIG 2023 - Proceedings of the 22nd International Conference of the Biometrics Special Interest Group
+"3rd IEEE International Conference on Intelligent Technology and Embedded Systems, ICITES 2023","2023 IEEE 3rd International Conference on Intelligent Technology and Embedded Systems, ICITES 2023"
+"2023 International Conference on Electronics and Devices, Computational Science, ICEDCS 2023","Proceedings - 2023 International Conference on Electronics and Devices, Computational Science, ICEDCS 2023"
+"4th International Conference on Computers, Information Processing and Advanced Education, CIPAE 2023","Proceedings - 2023 International Conference on Computers, Information Processing and Advanced Education, CIPAE 2023"
+"7th IEEE International Conference of Computer Science and Information Technology, ICOSNIKOM 2023","2023 IEEE International Conference of Computer Science and Information Technology: The Role of Artificial Intelligence Technology in Human and Computer Interactions in the Industrial Era 5.0, ICOSNIKOM 2023"
+"50th Computing in Cardiology, CinC 2023",Computing in Cardiology
+"3rd International Conference on Evolutionary Computing and Mobile Sustainable Networks, ICECMSN 2023",Procedia Computer Science
+"8th IEEE International Conference on Smart Cloud, SmartCloud 2023","Proceedings - 2023 IEEE 8th International Conference on Smart Cloud, SmartCloud 2023"
+"62nd Annual Conference of the Society of Instrument and Control Engineers, SICE 2023","2023 62nd Annual Conference of the Society of Instrument and Control Engineers, SICE 2023"
+"9th IEEE International Conference on Smart Instrumentation, Measurement and Applications, ICSIMA 2023","ICSIMA 2023 - 9th IEEE International Conference on Smart Instrumentation, Measurement and Applications"
+"14th International Conference on Intelligent Systems: Theories and Applications, SITA 2023",Proceedings - SITA 2023: 2023 14th International Conference on Intelligent Systems: Theories and Applications
+"2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems, MODELS-C 2023","Proceedings - 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion, MODELS-C 2023"
+"6th International Conference on Applied Computational Intelligence in Information Systems, ACIIS 2023","2023 6th International Conference on Applied Computational Intelligence in Information Systems: Intelligent and Resilient Digital Innovations for Sustainable Living, ACIIS 2023 - Proceedings"
+"3rd International Conference on Innovative Sustainable Computational Technologies, CISCT 2023","Proceedings - 2023 3rd International Conference on Innovative Sustainable Computational Technologies, CISCT 2023"
+"5th International Conference on Control Systems, Mathematical Modeling, Automation and Energy Efficiency, SUMMA 2023","Proceedings - 2023 5th International Conference on Control Systems, Mathematical Modeling, Automation and Energy Efficiency, SUMMA 2023"
+"2023 International Conference on Radar, Antenna, Microwave, Electronics, and Telecommunications, ICRAMET 2023","Proceeding - 2023 International Conference on Radar, Antenna, Microwave, Electronics, and Telecommunications: Empowering Global Progress: Innovative Electronic and Telecommunication Solutions for a Sustainable Future, ICRAMET 2023"
+"3rd International Conference on Machine Learning and Big Data Analytics for IoT Security and Privacy, SPIoT2023",Procedia Computer Science
+"2023 IEEE International Workshop on Mechatronics Systems Supervision, IW_MSS 2023","2023 IEEE International Workshop on Mechatronics Systems Supervision, IW_MSS 2023"
+"19th International Symposium on Medical Information Processing and Analysis, SIPAIM 2023","Proceedings of the 19th International Symposium on Medical Information Processing and Analysis, SIPAIM 2023"
+2023 Findings of the Association for Computational Linguistics: EMNLP 2023,Findings of the Association for Computational Linguistics: EMNLP 2023
+"2023 IEEE High Performance Extreme Computing Conference, HPEC 2023","2023 IEEE High Performance Extreme Computing Conference, HPEC 2023"
+"2nd International Workshop on Social Communication and Information Activity in Digital Humanities, SCIA 2023",CEUR Workshop Proceedings
+"23rd IEEE International Symposium on Computational Intelligence and Informatics, CINTI 2023","IEEE 23rd International Symposium on Computational Intelligence and Informatics, CINTI 2023 - Proceedings"
+"8th IEEE Asia Pacific Conference on Wireless and Mobile, APWiMob 2023","Proceedings - 2023 IEEE Asia Pacific Conference on Wireless and Mobile, APWiMob 2023"
+"2nd International Conference on Data Analytics, Computing and Artificial Intelligence, ICDACAI 2023","Proceedings - 2023 2nd International Conference on Data Analytics, Computing and Artificial Intelligence, ICDACAI 2023"
+"3rd International Conference on Biological Engineering and Medical Science, ICBioMed 2023",Proceedings of SPIE - The International Society for Optical Engineering
+"6th IEEE Conference on Dependable and Secure Computing, DSC 2023","Proceedings - 2023 IEEE Conference on Dependable and Secure Computing, DSC 2023"
+"8th International Conference on Informatics and Computing, ICIC 2023","2023 8th International Conference on Informatics and Computing, ICIC 2023"
+"13th Annual IEEE Global Humanitarian Technology Conference, GHTC 2023","2023 IEEE Global Humanitarian Technology Conference, GHTC 2023"
+"6th International Conference on Informatics and Data-Driven Medicine, IDDM 2023",CEUR Workshop Proceedings
+"1st Workshop on Generalisation (Benchmarking) in NLP, GenBench 2023","GenBench 2023 - GenBench: 1st Workshop on Generalisation (Benchmarking) in NLP, Proceedings"
+15th ITG Conference on Speech Communication,Speech Communication - 15th ITG Conference
+"19th IEEE International Conference on e-Business Engineering, ICEBE 2023","Proceedings - 2023 IEEE International Conference on e-Business Engineering, ICEBE 2023"
+37th EnviroInfo 2023,"Lecture Notes in Informatics (LNI), Proceedings - Series of the Gesellschaft fur Informatik (GI)"

@@ -1,2055 +1,2017 @@
 keywords
-COVID-19
-epidemiology
-non structural proteins
-pandemic
-pharma-covigilance
-SARS-CoV-2
-variant
-Data Science
-Machine Learning
-Statistics
-Syntax Guided Synthesis
-local search
-metaheuristic
-minimum dominating set
-search space reduction
-vertex weighting
-Brain-Computer Interface(BCI)
-Brain-inspired intelligence
-Experimental paradigm
-Spiking Neural Network(SNN)
-Abstract Positivstellensatz
-Ordered semiring
-Real algebra
-Tropical algebra
-Vergleichsstellensatz
-Higher education
-interdisciplinary
-leadership
-multidisciplinary
-PBL
-team-based learning
-undergraduate
-vertically integrated projects (VIP)
-Message passing libraries
-MPI
-MPICH
-Translational computer science
-algorithm
-approaches
-calculate
-construction tasks
-historical view
-mathematics
-Electron density
-Electron-density heterogeneity correction
-Non-linear least squares regression
-Radiological properties
-Radiotherapy
-boundary representation
-finite element methods
-foam
-material science
-tomography
-Clinical practice guidelines
-Computer-interpretable clinical guidelines
-Decision-support systems
-Evidence-based medicine
-FHIR
-bibliometric analysis
-older adults
-scientometric analysis
-smart home
-VOSviewer
-accessible
-findable
-integrations for data analysis
-interoperable and reusable (FAIR)
-open research data (ORD)
-workflow
-Analytical
-Orbital elements
-Spacecraft dynamics
-Spacecraft formation flying
-Spacecraft relative motion
-Adaptive learning
-attention monitoring
-distance learning
-electroencephalography (EEG)
-intelligent tutoring systems
-learning management systems
-online learning
-Automatic assessment tools
-computer science education
-creativity
-distances
-scratch
-digital systems
-interactive
-virtual laboratory
-web-based
-action unit detection
-Affective computing
-facial expression recognition
-case series
-neuropathology
-aperture antennas
-Near field analysis
-physical optics
-spatial-frequency characteristics
-ultra-wideband antennas
-eLearning
-Face-to-face learning
-Health care professions
-Hematology
-Human pathophysiology
-Nursing
-Technology enhanced learning
-Finite model theory
-Finitely additive measures
-Formal languages
-Logic on words
-Stone duality
-Structural limits
+digital watermarking
+histogram shifting
+prediction error.
+reversible database watermarking
+administration tools
+concept of the Internet of Things
+educational platforms
+microservice technologies
+scientometrics
+selection of scientific partners
+B+ tree
+cache-aware layout
+in-memory index
+learned index
+spatial relationship query
+Interval Adjustment
+Query Processing
+Temporal Data
+Temporal Joins
+database system
+FPGA
+large key
+sorting
+wide table
 deep learning
-light sheet
-segmentation
-vasculature
-zebrafish
-E-learning
-learning management systems (LMS)
-modular object-oriented dynamic learning environment (Moodle)
-social network analysis (SNA)
-trust model (TM)
-virtual learning communities (VLCs)
-AI and software engineering
-Automatic program repair
-neural machine translation
-Breast cancer
-Convolutional neural network
-H&E-stained histological images
-HER2
-Recurrence
-butterfly fire algorithm
-clustering coefficient
-detection of communities
-Social network
-API event
-Behavioral sciences
-dynamic heterogeneous graph
-Hidden Markov models
-inverse reinforcement learning
-Malware
-malware attack foretelling
-proactively preventing
-Real-time systems
-Reinforcement learning
-Semantics
-Sensitivity
-Dynamic optimization
-Emergency escape
-Human-computer interaction
-Mixed reality
-Underground mines
-Acceptance
-Interdisciplinary project
-Lifelogging applications
-Privacy
-5G and beyond
-deep reinforcement learning (DRL)
-Internet of Things (IoT)
-intrusion detection system (IDS)
-allergy
-anaphylaxis
-cardiac arrest
-coronary disease
-Kounis syndrome
-Active learning
-computer-based instruction
-educational technology
-game-based learning (GBL)
-serious games
-teacher-authored games
-Centroid classifier
-Internet of Things
-IoT
-N-gram
-Service discovery
-Support vector machine
-Text categorization
-integer factorization
-multiplication table
-quantum annealing
-QUBO
-RSA public key cryptography
-automobility
-confluence
-re-configuration
-system
-transition
-consistency testing
-Dark instruction
-RISC processor
-vulnerability
-ADL
-Classification
-Embedded architecture
-Fall detection
-Behaviour profiling
-Connected cars
-Cybersecurity threat
-Driver identification
-GPS
-Incident response
-Machine learning
-Random forest
-Event
-Scientific literature
-Summarization
-Text analysis
-Advanced resource connector
-ARCHERY
-Distributed computing
-Domain Name System
-e-Science
-Information system
-Service endpoint registry
-WLCG
-GNSS
-Ionosphere
-Low cost
-Monitor
-Raspberry pi
-Scintillation
-Scintpi
-TEC
-Total electron content
-Artificial intelligence
-Big data
-City brand influence
-Computational social science
-Evolutionary dynamics
-Global city
-Adaptive sampling
-Evolutionary algorithms
-Noisy optimization
-Population
-Running time analysis
-Sampling
-avalanche breakdown
-entropy source
-open-source hardware
-Random number generator
-reverse-biased diode
-Antenatal care
-Postpartum women
-Satisfaction
-bone strength
-bone tissue material properties
-near infrared spectroscopy
-Cover relation
-Enabling cover relation
-Enabling equivalence
-Exact cover relation
-Functional equivalence
-Lattice
-Reaction
-Reaction system
-architecture
-autocad
-computer-aided design
-emulation
-pedagogy
-software history
-Alternating direction method of multipliers
-convex optimization
-expected convergence rate
-high probability bound
-machine learning
-stochastic approximation
-Clifford geometric algebra
-computing
-control
-data processing
-electric engineering
-geometry
-image and signal processing
-medical science
-neural networks
-physics
-quantum computing
-robotics
-software
-surface representations
-BOD
-DNA
-EDNA
-EDNA detection device
-Effluent
-Influent
-Missing persons
-Persistence
-Persons of Interest
-Sewer system
-Wastewater
-WWTP
-artificial intelligence
-mathematical modeling
-piezoelectric materials
-problem-solving
-smart problem
-BDLA risk management
-Blockade and defense level analysis
-Cybersecurity risk assessment
-Enhanced security control
-IT risk management
-Angong Niuhuang Pills
-bibliometrics
-CiteSpace
-research status
-D-optimality
-Information matrix
-Mixture of Bernoulli distributions
-Attention-based neural network
-Cell subtype classification
-Cloud system
-Deep learning-based framework
-Self attention
-Single-cell multi-omics
-Web platform
-axillary dissection
-breast cancer
-metastasis
-Computer Science
-Diagram understanding
-topology
-Older adults
-PET brain scan
-qualitative interviews
-recruitment science
-study design
-Hemodialysis
-Meta-analysis
-Non-pharmacological intervention
-Protocol
-Sleep
-Computational methods
-Computer science
-Deep learning
-Engineering science and mechanics
-Sustainable energy
-Wind engineering
-Computer arithmetic
-quality analysis and evaluation
-stochastic analysis
-tracing
-visualization techniques and methodologies
-Children’s environmental health
-Developmental and reproductive toxicity testing
-High-throughput screening
-In silico modeling
-In vitro profiling
-New approach methodologies (NAMs)
-Pediatric health
-cybernetics
-human–machine systems
-manual control
-3D technology
-Crania
-Digital documentation
-Forensic anthropology
-Forensic science
-Photogrammetry
-Sex assessment
-Black
-girls
-intersectionality
-Latina
-STEM
-transformative justice
-women
-Computed tomography
-Pulmonologist
-Radiography
-Radiology
-Thorax
-academic citations
-Researcher’s success
-scholarly communication
-social media
-social networking sites
-Acquired Brain Injury
-Adaptation
-Evolutionary computing
-Experimentation
-Feature Model
-Genetic algorithm
-Telerehabilitation
-User model
-Anatomical TSR
-Basic Science Study
-Computer Modeling
-Cortical bone
-Freehand
-Glenoid loosening
-Preoperative planning
-Subchondral bone
-coding
-computer programming
-data science
-digital biomarkers
-digital medicine
-gait
-gait analysis
-human movement analysis
-mobility
-movement
-open source
-physical activity
-Python
-sensor
-sleep
-software package
-uHealth
-wearable
-wearable sensors
-balanced minimum evolution
-distance matrix
-gradient descent
-phylogenetic inference
-Artistic design
-Computer aided design
-Intelligent computer
-Web interpolation
-dimensionality reduction
-ensemble model
-Parkinson's disease
-Speech data
-voting classi¯er
-Building vulnerability
-Gaziantep
-Ground motion simulation
-Regional velocity model
-Seismic damage
-Seismic hazard
-Turkey
-AMD GPU
-code optimization
-cross compilation
-Kokkos
-Nvidia GPU
-behavior-based worm detection
-Internet worm
-mirai worm
-smart worm
-worm detection
-Autonomous perception
-computer vision
-global-local feature enhanced
-rotated object detector
-unmanned aerial vehicles (UAVs)
-citizen science
-digital humanities
-educational video games
-Gamification
-participatory design
-social innovation
-conservation law
-homotopy
-invariant transformations
-Lie symmetry
-spectral method
-21st-century abilities
-Data science applications in education
-Human–computer interface
-Teaching/learning strategies
-data provenance
-graph neural network
-Host-based intrusion detection
-multimodel framework
-Android OS
-Malware detection
-security
-forensics
-kinship verification
-paternity test
-short tandem repeats
-analytical expressions
-clear height
-compartment fire
-mathematical aspects
-tenability
-zone model
-Citation network
-CitNetExplorer
-Neurorehabilitation
-New technologies
-Computer sciences
-Energy
-Material sciences
-Physics
-Applications
-edge networks
-emerging technologies
-visual Internet of Things (VIoT)
-decision support
-hybrid neural network
-interpretable ML
-physics-informed ML
-waste management
-CNC machine
-Digital manufacturing
-Network science
-Pairwise comparison
-Product development
-QFD
-Anomaly detection
-embedded systems
-intelligent sensors
-smart junctions
-surveillance systems
-25 (OH) vitamin D
-length of hospital stay
-Fairness
-Graph neural network
-Link prediction
-Chemoradiotherapy
-Esophageal cancer
-Immunotherapy
-Radiosensitivity
-Formal verification
-model checking
-procedural content generation
-puzzle games
-video game description language
-Autocorrelated errors
-Interaction network
-Multilevel wavelet decomposition
-Stock price prediction
-Communicating things
-Energy-efficiency
-Group communication
-Memory complexity
-Message-passing
-Rekeying
-Security
-climate modeling
-eddy moisture flux
-extratropical cyclones
-INM-СМ5
-storm tracks
-stratosphere–troposphere dynamic coupling
-stratospheric polar vortex
-Circuit/system codesign
-magnetic tunnel junction (MTJ)
-Monte Carlo
-true random number generator (TRNG)
-data and data science
-machine vision
-safety
-vehicle technologies
-Colorings
-Gibbs measure
-Ising model
-Sampling algorithm
-Spin systems
-event-based artificial neural networks (event-based ANN)
-Leaky integrate-and-fire (LIF) model
-network on chip (NoC)
-neuromorphic systems
-spiking neural network (SNN)
-Bioinformatics
-Cognitive Neuroscience
-Systems biology
-Context
-Perception
-Prevalence
-Reference dependence
-Social cognition
-biometeorological indices
-citizen scientists
-climatological observations
-meteorological network
-weather data
-WRF data assimilation
-experience report
-flipped classroom (FC)
-inverted classroom
-laboratory
-basic science
-Benign prostate disorders
-oncology (bladder)
-oncology (prostate)
-other
-Model predictive control
-Sports intelligent learning
-System feedback delay
-Hierarchical singly-linked lists
-Learning automata
-Object migration automaton
-“Adaptive” data structures
-color vision
-computational modeling
-contrast sensitivity
-factor analysis
-spatial vision
-Consensus protocol
-Distributed ledger
-Hospitals
-Protocols
-Robustness
-Scalability
-3D-Printing
-air
-complex
-Design
-evaluation
-FDM
-filter
-flow
-photocatalysis
-simulation
-SLA
-structures
-AMIP
-CMIP6
-Cut-off low
-Northeast China cold vortex
-Westerly jet
-Cell culture
-Microscopy
-Neuroscience
-Tissue engineering
-edge collaboration
-multi-agent DDPG
-Trust evaluation
-wireless virtual reality
-Longest common substring
-Quantum walks
-String processing
-String synchronizing sets
-Online technologies in education
-Software engineering education
-Technology-enhanced learning
-Virtual learning environment
-brain science
-communication science
-Cardiovascular disease
-Coronary heart disease
-Diet
-Dose–response meta-analysis
-Legumes
-Pulses
-Stroke
-Computational modeling
-conceptual framework
-Encoding
-Human computer interaction
-Psychology
-structured literature analysis
-Visualization
-visualization
-Energy management
-Peer-to-peer interaction
-Population mobility network
-Spatial accessibility
-dependability evaluation
-docker
-Hardware-in-loop experimentation
-ns-3
-Data science
-Engineering
-High-throughput
-Microfluidics
-Modeling
-Organoids
-Synthetic embryology
-Mental disorder
-Mental health
-Modalities
-Physiological signals
-Scientometric analysis
-Actor-critic network
-adaptive formation control
-motion planning
-multiple autonomous underwater vehicles (AUVs)
-obstacle avoidance
-Binning
-Biodegradation
-Carbamazepine
-Ibuprofen
-Metagenomics
-Metatranscriptomics
-Nocardioides carbamazepini
-Classical machine learning
-Demographic and clinical features
-Lung cancer
-Survival period prediction
-clustered data
-conditional cash transfer program
-heterogeneous treatment effects
-multilevel data
-optimal treatment regimes
-optimal treatment rules
-personalized learning
-Q-learning
-weighting
-antibacterial
-caries
-infection
-mechanism
-nanomaterial
-oral cavity
-periodontitis
-pulp and periapical disease
-dominance
-paired comparison
-personality trait
-Rating
-submissiveness
-virtual characters
-ASIC
-blockchain
-cryptocurrency
-GPU
-hardware
-materiality
-TPU
-Diagnosis
-Image analysis
-Oral and maxillofacial pathology
-Predictive modelling
-computer simulation
-computer-aided simulation
-functional coatings
-resistance of contact
-technical surfaces
-Biological sciences applications
-Differential equations
-Mathematical modeling
-Assembly Processes
-Augmented Reality
-Evaluation
-Industry 4.0
-Mixed Reality
-bicelle
-micelle
-nanodisc
-salipro(r)
-SAXS
-Data space
-GPU architecture
-k-shape algorithm
-time series analysis
-time series clustering
-Cerebral hemorrhage
-Guided stereotactic
-Intracranial hematoma
-Citespace
-collaborative network
-medical imaging
-ovarian cancer
-Bert
-Multiple choice questions
-Natural language processing
-Tf-idf
-Cone beam computed tomography
-Facial soft tissue thickness
-Forensic dentistry
-Forensic facial reconstruction
-Forensic imaging
-Forensic sciences
-Human identification
-Radiological examination
-Health misinformation
-Survey
-Text mining
-Action potential
-Cardiac electrophysiology
-Computational science
-Control systems
-Controllability
-Electrical alternans
-Mathematical biosciences
-State feedback
-Interatomic potentials
-Molecular dynamics
-Neural networks
-Performance portability
-Scaling
-Compressed full-text self-indices
-Grammar compression
-Highly repetitive text collections
-Text indexing
-Health sciences
-Stunting detection
-analysis
-measurement
-rotary encoder
-tree ring
-upper computer
-approximate nearest neighbor search
-Cloud computing
-local sensitive hashing
-secure outsourcing
-Cryptanalysis
-Cubic Pell equation
-Lattice-based method
-RSA variant
-Small private exponent attack
-digital education
-digital education governance
-digital technology
-knowledge graph
-Airway clearance
-DeCHOKER®
-FBAO
-LifeVac®
-Nursing and medical students
-Simulation
-drug discovery
-generative models
-graph neural networks
-Computers
-Digital computers
-History
-Machinery
-Presses
-Valves
-intensive care unit
-moral sensitivity
-nurse education
-virtual patient simulation
-written simulation
-CT
-CT severity score
-Mortality
-Pneumonia
-anti-virus
-artificial neural networks
-insider threat
-numerical solutions
-optimization algorithm
-patching
-SEIQV model
-surrogate solutions
-system of differential equations
-Line width
-Microcontroller unit
-Temperature control
-Tunable lasers
-Wavelength division multiplexing
-Wavelength offset
-conditional false discovery rate
-empirical Bayes
-false discovery rate
-high-dimensional association study
-transcriptome-wide association study
-unsupervised learning
-Adaptive filtering
-PBFDAF
-steady-state solution
-transient behavior
-biomedical data
-data classification
-ECG signals
-improved bat algorithm
-accuracy-optimal quadrature formula
-Bessel transformation
-boundary functions method
-hat method
-interpolation classes of functions
-Dermato-Cosmetic Science
-Efficacy of cosmetic products and aesthetic treatments
-new approach methodologies (NAMs)
-Safety of cosmetic products
-Co-MOF
-Electrospun PAN
-On-demand emulsion separation
-Soluble dye removal
-Switchable superwettability
-agent’s expression
-Chatbots
-empathy agent
-Ethics
-human-agent interaction
-Human-robot interaction
-Robots
-Task analysis
-task completion
-task content
-task difficulty
-Accuracy estimates
-Bias
-Cherry-picking
-Data-driven methods
-Depression
-Optimal cutoff
-Colic
-Diclofenac
-Efficacy
-Medical Expulsive Therapy
-Mirabegron
-Ureteric stone
-5G technology
-Big data analytics
-Online hotel reviews
-Sentiment analysis
-Cardiac arrest
-Guidelines
-Post resuscitation care
-Prognostication
-Bone regeneration
-Exosome
-Extracellular vesicle
-Immunomodulation
-Outer membrane vesicle
-Periodontal disease
-Review
-Complex systems
-Complexity Science
-Complexity theory
-Correlation
-Fractals
-GPT Models
-Multifractal Analysis
-Natural Language Generation
-Quantitative Linguistics
-Recurrence Quantification Analysis
-"Text Classification,"
-Time series analysis
-Writing
-Zipf's Law
-Bibliometric analysis
-Cognitive map
-Digital turn
-Emotional turn
-Interdisciplinary perspective
-Neural turn
-Digital core
-Generative adversarial network
-Reconstruction
-Training image
-Variational auto-encoder
-Decision-making
-Dynamic regression model
-OFC
-PPI
-Regret
-VBM
-Art education
-Content Knowledge
-Creative thinking skills
-Pedagogy
-Student
-Denial-of-service attack
-event-triggered bipartite consensus
-multi-agent systems
-self-triggered control
-Child nutrition sciences
-Constipation
-Diet therapy
-Dietary fiber
-quantum entanglement
-quantum nonlocality
-rendezvous on graphs
-Enantioseparation
-Ferrocene
-Molecular modeling
-Noncovalent interactions
-Polysaccharide-based chiral stationary phases
-growth mixture modeling
-latent classes
-longitudinal
-Arch
-Custom
-Design and manufacture
-Effect
-Flatfoot
-Foot orthoses
-Orthopedic insole
-image reconstruction
-Monte Carlo simulation
-MRI
-optical imaging
-PET
-phantoms
-SPECT
-Artificial Intelligence
-Climate change
-Energy Sector
-Computer vision
-Data analysis
-Geospatial analysis
-Sports data science
-Deep Artificial Neural Network
-High-order neural interactions
-Orthogonal decomposition
-Polynomial chaos expansion
-Bioeconomic analysis
-cost
-euthanasia
-feral cat
-free-roaming cat
-neutering
-outdoor cat
-simulation modeling
-sterilization
-trap–neuter–return
-Satisfiability
-Stochastic local search
-Structured problems
-Two-mode solver
-data acquisition
-multisensor systems
-phased array radar
-tracking
-Bundle recommendation
-contrastive learning
-Convolution
-disentangled representation learning
-Multitasking
-Representation learning
-Routing
-Stress
-biometrics
-chimerism
-facial recognition
-fingerprint identification
-vascularized composite allotransplantation
-d-Claw free graphs
-Independent set
-Local search
-Weighted k-set packing
-automaton
-axiom
-computable function
-computing system
-distributed system
-theory
-Totalisation
-3D chiral metasurfaces
-circular polarized light detection
-focused electron beam induced deposition
-handedness-selectivity
-nanohelices
-phototransistors
-IL
-MIP
-Persistent organic pollutant
-Remove PFOA
-Dynamic distribution tariff
-Feasibility evaluation
-Participation cost
-Regulatory readiness
-Scoping review
-Technology readiness
-User convenience level
-meta-analysis
-middle-aged and elderly
-mild cognitive impairment
-mind-body exercise
-causal inference
-longitudinal data
-marginal structural model
-observational study
-structural nested mean model
-D3.js
-performance
-rendering
-SVG
-virtual DOM
-Visualization systems
-Diffusion spreadability
-Heterogeneous materials
-Hyperuniformity
-Inhomogeneous diffusion
-Clustering
-Feature learning
-Multi-view learning
-Neighbor domain correlation
-Computer science education
-educational robots
-formal and informal learning
-human-computer interaction (HCI)
-ICT platform
-programming
-robots
-technology-assisted learning
-Computer-aided diagnosis
-Convolutional neural networks
-Lung tumor detection
-Medical image classification CT scan images
-Medical Imaging
-Byzantine resilience
-distributed training
-optimization
-Resilience
-Servers
-Training
-Comprehension
-Figurative language processing
-Metaphor quality
-Vector space model
-Word2vec
-accurate double dominating set on m-PIVFG
-acurate dominating set on m-PIVFG
-double domination in m-PIVFG
-facility location problem
-m-PIVFG
-Emerging hardware
-High-performance computing
-Mathematical programming
-Optimization
-Quantum computing
-computational thinking
-computational thinking integration
-next generation science standards
-process-based computational thinking
-science education
-behavioral and social sciences
-depression and dementia
-nervous system
-Decision making ability
-Network security
-Network security protection
-Cyber-Physical Digital Twin
-Cybersecurity Enhancement
-Deep Learning (DL) Framework
-SGCS
-Social Science
-Cervical cancer
-Clinical trial monitoring
-Data analytics
-IGABT
-ISO/IEC 17 025
-ISO/IEC 27 037
-ISO/IEC 27 041
-ISO/IEC 27 042
-Method validation
-Quality standards
-Requirements definitions
-computational social science
-computer science
-decision making
-experimental economics
-experimental games
-livestock disease
-frame buffer
-pedestrian detection
-pose estimation
-Violent behavior
-bladder cancer
-controlling nutritional status
-prognostic factors
-upper tract urothelial carcinoma
-urothelial cancer
-novelty detection
-open set recognition
-visual psychophysics
-Biased competition
-Catastrophic forgetting
-Independent and identically distributed
-Regulatory feedback
-Rehearsing
-Salience
-ab initio molecular dynamics
-amorphous alloy
-battery electrochemistry
-corrosion
-first-principles calculations
-digital games
-feminist
-"learning, inquiry"
-sts
-blood coagulation
-hemodynamics
-platelets
-theoretical models
-Careers
-Computer Science Education
-Computing
-Expert Interviews
-Autonomous cyber defense
-Cyber automation
-Cyber resilience
-Cyber security
-Markov Decision Process
-Recovery
-Response
-cryogenic
-low temperature
-quantum science
-SiGe HBT
-silicon-germanium
-space exploration
-ad-hoc network
-AODV
-configuration of routing protocol
-fish school search
-network performance criterion
-OMNET++
-Collaborative Robots
-End-User Development
-Human-Machine Interaction
-Human-Robot Collaboration
-computer literacy
-CS2
-help
-programming competence
-student performance
-deletion channel
-graph reconstruction
-sample complexity
-cloud computing
-health sciences
-High performance computing
-modular supercomputer architecture
-parallel and distributed algorithms
-remote sensing
-3D
-Agent-Based Modeling
-Building Information Modeling
-Evacuation
-Risk Assessment
-Electronics
-etc
-Mechanical
-Radiation
-curriculum
-knowledge retention
-prerequisites
-anonymity
-course forums
-inclusion
-adaptive feedback tools
-equity
-gender
-race
-Mobile learning
-Pandemic
-Nand2Tetris
-VHDL
-comparison
-safety management
-social sciences
-Conceptions
-Data Storing and Manipulation
-Introductory Computer Science Courses
-Kintsch's Construction-integration Text-comprehension Model
-Main Memory
-Misconceptions
-Program Execution
-clinical diagnostic software
-healthcare protection
-medical software system
-software model evaluation
-MDE Education
-Modeling Assignments
-Modeling Plagiarism
-Plagiarism Detection
-Plagiarism Obfuscation
-framework
-ports
-process management
-Artificial Intelligence(AI)
-Computer Science Frameworks
-Heuristic Analysis
-Startup Matchmaking
-Technological Innovation
-collaborative base filtering
-content-based filtering
-fuzzy logic
-personalized system
-recommendation system
-agile
-agile tools
-Essence
-teamwork
-diversity
-MOOCs
-prep courses
-underrepresented minorities
-ADAMS
-Automatic adjustment
-Device
-Welding shielding gas
-Combating Cybercrime
-Cybercrime ICT initiative
-Information and Communication Technology (ICT)
-law enforcement
-Smart Policing
-Constructive heuristic
-Permutation flowshop
-Tiebreaker
-natural language processing
-text classification algorithms
-decision tree classifier
-internship
-job placement
-profile mapping
-undergraduate program
-Facebook
-HDP
-LDA
-Social Media
-Build environment
-Data mining
-Methodology
-Multidisciplinary
-Sustainability
-accessibility
-assignments
-gender gap
-linear algebra algorithms
-methods of structuring sparse matrices
-sparse matrices
-structural strength problems
-Borland delphi
-Feedback
-Learning system
-Non-game context
-Non-major CS
-Visual programming
-K-12
-measure
-student engagement
-OPC UA
-Power Grid
-Service Interoperability
-Deep Learning
-Hate speech detection
-Natural Language Processing
-Sinhala
-3D special effects technology
-Character modeling
-Computer
-Science fiction animation
-Visual design
-ethics
-news literacy
-academic emotions
-instrument validation
-peq.
-Basketball Teaching
-Computer Graphics
-Design Drawing
-Training Tactics
-ANN
-Nanotechnology
-help-seeking
-novice programming
-web-search
-Computer sciences education
-mechatronics
-preprofessional education
-VR
-Coal
-Lignite
-OHS
-SPSS
-data mining
-ethical ai
-Algorithm
-automatic assistance
-big data
+feature fusion
+video database
+video quality assessment
+Degree Constraints
+Join Sampling
+Polymatroid Bounds
+Subgraph Sampling
+Concurrency
+Merkle Trees
+Outsourced Databases
+Verifiable Databases
+enhancer-promoter interaction
+maximum flow
+negative set
+TransEPI
 classification
-clustering
-Data Acquisition
-Data Management
-Data processing
-Data protection
-data wrangling
-digital marketing
-digital transformation
-imputation
-Interpretation
-investigation
-probabilities
-regression
-statistics
-supervised learning
-co-design
-csdl
-middle school
-professional learning
-rpp
-button
-contextualization
-graphical user interface
-programming education
-Autoencoder
-CNN
-Dimensionality Reduction
-Facial Emotion Recognition
-block-based scaffolding
-multiple entry points
-Scratch
-UDL
-Computer Science education
-digital skills
-micro-credentials
-micro-provisions
-AI Ethics
-Design Principles
-Information Security
-Synthetic Image Data
-cs1
-grade distribution
-logistic regression
-ordinal data
-Digital Natives
-Extracurricular Learning
-GIGA Initiative
-ICT Education
-Smartphone Applications
-capstone course
-Covid-19
-DC regulated power supply
-engineering design process
-engineering technology
-Dataset
-Document
-Method
-Technologies
-Text Summarization
-Cognitive load
-Flipped classroom
-Teaching programming
-detection
-drones
-localization
-Academic Database
-Literature Review
-chromatic memory
-finite-memory strategies
-parity automata
-two-player games on graphs
-ω-regularity
-academia-industry gap
-computing ecosystem literacy
-student-led undergraduate course
-analytics
-higher education
-LA
-learning
-maturity
-analogical reasoning
-communication
-computing education
-engagement
-guided interview
-internet culture
-learning tool
-memes
-mental models
-popular culture
-understanding
-certified CS teachers
-CS certification process
-CS teacher shortage
-secondary school CS enrollment
-Augmented reality
-Collaborative problem solving
-Hidden Markov model
-Multimodal learning analytics
-Corner Feature
-Electronic Image
-Feature Point
-Image Stitching
-SIFT
-convolution kernels
-image super-resolution
-SRGAN
-1. Big Data
-2. Recommender system
-3. Scientific concepts
-4. Conceptual learning
-5. Understanding of X-transformation
-6. Personalized Learning
-Compliance
-GDPR
-Open-Source
-Software Development
-Software Reuse
-Academic performance
-Behavior
-Computer-Supported Collaborative Learning
-Content analysis
-Debugging
-High Performance Computing
-Message Passing
-Parallelism
-Workforce Development
-Automated Reasoning
-Non-classical Logics
-TPTP World
-Arduino Uno
-Bill generation
-html
-mysql
-php
-Stock monitoring
-Website development
-Code quality
-Code style
-Computing education
-K12
-Programming
-Qualitative study
-computer systems
-counternarratives
-location science
-PSO algorithm
-rescue service system
-uniformly deployed set
-CERT-RMM
-CMMI
-CMMI with Scrum
-cyber security
-DevOps
-European e-Competence Framework (e-CF)
-industry standards
-IT programs
-process-oriented models
-project-oriented learning
-quality assurance
-software methodologies
-software models
-TMMI
-Diversity
-Gender
-Gender representation
-Publishing
-Research
-Sex equality
-cognitive science
-experiential integration
-human augmentation
-human-computer integration
-phenomenology
-sense of self
-Permanent Magnet Synchronous Motor
-Recurrent Radial Basis Neural Network
-Speed Overshoot Reduction
-Graph Neural Network
-Hierarchical Reinforcement Learning
-Job Shop Scheduling Problem
-BCI
-Deep Neural Network (DNN)
-Electroencephalography (EEG)
-Motor Imagery
-co-curricular
-curriculum design
-curriculum development
-elementary
-integration
-K-5
-practices
-primary
-affective computing
-EEG
-wireless sensor networks
-Cosine Similarity
-Dice Co-efficient
-Jaccard's Similarity
-Azulejo
-Cataloguing
-Digital Art History
-Patterns
-Tiles
-VGG Image Search Engine
-VISE
-Visual Image Search
-flipped classroom
-gold tax
-high-quality offline open courses
-Operating System
-teaching reform
-deformable attention
-Nucleus segmentation
-U-Net
-Altmetrics
-Citation Count
-Research Impact
-Natural gradient methods
-Second-order methods
-SPSA
-Stochastic optimization
-Area coverage
-Cooperative control
-Multi-Agent systems
-In-service teachers
-Literature mapping
-Professional Development
-Automation
-Autonomous vehicles
-Behavioural science
-Computer Vision
-Facial recognition
-Human Factors
-Human-centred computing
-Human-Vehicle Interactions
-Image processing
-Model design
-Posture analysis
-Self-driving cars
-Sensor devices
-Transportation
-User centred design
-User models
-Computing Education
-Educational Design
-Higher Education
-Online Learning
-Remote Learning
-Study Behavior
-Study Environments
-deanonymization
-differential privacy
-peer review
-traffic analysis
-education
-learning lives
-platformization
-Depth images
-Force Feedback
-Haptic display
-Haptic Interfaces
-Haptic perception
-Tactile feedback
-Tactile Internet
-Tele-haptics
-Virtual Interaction
-Virtual reality
-Virtual shapes
-online
-problem-based learning
-project-based learning
-web technologies
-machine learning techniques
-students' academic performance
-systematic review
-automated assessment
-cybersecurity
-learning platform
-connectivity analysis
-electroencephalography processing
-functional magnetic resonance imaging
-resting-state functional networks
-game design
-game development
-game jams
-games
-quantum physics
-science games
-mentoring
-qualitative analysis
-undergraduate research
-College Physical Education Teaching
-Virtual Reality Technology
-constraints
-heuristic orderings
-perturbation
-university course timetabling problem
-method
-research
-theoretical construct
-academia-industry cooperation
-embedded software
-fault-injection
-gamification
-safety-critical systems
-software testing education
-combination of primitives
-Experimental schematic
-GDI + technology
-Graphics generation
-Primitive library
-adversarial detection
-adversarial example
-image classification
-computer
-multimedia database
-production technology
-three-dimensional animation
-virtual reality technology
-learning programming
-MOOC
-outreach to school
-processing
-workshops
-competition
-computer science for all
-digital teaching
-e-learning
-microlearning
-students
-High frequency small signal
-LC resonant circuit
-Multisim10
-Power amplification
-Compose System
-Music score recognition
-Design Science Research
-Green Information Systems
-Sustainable Human Computer Interaction
-Sustainable User Behavior
-Active Learning
-Computers and Society
-Computing and the Environment
-Data-Centric
-NumPy
-bioinformatics
-edit-distance
-genomics
-hardware acceleration
-ISA extensions
-microarchitecture
-sequence alignment
-lecturer presence
-production styles
-video instruction
-YouTube explainer video
-CS
-Active learning strategy
-Curricula model
-Python language
-female students
-habitual orientations
-teacher self-perception
-teacher-student interaction
-teacher-student relationship
-covid-19
-elementary teachers
-integrating computational thinking
-teacher professional development
-virtual engagement
-Inclusion
-Intersectionality
-Systematic Literature Review
-online office hours
-Assessment
-item difficulty
-item generation
-program tracing
-big data transfer
-DTN (Data Transfer Node)
-orchestration of data streams
-Science DMZ (Demilitarized Zone)
-artificial intelligence network
-automobile fault diagnosis
-Intelligent diagnosis
-the neural network
-CS1
-model-based pedagogy
-notional machine
-POGIL
-sorting algorithms
-STEM education
-virtual reality
-secondary education
-task analysis
-college teaching
-educational assessment
-engineering design
-microcontrollers
-pedagogies
-software design
-internet age
-multi-factor authentication
-multi-factor authentication protocol
-security protection
-Complex Systems Understanding
-Education
-Human Swarm Interaction
-Cyber Security
-HDFS
-Intrusion Detection System
-Basic programming
-Coding ability
-EduCoder
-Programming practice case
-Federated averaging
-Federated learning
-Ma-chine learning systems
-Water distribution networks
-3D imaging
-High dynamic range
-Shiny surface
-Structured light
-attention mechanism
-BERT model
-Question answering system
-Car-tailored workflow engine
-Control and testing
-Executing BPMN
-Service-oriented vehicle diagnostics
-Software-defined car
-access
-capacity
-cape
-experience
-k-12
-participation
-secondary
-subcomponents
-Brain-Computer Interfaces
-emotions
-Eye Tracking
-Human-Computer interaction
-border
-Distribution theory
-Domain recognition
-Transmission theory
-clinical interview
-intermediate students
-learning theory
-threshold concepts
-New Zealand
-professional development
-coevolution
-generative adversarial networks
-neuroevolution
-Assistive Tech
-Augmented Body
-Augmented Human
-Human Computer Integration
-Intellectual Property
-Knowledge Graph
-Patent Domain
-deterministic algorithm
-knapsack problem
-Submodular maximization
-Embedding
-Representation Learning
-Self-supervised learning
-Transfer Learning
-descriptive complexity
-finite model theory
-graph isomorphism
-logic in computer science
-symmetric circuits
-symmetric computation
-Big Data Environment
-Computer Audit
-Database Construction
-Database Encryption
-human resources
-Consumer
-Digital anthropology
-Digitalisation
-Domestication
-Innovation adoption
-Social practice
-Time use
-A
-algorithms
-bidirectional
-Breadth-first-search
-Depth-first-search
-Dijkstra's
-pathfinding algorithms
-pathing
-shortest path
-tool
-transportation
-cognitive neuroscience
-Hybrid EEG-fNIRs system
-Monitoring brain activity
-ACM/ICPC
-automatic scoring
-C++
-paperless examination
-teaching innovation
-ChatGPT
-Ethical Practices in IT Education
-Job Transformation
-Student Attitudes
-CS education
-haptic learning material
-student entry phase
-communities of practice
-informal learning
-video games
-computer-based testing
-mastery learning
-departmental culture
-"diversity, equity, and inclusion"
-faculty adoption
-instructor-centered teaching
-lecturing
-student-centered teaching
-Education Reform
-Performance evaluation
-Workload analysis
-degree interval
-degree sequence
-graph sampling
-Markov Chain Monte Carlo method
-switch Markov chain
-attendance
-Digital technology
-information technology
-museum industry
-popularity
-virtual exhibitions
-virtual expositions
-creativity support tools
-Data Engineering
-Block chain
-Decentralized blocks
-Digital twin creation
-Hash function and cloud servers
-Smart contracts
-taxonomy
-DIALux
-facility maintenance
-PSO-SVM
-sports equipment
-cs attitudes
-international study
-image recognition
-Industrial automation
+Electrocardiogram
+long short-term memory
+residual network
+Squeeze-and-Excitation attention
+DBMS
+Isolation Level
+Race Condition
+Transaction
+Web Application
+current issues
+Digital marketing
+literature review
+tourism destination
+clinical time series
+irregularly sampled time series
+multi-scale representation
+failure recovery
+in-memory database
+main memory
+autoregressive models
+in-database operators
+lsm store
+A/B Test
+Software Requirements
+Software Testing
+UX/UI Design
+database
+evolutionary algorithm
+query perception
 reinforcement learning
-1. Non-CS Majors
-2. Conceptual Learning
-3. Computer Science
-4. Introductory Courses
-5. Learning Environments
-6. Student Understanding
-Smart City
-Sociology
-Urban Sciences
-human-computer interaction
-information credibility
-science and knowledge communication
-video analysis
-YouTube
-Analog-1
-ARCHES
-human-robotic cooperation
-METERON
-Teleoperation
-Algorand
-BERT
-Blockchain
-Blockchain Topics
-Ethereum
-Hyper-ledger
-Reddit
-Smart Contract
-Topic Modeling
-argumentation
-identity
-information
-Semantic Web
-situation theory
-broadening participation
-image segmentation
-industry 4.0
-predictive maintenance
-utility pattern mining
-paper-publication prediction
-text mining
-Computer programming
-Inquiry-based learning
-Integrated STEM
-Learning science
-Bachelor's thesis
-seminar work
-thesis supervision
-Consensus
-Distributed System
-Key-Value Store
-Raft
-RPC
-Block-typed
-Computational Thinking
-Information Design
-K-12 Education
-Pictogram
-applicant tracking system
-automated hiring
-job application
-student
-Ask.CI
-Campus Champions
-CAREERS Cyberteam
-Cnct.CI
-GPN Cyberteam
-KY Cyberteam
-Northeast Cyberteam
-research computing facilitator
-RMACC
-SWEETER Cyberteam
-workforce development
-Computing methodologies
-better reply
-game theory
-MEC
-Dicom images
-three-dimensional reconstruction
-VTK
-CRIMINISI
-image inpainting
-Ion Trap Quantum Computers
-Quantum Computing
-Quantum Hardware Comparison
-Superconducting Quantum Computers
-Variational Quantum Eigensolver
-Android
-Attendance Monitoring
-ISO 9126
-QR Code
-Tethering
-Disease detection
-Rice
-belonging
-neurodiversity
-computer science lecturers training
-Design Thinking
-digital teaching media production
-design
-Drones
-making
-Project-based learning
-AI for Science
-digital image processing
-EB-scale big data
-high performance computing clusters and systems
-high-throughput
-multimodal imaging
-synchrotron radiation light source
-unified software framework
-Human decay modeling
-Image classification
-Transfer learning
-Challenge-based learning
-Competency-based education
-Educational innovation
-Elective course
-end-user development
-interaction analysis
-visual artifact
-visual artifact analysis
-enrollment growth
-external dynamics
-undergraduate computing
-Abstract Interpretation
-Formal Verification
-Neural Network Verification
-21st Century Skills
-Digital Education
-game-based learning
-learning by doing exercises
-Parsons problems
-reinforcement
-SQL gamification
-Wordle
-asymptotic analysis
+tuning parameters
+approximation
+Probabilistic query evaluation
+tuple-independent databases
+CXL
+Database Management Systems
+Far memory
+In-Memory Database
+Memory pool
+computational genomics
+distributed computing
+genotyping algorithms
+Cyber-Risk assessment
+Cybersecurity
+Industrial Control Systems
+MITRE ATT&CK Database
+NVD Database
+Programmable Logic Controller
+multi-tenant
+user disengagement ratio
+inner product
+private intersection-sum
+private join and compute
+private set intersection
+secure computation
+two-party computation
+classifier fusion
+handwritten character recognition
+Houma alliance book
+Ising Machines
+Quantum Annealing
+QUBO
+Downhole positioning
+PnP
+pose estimation
+database accelerator
+Processing-in-Memory
+query processing
+Data Lakes
+Database Systems
+Dremel
+Parquet
+databases
+quantum computing
+quantum machine learning
+Error
+Hamming distance
+Neural network
+Noise
+Phoneme
+Signal
+Speech recognition
+aggregate queries
+annotated databases
+answer orderings
+commutative semirings
+conjunctive queries
+direct access
+provenance semirings
+query classification
+ranking function
+compaction
+key-value storage
+LSM-tree
+optimization
+Dynamic Complexity
+Planar embedding
+Planar graphs
+pictorial querying
+searching geospatial objects
+spatial pattern matching
+Decision Forest
+Machine Learning System
+bgp
+internet routing registry
+routing security
+doubly efficient PIR
+FHE for RAM
+COVID-19
+Database
+FOSS GIS
+health geography
+WebGIS
+axiom
+conditional independence
+decomposition
+functional dependency
+semiring
+Algorithmic Generation
+Database Aesthetics
+Deep Learning
+Found Footage
+Video
+computational models
+crowdsourcing
+data integration
+knowledge ecosystem
+molecular mechanism
+query reformulation
+embedded
+serverless
+database middleware
+pre-trained language model
+trojan attack
+combinatorial optimization
+machine learning
+scheduling
+wireless backscatter communications
+Automated Assessment
+Databases
+SQL
+Web-based Learning
+heterogeneous data lake
+query answering
+relational schema
+Developers
+Interview
+Perceptions
+Students
+Technology adoption
+join sampling framework
+multi-way joins
+random sampling
+union sampling
+Californian History
+Digital Humaities
+Geospatial Database
+The American Civil War
+United Daughters of the Confederacy
+Data Systems Education
+Misconceptions
+fairness
+independence
+inner product search
+Articulated Body Pose Estimation
+Artificial Intelligence
+Data Mining
+Gait Recognition
+Sequential Pattern Mining
+GPU-Parallel Algorithm
+Radix Select
+Top-K
+database-centric system
+field testing
+Performance analysis
+performance issue
+performance regression
+root cause analysis
+Apache parquet
+mobility data
+spatio-temporal
+trajectories
+Checkpointing
+Deterministic databases
+Logging
+Non-volatile memory
+Recovery
+False face
+High precision
+Spoofing discovery
+True positive
+bottom-$k$
+coordinated samples
+distance sketches
+ppswor
+weighted sampling
+database systems
+simple but effective ideas
+simplicity
+Brazil
+e-court
+e-justice
+judicial database
+jurimetry
+justice administration
+open-data
+join size estimation
+uniform sampling
+worst-case optimal
+preference learning
+streaming algorithms
+user interaction
+dynamic datasets
+index structure
+key distribution
+concurrency control
+many-core machines
+timestamp allocation
+access control
+database-backed applications
+algorithmic profiling
+content moderation
+database aesthetics
+Digital literacy
+hyperlinking
+join algorithms
+lower bounds
+sampling
+Feature Encoding
+Query Optimization
+Transformer
+compilers
+modern hardware
+networking
+AI harms
+AI safety
+classroom exploration
+educational tool
+incident database
+array database
+scientific data management
+versioning
+aesthetic judgement
+fMRI
+GIS
+landscape assessment
+Mobile Mapping Technology
+view
+Verification
+cardinality estimation
+data summary
+OpenFlow
+Ryu
+SDN
+decision trees
+index structures
+search engine
+Automated Indexing
+Index Selection
+Index Tuning
+ML for Database
+Reinforcement Learning
+beam selection with load balancing
+cumulative distribution function
+fingerprint database
+signal-to-interference-plus-noise ratio
+unmanned aerial vehicle
+Abandoned assets
+Emilia
+interoperability
+vocabularies
 complexity
-energy
-profiling
-software engineering
+robustness
+Personalized recommendation
+Ranking ensemble
+User intents
+conjunctive query
+constant delay
+enumeration
+fine-grained
+self-joins
+geospatial data
+MMS
+mobile mapping
+OSM
+point cloud
+topographic database
+UAS
+urban management
+database evolution
+software product lines
+Static Taint Analysis
+Stored XSS
+Vulnerability Detection
+Web Application Security
+Coastal inundation
+Geographical Information System (GIS)
+Radar Altimetry Database System (RADS)
+sea level rise
+shoreline
+Archaeological
+Database construction
+Heritage Protection
+Model reconstruction
+Model repair
+System design
+Conjunctive Queries
+Subgraph Pattern Counting
+Subgraph Pattern Listing
+context
+design
+education
+engagement
+Attendance system
+Database management
+QR code
+student database
+consistent query answering
+primary keys
+Point cloud compression
+Point clouds
+Subjective quality
+ambulatory blood pressure monitoring
+data mining
+data set clustering
+machine learning algorithms
+Emotion Recognition
+Facial Expressions
+Hybrid Architecture
+Personalized Therapies
+database design
+health informatics
+pre-eclampsia disease
+Clustering
+Customer Segmentation
+Database Marketing
+K-Means
+RFM Analysis
+Breast Ultrasound
+Carotid Ultrasound
+Chest-XRay
+Particle swarm optimization
+Ivey case
+Metauniverse model
+Reform of Accounting Case Teaching
+The Harvard case
+Collocation
+corpora
+dictionaries
+gold standard
+Russian language
+Continuous Sentences
+Corpora
+Marathi Dialects
+Pratt
+Deep learning
+Fingerprint technique
+Generative Adversarial Networks (GANs)
+Indoor localization
+Multilayer Perceptron (MLP)
+API Database
+Cloud Computing
+Deployment
+Google Cloud Platform
+Image Classification
+PaaS
+Alexa
+Connected Vehicles
+FastAPI
+Internet of Things
+Voice Assistants
+deep semi-supervised learning
+mean teacher method
+Multi-building and multi-floor indoor localization
+Wi-Fi fingerprinting
+Active defense
+Database security
+Instruction set randomization
+Contextsensitive tracking
+New IR features
+post-retraction retrieval
+Retracted research papers
+#P-hardness
+probabilistic databases
+Uniform reliability
+decentralization
+OLTP
+real-time database system
+transaction priority
+Bibliometric analysis
+E-banking
+Electronic banking
+ICT
+Scopus database
+Chase
+Data Provenance
+Research Data Management
+System Demo
+anti-obesity
+molecular docking
+N-Acetylanonaine
+network pharmacology
+Tinosporacrispa
+multiple hypothesis testing
+pattern mining
+significant pattern
+weighted pattern.
+database management system
+error
+query execution plan
+usability
+enumeration algorithms
+query evaluation
+SLP compression
+Exasol
+Machine Learning
+AI
+IMU
+Industry 4.0
+motion capture
+Cellular automata
+Henon map
+Image encryption
+Tampering database attack
+Alternative Safeguard
+Authentication
+Cloud Database
+Ticket Booking
+Ticket Checker
+data management
+real estate mass appraisal
+spatial database
+Adaptable Database Migration Service
+Big Bang
+Cloud computing
+Efficiency
+Lift and Shift
+Microsoft Azure
+Migration Resources
+Novel Trickle approach
+Refactoring
+Replatforming
+Virtual Machine
+Human-centered computing-Visualization-Visualization design and evaluation methods
+Human-centered computing-Visualization-Visualization techniques-Treemaps
+block chain
+data analysis
+Data systems
+database management systems
+security
+median
+order statistics
+selection algorithms
+sliding window
+operator pushdown
+parallel computing
+query task fragmentation
+storage and compute separation
+Berge-Acyclic Queries
+Cardinality Bounding
+Cardinality Estimation
+Degree Bounds
+Functional Approximation
+Query Planning
+language models
+natural language interfaces
+natural language processing
+NLSQL
+bayesian mixed models
+dataset
+human-computer interaction
+human-robot interaction
+kitchen
+robots
+Domestic Independent and Controllable Environment
+Knowledge Database
+Knowledge Graph
+Retrieval Analysis
+Data Integration
+In-Database Machine Learning
+Machine Learning Framework
+Performance Optimization
+Partial Video Copy Detection
+Video Copy Detection
+Video Copy Localization
+ad hoc querying
+biological databases
+schema abstraction
+schema graph
+Apriori Algorithm
+Association Rule Mining
+FP growth Algorithm
+Frequent Item Sets
+attribute-level uncertainty
+functional dependencies
+most probable database
+Probabilistic databases
+federated learning
+image artifacts
+mammography
+biometric identification
+face recognition
+Information technology
+Bibliometric Analysis
+Crop Disease
+Network Analysis
+Neural Networks
+Plant Disease
+Natural language processing
+SQL injection
+SVM
+word2vec
+Internet of Things (IoT)
+MySQL
+phpMyAdmin
+centrality measures
+data centrality
+graph theory
+tree structures
+dysphonia
+Parkinson's disease
+sustained vowel
+voice analysis
+voice descriptors
+bioinformatics
+high-performance computing
+lncRNA-RNA
+MPI
+OpenMP
+graph algorithms
+graph degeneracy
+homomorphism counting
+subgraph counting
+Quantile summaries
+Rank estimation
+Streaming algorithms
+high-dimensional data
+nearest neighbors' search
+similarity metrics
+similarity search
+vector databases
+Behavioural Prediction
+BPNN
+Edge Computing
+Industrial loT
+Time-Series Database
+Cosine similarity
+Indonesian meaning similarity
+NLP)
+Synonim ID
+TF/IDF
+Deep Learning (DL)
+Deep Neural Networks (DNN)
+Identification of Arabic Dialects
+MSA
+OAC
+Recurrent Neural Network (RNN)
+RMDL
+edibility estimation
+explanatory data analysis
+FruityHub
+log optimization
+non volatile memory
+relational database
+storage systems
+Convolutional Neural Network
+Database Management
+Face Recognition
+Generative Adversarial Networks
+automated floral species identification
+BongFloralpedia
+deep neural networks
+floriculture
+flower image database
+5G
+Fingerprint database
+Indoor positioning
+Machine learning
+Bag Semantics
+Probabilistic Databases
+Probabilistic Query Evaluation
+Human-in-the-loop
+In-context Learning
+Large Language Model
+Machine Translation
+Natural Language Processing
+Prompt Engineering
+anchor-free
+lightweight network
+one-stage detector
+affective computing
+content analysis
+emotion elicitation
+movie clips
+multimodal
+subjectivity
+Empirical study
+Algorithms
+Complexity
+Diversity of Solutions
+Query Answering
+Blind Image Quality Assessment (BIQA)
+Filter Pruning
+Model Compression
+Database Deployment
+Database deployment automation
+Goal modeling
+Requirements analysis
+completeness
+cost model
+dynamic fragmentation
+horizontal fragmentation
+hybrid fragmentation
+multimedia fragmentation
+vertical fragmentation
+AES-256
+data security
+encryption
+RSA
+Anonymizer
+Masking
+Passive Aggressive classifier
+PostgreSQL
+digital infrastructure
+dynamic databases
+functional safety
+small modular reactor
+Data integrity
+Database constraints
+Static analysis
+Web applications
+Alignment Estimation
+Detection
+Modified KLT Algorithm
+Tracking
+face database
+Heterogeneous face recognition
+NIR-VIS face recognition
+Sketch-VIS face recognition
+Fingerprint indoor localization
+K-Nearest Neighbor
+Linear Regression
+Pathloss model
+Polynomial Regression
+RSSI
+Business intelligence
+Clickstream
+Monte Carlo cross validation
+Support vector machines
+auditing
+authentication
+authorization
+change tracking
+data encryption
+database administration
+database security
+Biometric
+facial biometric
+privacy
+Cross-database
+Face spoof detection
+Gray-level co-occurrence matrix
+Histogram of gradient
+Random forest
+Spatial features
+android application
+chemical elements
+cloud database
+reactions
+speech recognition
+eHealth
+Face database
+Thermal spectrum
+Visible spectrum
+Weight estimation
+database alarm
+dynamic matching
+event extraction
+GCN
+self-attention mechanism
+Convolutional neural network
+Image classification
+Image database
+MHPA
+Computer
+data structure
+hotel data storage
+information technology
+Communication
+Monitoring
+Position
+Sensor System
+Website
+File sharing
+File transfer
+Firebase database
+IP address
+QR generation
+Transfer history
+content-addressable memory
+DNA Sequencing. Bioinformatics
+Field-programmable gate array
+ADL
+Co-creation
+Independence care
+Motion data analysis
+Contactless fingerprint recognition
+generalizability
+presentation attack detection
+Compressive Sensing
+Heart Rate Variability
+QRS Complex Detection
+RR Interval
+big data analysis
+hash encryption algorithm
+Hub airport
+information security
+safety monitoring platform
+situational awareness
+DataBase
+File ranking
+Neirest Neighbor
+Pattern matching
+Time Series
+data exchange optimization
+data interoperability
+data specification
+multi-model databases
+computer vision
+intelligent city
+smart city
+Chest radiography pictures
+CNN
+Computed tomography (CT) scan
+Covid-19
+Polymerase chain response
+ResNet101
+ResNet50
+batch process
+data processing
+isoprene
+polymerization
+flow-level
+LSTM
+RMSE
+traffic generator
+Database Design
+DB2 Database
+Digital Teaching Case Base System
+Function Design
+Bluetooth
+Cloud
+communication
+Electricity
+IoT
+Lora
+microprocessors
+MQTT
+OLED
+Raspberry Pi
+Signal processing
+Smart Transformer
+Wi-Fi
+Convolutional Neural Networks (CNN)
+Multi-Binary Classification (MBC)
+multiclass classification
+Non-Destructive Testing (NDT)
+X-ray images
+cytology
+malignancy prediction
+pathomics
+radiomics
+Thyroid nodule
+ultrasound
+AOCL
+AOCL-Compression
+BWT
+BZIP2
+Compression
+Database systems
+Decompression
+DEFLATE
+Dictionary coding
+Entropy coding
+FSE
+Hash chain
+Hash table
+Huffman coding
+Lossless data compression
+LZ4
+LZ4HC
+LZ77
+LZ78
+LZMA
+MTF
+NoSQL
+RLE
+Snappy
+ZLIB
+ZSTD
+database tables
+E-R diagram
+learning system
+mathematics subjects
+artificial neural network
+information system
+user
+Association Rules
+B/S mode
+SQL Server database
+ISO/IEC-25010 standard
+motivational intentions
+supply and demand of educational services
+user needs
+web community
+child biometrics
+contactless palmprint recognition
+contactless palmprint recognition for children
+Biometric Authenticity
+Biometric Security
+Cross-Database Testing
+Liveness Detection
+Spoofing Attacks
+Big data
+network
+visualization
+analysis
+corpus
+forensic
+performance
+Database system
+intelligent operation
+monitor
+Database optimization query
+Distance education
+Student behavior analysis
+Ferric citrate
+Hyperphosphatemia
+Iron deficiency anemia
+NDD-CKD
+cyber risk evaluation
+mobile security
+software security
+compressed ECG sensing
+Heart rate variability
+power spectral analysis
+wearable IoT devices
+Data anonymization
+data utility
+inference attack
+sensitive information
+transaction database
+integration
+sustainable management
+telemetry
+water infrastructure
+water monitoring
+artificial databases of biomedical images
+Breast cancer
+digital platform
+generative adversarial networks. training data sets
+image generation
+Morphological analysis
+NLP
+Stemming
+Android
+biometrics
+Business Model Canvas
+multi-factor authentication
+Value Proposition Canvas
+climate protection
+CO<sub>2</sub>emission reduction
+Disy Cadenza
+nature conservation
+Peatland protection
+PHP
+PostGIS
+restoration measures
+web GIS application
+Bioinformatics
+Esophageal squamous cell carcinoma
+Molecular docking
+Network pharmacology
+Saussurea involucrate
+Analysis
+Data Mining Technology
+Design
+Software Engineering
+deep Learning
+EEG
+insomnia
+sleep
+biomedical signal processing
+ECG interpretive software testing
+electrocardiogram (ECG)
+MIT-BIH Arrhythmia Database
+QRS detection
+Adaptive characteristics
+Attention-based dropout
+Hierarchically-salient features
+Robust object recognition
+Data mining
+Minimum side effects
+Privacy-preserving
+Rare pattern
+Cosine convolutional neural network (CosCNN)
+Cosine kernel
+Electroencephalogram (EEG)
+Field programmable gate array (FPGA)
+Network quantization
+Seizure detection
+ECOC
+Emotional
+Hilbert transformation
+kNN
+Wavelet packet
+Classification
+Feature Selection
+Particle Swarm Optimization Algorithm
+Phonocardiogram
+Federated submodel learning
+private set union
+symmetric private information retrieval
+Emotions
+Facial expression recognition
+Facial muscle activation
+Linear discriminant
+Multilayer perceptron
+Support vector machine
+Artificial intelligence
+Machine-learning methods
+Speech emotion recognition
+Content-based medical image retrieval
+Coyote-Moth Optimization Algorithm (Cmoa)
+Inception V3 Cnn
+Modified cosine similarity
+African iris recognition
+iris image database
+iris recognition
+racial bias
+Bell state
+Entanglement swapping
+Multi-user quantum private query
+Two-way quantum identity authentication
+Electrocardiogram (ECG)
+empirical mode decomposition (EMD)
+explainable artificial intelligence (XAI)
+multilayered convolutional neural network (CNN)
+user recognition
+Al–Ni–Ti
+First-principles
+SQS
+Thermodynamic database
+Arousal
+Emotion
+Psychophysiology
+Valence
+Virtual reality
+artificial intelligence
+Mammography
+Radiology information systems
+Teaching materials
+Fire resistance
+ML
+Reinforced concrete columns
+Stacking ensemble
+TVAE
+Database indexing
+Geographical information systems (GIS)
+Mobility datasets
+RDBMS
+Spatiotemporal databases
+Temporal databases
+Deep learning method
+IMSF-Net
+Permutation importance algorithm
+PPG-based blood pressure estimation
+UCI database
+Deep neural networks
+Discrete wavelet transform
+Multiresolution analysis
+Plant disease detection
+Precision agriculture
+Smart farming
+dual-teacher
+Insomnia
+knowledge distillation
+PSG staging
+transfer learning
+Bayesian optimization process
+CatBoost
+Ensemble learning
+Flat slabs
+Punching shear strength
+XGBoot
+Healthcare
+Knowledge extraction
+Ontology
+Reasoning
+Security
+feature selection
+nonparametric quantifier
+signature verification
+statistical learning
+Pattern mining
+Temporal data mining
+Temporal duration-based patterns
+Time interval-based data
+Artificial intelligence framework
+Big Data system
+cloud platform
+geographic information system
+resource management
+spatio-temporal Big Data
+Atrial fibrillation
+Domain adaptation
+Dynamic adaptive module
+Dynamic transfer learning
+ECG
+MCC loss
+Nonoverlapping
+Repetitive negative sequential pattern
+Repetitive sequential pattern
+Self-adaptive gap
+Sequential pattern mining
+3D classification meta-learner
+3D meta-features
+3D point-cloud classification
+Algorithm selection
+Meta-learning
+Convolutional neural networks
+Face recognition
+Smart attendance system
+Finger-vein recognition
+Generative adversarial network
+Multiple degradation factors
+Non-uniform illumination and noise
+Dynamically installed anchor (DIA)
+Experimental database
+Holding capacity
+Machine learning (ML)
+Penetration depth
+Data integration
+Male subfertility
+Multi-omics
+Sperm maturation
+Cancer
+Prediction
+Synthetic lethality (SL)
+Adverse drug events
+Joint task learning
+Multi-task learning
+Named entity recognition
+Pipeline approach
+Relation extraction
+Automatic speech recognition (ASR)
+Kannada database
+NOIZEUS database
+Normalized covariance metric (NCM)
+Optimal smoothing and minimum controlled (OSMC)
+Perceptual evaluation of speech quality (PESQ)
+Recursive averaging
+Speech enhancement
+Gene interactions
+Mutual information
+Python package
+Transcription factor binding motifs
+Data privacy
+oblivious index
+oblivious join
+oblivious RAM
+Baicalein
+CREBBP
+Dopaminergic neurons
+EP300
+ERK2
+MAPK1
+MD simulations
+Rasagiline
+Human-computer interaction
+Learner modeling
+New Year Painting
+"GenRA, REACH"
+New Approach Methods (NAMS)
+Read-across
+Similarity context
+Auxiliary network
+Medical image
+Quality assessment
+CERUG-EN database
+Convolution neural network
+CVL database
+Histogram of oriented features
+IAM database
+Offline writer identification
+Saliency
+Scale invariant feature transform (SIFT)
+Sparse principal component analysis
+Breadth-first based pruning
+Incremental mining
+Pattern storage
+Sequential pattern
+Tree-based mining
+Binding sites
+Pocket detection
+Protein structure
+Protein-ligand interaction
+Structural bioinformatics
+Automatic seizure detection
+bidirectional long short-term memory
+temporal convolutional network
+Biomarker
+Cancer immunotherapy response
+Inflammatory response
+Tumor immunity
+Dynamic data
+Erasable pattern mining
+Maximal erasable patterns
+Divide and recombine approach
+EM algorithm
+Managerial implications
+Reliability
+Warranty database
+Weibull regression model
+Challenge
+Feature
+Vector
+Indexing scheme
+Main memory
+Multi-versioning
+Prefetching
+Content awareness
+Error awareness
+Expansibility
+gMAD competition
+No-reference image quality assessment
+Aldosterone
+CYP11B2
+Heart failure
+NR3C2
+Open access platforms
+Dysarthria
+eGeMAPS
+HuBERT
+OpenSMILE
+Pre-trained models
+Severity level classification
+Wav2vec2
+Ischemia
+Localization
+Myocardial infarction
+Sparse representation
+Virtual electrophysiology
+Visualized ECG
+Drug design
+Drug discovery
+Fragment based design
+Fragment-based drug design (FBDD)
+Structure based design
+Latent palmprint
+Minutiae importance
+Minutiae types
+Orientation field
+Palmprint indexing
+Palmprint segmentation
+Adaptive feature transfer
+Annotated data scarcity
+Domain discrepancy
+Heartbeat classification
+Unsupervised learning
+High-utility itemset mining
+Negative profit
+Unstable negative profits
+Complex flows
+Data reconstruction
+Fluid dynamics
+PDE surrogates
+Singular value decomposition
+Class Imbalance Problem
+Clinical decision support
+Clinical prediction model
+External validation
+Patient-level prediction
+ncRS database
+Non-coding RNA
+Pathogenesis
+Sepsis
+Database-driven approach
+Hydraulic excavator
+Model predictive control
+Modeling
+Cardiotocography
+Fetal hypoxia
+Obstetrics
+Deep neural network DNN
+Gaussian blur
+Image contour
+Iris recognition
+Linear discriminate analysis LDA
+Physiological signal diagnosis
+WPS
+Cell heterogeneity
+Cell to cell communication
+Multi-method automatic cell-type annotation
+Single cell integration database
+Database executor
+Decision optimization
+Chaotic iteration
+Dynamical system
+Feature extraction
+Video face recognition
+clinical application
+interdisciplinary research
+robotic surgery
+therapeutic evidence
+Fractal dimension
+Fractal geometry
+Multi-fractal analysis
+Power spectral densities (PSD)
+The Drought Monitor database
+Big Data
+datasets
+gait
+healthcare
+human locomotion
+recognition
+Biometrics
+fingerprint recognition
+optical coherence tomography
+total internal reflection
+Fine-grained grid computing (FGGC)
+Path loss
+Reference points (RPs)
+Attention mechanism
+Multi-view finger vein recognition
+Deep belief network
+Densenet
+Occlusion
+Persistent contrastive divergence
+Biomarkers
+Cancers
+Lysosome
+Preeclampsia
+Hybrid representations
+Mesh conformity
+Robotics mapping
+Intelligent classroom
+Micro expression
+NMF
+Regularization of dual graph
+Arrhythmia
+Long Short Term Memory
+SHapley additive exPlanations
+Breast nodule classification
+Datasets
+Clickstream pattern mining
+Incremental pattern mining
+Pre-large concept
+Progressive search border
+Ageing
+Aorta
+Blood pressure waveform
+Cardiovascular health monitoring
+Cardiovascular simulator
+Central blood pressure
+Heartrate
+Peripheral resistance
+PWV
+Stroke volume
+Vascular age
+Data-centric Geotechnics
+Deep Excavations in Clay
+Hierarchical Bayesian Model (HBM)
+Observational Method
+Wall Deflection
+Experimental conditions
+Liquid–liquid phase separation
+Protein
+RNA
+Bibliometric
+Co-innovation
+Social media
+Social network
+k-NN
+PCG
+Distance optimization
+human action monitoring
+reference learning
+Abundance
+Benchmark
+Long sequenced reads
+Metagenomics
+advanced aerial mobility
+flight hazards
+helicopter operations
+low-altitude flight
+Nonlinear features
+Paroxysmal atrial fibrillation
+R-R interval time series
+Time-domain features
+Decoy state
+Multiphoton pulses
+Non-ideal light sources
+Quantum private query
+User as the light source
+Active TCP/IP Stack Probing
+Network Device Identification
+Object recognition
+Protocols
+TCPIP
+Residual Networks
+Knowledge
+Question classification
+Video question answering
+Computer Vision
+Driving Operation
+Driving Safety
+Virtual Reality Solutions
+atrial fibrillation
+attention network
+Electrocardiography
+Estimation
+heart rate variability
+motion analysis
+Motion segmentation
+remote photoplethysmography
+Standards
+Videos
+CART algorithm
+Decision tree
+ELMo model
+LSTM network
+Reinforcement learning mechanism
+Computer aided engineering
+Electronic design automation
+IP cores
+System-level design
+Chinese education
+DBN-BP algorithm
+Emotional characteristics
+International teaching
+Speech database
+Knowledge distillation (KD)
+lightweight hybrid model (LHM)
+multiscale Markov transition field (MMTF)
+photoplethysmography (PPG)
+real-time assessment
+columnar databases
+linear time logic for finite traces
+temporal formal verification
+verified artificial intelligence
+Artificial neural networks
+Cloud database systems
+Constrained performance optimization
+Genetic algorithms
+Butterfly optimization algorithm
+Long short-term memory network
+Speaker recognition
+Speech signal
+Intelligent sensors
+Magnetic sensors
+Magnetoacoustic effects
+Magnetometers
+Roads
+Sensor systems
+Sensors
+computed tomography scan
+detection
+Keуwоrds: Covid-19
+X-Ray images
+In-memory database
+Instant recovery
+Main memory database
+System failure
+Sound pressure level
+Vocal intensity
+filtering algorithm
+Heat pumps
+heating control systems
+Heating systems
+Physiology
+semantic data augmentation
+Semantics
+supervised learning
+Application development
+Mapreduce programming
+MVC architecture
+Paillier homomorphic encryption
+Benchmark testing
+Fingerprint recognition
+Image segmentation
+latent fingerprints
+NIST
+Optical imaging
+performance evaluation
+Tablet computers
+Lean manufacturing
+Manufacturing technology
+Network theory
+Analytical databases
+column aliases
+function references
+indexing
+biometric system
+Biometrics (access control)
+Fingers
+identification security
+Puppet attack
+support vector machine
+ANN classifier
+features extractions
+hyper parameters tuning
+Olive fruit pre-processing
+olives detecting and extracting
+SVM classifier
+filtering process
+measurement while drilling (MWD)
+normalizing index
+sensor-based data
+Sweden
+tunneling
+Compressive learning
+Deep priors
+Denoising
+Regularization
+advanced persistent threat
+Cyber security
+cyber threat analysis
+cyber threat intelligence
+MITRE ATT&CK
+Biometric Sample Quality
+Contactless Fingerprint
+Fingerprint
+Image matching
+Prediction algorithms
+fuzzy frequent itemsets
+multiple linguistic terms
+quantitative dataset
+type-2 fuzzy set
+early fusion
+facial expressions
+infrared
+late fusion
+MSX
+ResNet-18
+visible
+Approximation algorithms
+Automobiles
+Clustering algorithms
+Decision making
+Logistics
+Minimization
+Multi-criteria decision-making
+Rank-regret
+Regret-ratio
+Skyline
+Top-k query
+database security'
+database threats
+integrity
+security techniques
+Adverse event (AE)
+Drugs
+FDA
+Implants
+Machine learning algorithms
+Manufacturer and User Facility Device Experience (MAUDE) database
+Medical devices
+natural language processing (NLP)
+Pain
+regulatory science
+spinal cord stimulator (SCS)
+encrypted databases
+evaluation model
+SQL queries
+Ensemble classifier
+Extreme learning machine
+High-dimensional data
+Medical database
+Weighted extreme learning method (WELM)
+CAD assembly
+Collision-free solver
+Database expansion
+Part retrieval and reuse
+Reassembly strategies
+I/O-efficient
+Joins
+massively parallel computation
+Large language model
+Agricultural pests and diseases
+Multimedia technology adoption
+Convolution neural network (CNN)
+prostheses
+surface electromyogram (sEMG) signal
+upper limb
+window length
+window overlap
+Grover’s algorithm
+program synthesis
+Programming
+quantum algorithm
+Quantum computing
+quantum program
+Qubit
+Search problems
+Synthesizers
+Vectors
+Backpropogation Neural Network
+Context Window Based Texture of Pixels (CWTP)
+Decision Clustering
+Decision Tree Clustering
+Human cognition
+Intensity Level Based Multifractal Dimension (ILMFD)
+Multi-level Artificial Neural Network (MLANN)
+career path recommendation model
+Computational modeling
+Computer science
+Data models
+Educational data mining
+Engineering profession
+grounded theory
+naïve bayes
+Recommender systems
+Parallel Computing
+Planning
+Quantum algorithm
+Quantum annealing
+Quantum Computing
+Robots
+Sampling-Based Motion Planning
+Canthus
+face photograph
+Faces
+facial feature
+Facial features
+Head
+head-pose estimation
+Magnetic heads
+Solid modeling
+three-dimensional (3-D) face model
+behavioral biometrics
+biometric verification
+challenge
+Keystroke dynamics
+KVC
+bacterial infection
+directly smeared urine sample
+micro-hyperspectral technology
+positive–negative determination
+spectral feature
+Distortion
+Face image database
+Image quality
+image quality assessment
+Transformers
+Feature optimization
+Multilingual speech emotion recognition
+Speech signal processing
+Variational mode decomposition
+cloud computing
+Live migration
+system virtualization
+Epilepsy
+Epileptic seizures
+Heart rate variability analysis
+Threshold
+Kernelized movement primitives (KMP)
+Obstacle avoidance
+Physical human–robot interaction
+Trajectory adaptation
+Arrays
+big table
+dynamic cardinality estimation
+Hash functions
+Memory management
+Probability distribution
+Registers
+sketch
+Brain MR
+Cross entropy
+Meta-heuristic
+Moth-flame optimization
+domain adaptation
+multi-branch architecture
+weight fusion adaptive attention mechanism
+Bioinformatic analysis
+Cerebral aneurysms
+Drug
+Machine-learning strategies
+Rupture
+Signal reconstruction
+Single-channel EEG
+Sleep staging
+Time series segmentation
+antenna sensing
+electromagnetic imaging
+3D facial expression
+Affective database
+Ecological validity
+Spontaneous expressions
+Artificial fish swarm algorithm
+frequent itemset mining
+high average utility itemsets
+itemset mining
+utility mining
+Braille
+cryptography
+password
+transformation
+Cyber-physical systems security
+deception attack
+false data injection attack (FDIA)
+sequential pattern mining
+Abnormal episodes
+Derivative images
+Ventricular ectopic beat (VEB) episodes
+hybrid genetic algorithms
+order assignment
+order batching
+Order picking system
+systematic literature review
+Developer logs
+NVD
+patch
+versions
+vulnerability
+Biases
+Biological system modeling
+Brain modeling
+Diseases
+Magnetic resonance imaging
+Shortcut learning
+Training
+Aerodynamic database prediction
+Computational fluid dynamics
+Surrogate models
+Affective analysis
+EmoMatchSpanishDB
+Language resources
+FP-Tree
+fuzzy logic
+market analysis
+precision
+prediction accuracy
+processing time
+recall
+temporal data mining
+AHA database
+Left and right atrium
+Left and right ventricle
+MIT-BIH arrhythmia database
+Preprocessing
+Biometric database generation
+Generative adversarial networks
+ID preserving
+Iris identification
+Cross-lingual database
+EmoDB
+Ensemble soft voting classifier
+Gender-based emotion recognition
+RAVDESS
+Urdu language
+Adaptation models
+Affinity graph diffusion
+domain shift
+facial expression recognition
+graph learning
+matrix factorization
+Optimization
+Representation learning
+Space mapping
+Sparse matrices
+SCface database
+single sample per person (SSPP)
+virtual pose synthesizing
+characterization of biomedical devices
+monitoring of vital signs
+optical signal simulator
+Depth image-based rendering
+local distortion
+Measurement
+quality of experience (QoE)
+synthesized views
+Three-dimensional displays
+Visualization
+Artificial bee colonies (BGOA-ABC)
+Double deep neural network
+Enhanced IPCT
+The image database resource initiative (LIDC-IDRI) and the lung image database consortium
+Degree of understanding
+Fuzzy bearing resistance
+Fuzzy clustering and partitioning
+Possibility theory
+Probability–to–possibility transformation
+Reliability assessment
+inner product encryption
+IP networks
+Location awareness
+Privacy
+privacy preserving
+WiFi localization
+Wireless fidelity
+age of information
+caching
+Content distribution networks
+Costs
+dynamic content
+Social networking (online)
+Sociology
+Statistics
+Video on demand
+PCA
+SSIM
+WPCA
+Degradation
+Image color analysis
+Image quality assessment (IQA)
+Imaging
+Underwater image
+Additional Key Words and PhrasesVulnerability
+knowledge graph
+link prediction
+threat modeling
+Auto-correloblock
+CBIR
+Feature vector
+HEVC
+Intra-prediction
+Encryption
+Multiparty Computation
+Private Set Intersection
+Receivers
+Searchable Encryption
+Servers
+cross-domain
+Real-time systems
+VANETs
+Vehicular ad hoc networks
+virtual identities
+Hydrocarbon
+Recovery factor
+Regression
+XGBoost
+Artificial neural network
+Data driven
+Multiscale finite element
+Nonlinear homogenization
+Proper orthogonal decomposition
+Biobased
+de novo polymer design
+Materials Informatics
+Polymer database
+Polymer design
+Polymer informatics
+Polymer library
+QSPR
+Quantitative structure–property relationships
+Repeat unit
+Repeat unit database
+Repeat unit library
+Macro-mechanical properties prediction
+Rock
+Upscaling
+bi-lingual analysis
+building maintenance
+facilities management
+text mining
+EMG
+feature extraction
+hand gesture recognition
+surface electromyography
+transformer
+Astrochemistry
+Astronomical databases: miscellaneous
+Line: identification
+Methods: numerical
+Molecular data
+6 DOF pose estimation
+monocular image
+Robot vision systems
+Analytical models
+Distributed databases
+exclusive lock
+multi-server cloud database
+quasi-static Rayleigh fading channel with multiple antennas
+queue system
+shared lock
+New database
+Photon flux and heating
+Photon transport physics
+RMC
+Blind image quality assessment
+Low-light image enhancement
+fundus images
+long-tailed classification
+multi-label classification
+retinal diseases
+3D colored mesh
+Mesh saliency detection
+mesh simplification
+visual attention
+Credential database
+dictionary guessing attack
+key server renewal
+threshold
+Digital regeneration
+Hunan embroidery stitch
+Mechanics model
+Bayesian updating
+Cross correlations
+Multivariate probability distribution
+Probabilistic site characterization
+SZ-CLAY/11/5130 database
+Knowledge discovery
+Memory efficient mining
+DBN
+security computer
+update database
+cross-domain interaction
+cross-scale integration
+Image quality assessment
+Fire Engineering
+Flame images
+Image analysis
+Semantic segmentation
+Smart firefighting
+Embedded system
+Independent time step algorithm
+Main function
+Software programming
+AGMRF model
+Bayes-driven DCNN
+Microstructure feature
+Query imagery
+Reference imagery
+Structure feature
+Texture feature
+clustering
+neural networks
+time-varying
+Wireless indoor localization
+Cow
+Dairy
+Lameness
+Public database
+full reference (FR) models
+HDR VQA database
+HDRMAX
+High dynamic range (HDR)
+video quality assessment (VQA)
+discriminative analysis
+Finger vein recognition
+jointly embedding
+low-rank representation
+Agrivoltaic
+Global horizontal irradiance
+Site adaptation
+STRÅNG
+Bio-visual perceptual machine model
+Graphic design
+Visual aesthetics
+Visual information model
+Bag-of-words
+ECG biometrics recognition
+feature learning
+total variation
+Rating cone index
+Soil moisture
+Soil strength
+Deep learning for script identification
+Document analysis
+Handcrafted features for script identification
+Multi-lingual database
+Multi-script database
+Optical character recognition
+Script identification
+Classification schemes
+Expression recognition
+Facial expressions recognition
+Features
+Image processing
+Contact lens detection
+Fingerprint spoof detection
+Iris spoof detection
+Presentation attack detection
+Print attacks
+Classifier performance evaluation
+Goodness-of-fit algorithm
+Long- and short-term memory networks
+Second language acquisition
+Thesaurus
+Crowdsourced probe vehicle data
+pre-crash traffic dynamics
+real-time crash risk prediction
+rear-end crash
+Fiducial
+Hybrid architecture
+Non-fiducial
+Outlier removal
+Pattern recognition
+Closed-loop prediction
+small hydropower power generation prediction
+time-series data matching
+Downsampling
+Heart Sound Signal
+Pattern Matching
+Phonocardiography
+Signal Compression
+Spatio-temporal modeling
+Temporal information
+Video quality assessment
+Artificial intelligence (AI) tools
+automation
+English as a foreign language (EFL)
+humanoid robot
+translation
+Log-structured merge tree
+non-volatile memory
+Broad learning (BL)
+convolution neural networks (CNNs)
+emotion recognition
+"humanâÂ€Â""robot interaction"
+long short-term memory (LSTM)
+Compaction
+Time-series
+Adaptive thresholding method
+Image grayscaling
+Internet technology
+Visual communication database
+Yi lacquer art
+clinical decision support
+continuous monitoring
+ECG signal
+temporal convolutional networks
+Internet of things
+Lossless compression
+Time series database
+Face expression recognition
+Hybrid deep network
+Video pre-processing
+Causal processing
+Convolutional encoder–decoder
+Phase estimation
+Quality and intelligibility
+Recurrent networks
+Higher education
+Isomorphic multimodality
+Management system
+Semi-supervised fusion features
+Classroom feedback systems
+computer science education
+feature engineering
+teaching programming
+forensic science
+image databases
+face quality
+GAN
+generative priors
+subjective study
+Columnar temporal databases
+Partial periodic patterns
+ACE2
+Asthma
+Comorbidity
+Host factor
+SARS-CoV-2
+BERT
+Flash flood
+Multi-label text classification
+Text classification
+african
+biometric entropy
+demographic differentials
+equity measure
+Ethnicity
