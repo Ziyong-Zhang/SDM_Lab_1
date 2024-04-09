@@ -54,7 +54,7 @@ start_id,end_id
 10.1145/3595647.3595651,"Workshop on Verifiable Database Systems, VDBS"
 10.1145/3630202.3630225,"CoNEXT Student Workshop, CoNEXT-SW"
 10.1145/3617694.3623223,"ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization, EAAMO"
-10.30420/456164024,15th ITG Conference on Speech Communication
+10.30420/456164024,ITG Conference on Speech Communication
 10.4230/LIPIcs.ICDT.2023.24,"International Conference on Database Theory, ICDT"
 10.1145/3615522.3615555,"International Symposium on Visual Information Communication and Interaction, VINCI"
 10.1109/ICITES59818.2023.10356864,"IEEE International Conference on Intelligent Technology and Embedded Systems, ICITES"
@@ -78,7 +78,7 @@ start_id,end_id
 10.1109/BigDIA60676.2023.10429411,"International Conference on Big Data and Information Analytics, BigDIA"
 10.1145/3575693.3575699,"ACM International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS"
 10.1109/IMCOM60618.2024.10418292,"International Conference on Ubiquitous Information Management and Communication, IMCOM"
-10.1145/3597465.3605224,- Co-located with SIGMOD
+10.1145/3597465.3605224,"Workshop on Human-In-the-Loop Data Analytics, HILDA"
 10.1109/SmartCloud58862.2023.00020,"IEEE International Conference on Smart Cloud, SmartCloud"
 10.1109/SUMMA60232.2023.10349480,"International Conference on Control Systems, Mathematical Modeling, Automation and Energy Efficiency, SUMMA"
 10.1145/3638837.3638845,"International Conference on Networks, Communication and Computing, Conference Proceedings, ICNCC"
@@ -116,7 +116,7 @@ start_id,end_id
 10.1109/CANDAR60563.2023.00028,"International Symposium on Computing and Networking, CANDAR"
 10.1145/3627535.3638478,"ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP"
 10.1145/3611643.3613893,"ACM Joint Meeting European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/FSE"
-,- Findings of EACL
+,"Conference of the European Chapter of the Association for Computational Linguistics, EACL"
 10.1145/3564246.3585175,"Annual ACM Symposium on Theory of Computing, STOC"
 10.1109/ISCTech60480.2023.00094,"International Conference on Information Systems and Computing Technology, ISCTech"
 10.1145/3588195.3592982,"International Symposium on High-Performance Parallel and Distributed Computing, HPDC"
@@ -138,7 +138,7 @@ start_id,end_id
 10.1145/3609956.3609968,"International Symposium on Spatial and Temporal Data, SSTD"
 10.1145/3592980.3595300,"International Workshop on Data Management on New Hardware, DaMoN"
 10.1109/SSI58917.2023.10387755,"Smart Systems Integration Conference and Exhibition, SSI"
-10.5194/isprs-archives-XLVIII-4-W6-2022-261-2023,2022 Geoinformation Week: Broadening Geospatial Science and Technology
+10.5194/isprs-archives-XLVIII-4-W6-2022-261-2023,Geoinformation Week: Broadening Geospatial Science and Technology
 10.26615/978-954-452-090-8_002,"Workshop on Computational Terminology in NLP and Translation Studies, ConTeNTS"
 10.1109/CANDARW60564.2023.00013,"International Symposium on Computing and Networking Workshops, CANDARW"
 10.1109/CIPAE60493.2023.00019,"International Conference on Computers, Information Processing and Advanced Education, CIPAE"
@@ -150,7 +150,7 @@ start_id,end_id
 10.1145/3615522.3615529,"International Symposium on Visual Information Communication and Interaction, VINCI"
 10.1109/VizSec60606.2023.00011,"IEEE Symposium on Visualization for Cyber Security, VizSec"
 10.1109/IEMENTech60402.2023.10423485,"International Conference on Electronics, Materials Engineering and Nano-Technology, IEMENTech"
-10.1145/3583133.3590662,"2023 Genetic and Evolutionary Computation Conference Companion, GECCO 2023 Companion"
+10.1145/3583133.3590662,"Genetic and Evolutionary Computation Conference Companion, GECCO"
 10.1145/3583120.3586957,"ACM/IEEE International Conference on Information Processing in Sensor Networks, IPSN"
 10.1145/3576841.3589614,ICCPS
 10.1145/3555041.3590817,"ACM/SIGMOD International Conference on Management of Data, SIGMOD"
@@ -234,8 +234,8 @@ start_id,end_id
 10.1145/3539618.3591637,"International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR"
 10.1145/3613917.3613923,"International Conference on Multimedia Systems and Signal Processing, ICMSSP"
 10.48786/edbt.2023.52,"International Conference on Extending Database Technology, EDBT"
-10.5194/isprs-archives-XLVIII-M-2-2023-1665-2023,"29th CIPA Symposium on Documenting, Understanding, Preserving Cultural Heritage. Humanities and Digital Technologies for Shaping the Future"
-10.5194/isprs-archives-XLVIII-4-W7-2023-261-2023,"2023 Free and Open Source Software for Geospatial, FOSS4G 2023"
+10.5194/isprs-archives-XLVIII-M-2-2023-1665-2023,"CIPA Symposium on Documenting, Understanding, Preserving Cultural Heritage. Humanities and Digital Technologies for Shaping the Future"
+10.5194/isprs-archives-XLVIII-4-W7-2023-261-2023,"20th Free and Open Source Software for Geospatial, FOSS4G 2023"
 10.1145/3555776.3577733,"Annual ACM Symposium on Applied Computing, SAC"
 10.1145/3580305.3599352,"ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD"
 10.1145/3552326.3567492,"European Conference on Computer Systems, EuroSys"
