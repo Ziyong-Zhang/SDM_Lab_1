@@ -1,20 +1,19 @@
 paper_id,keywords
-10.1145/3592686.3592756,Archaeological
-10.1145/3592686.3592756,Database
-10.1145/3592686.3592756,Database construction
-10.1145/3592686.3592756,Heritage Protection
-10.1145/3592686.3592756,Model reconstruction
-10.1145/3592686.3592756,Model repair
-10.1145/3592686.3592756,System design
+10.1145/3615833.3628590,learned index
+10.1145/3615833.3628590,spatial relationship query
+10.1145/3577163.3595091,digital watermarking
+10.1145/3577163.3595091,histogram shifting
+10.1145/3577163.3595091,prediction error.
+10.1145/3577163.3595091,reversible database watermarking
 10.5194/isprs-archives-XLVIII-4-W6-2022-261-2023,Coastal inundation
 10.5194/isprs-archives-XLVIII-4-W6-2022-261-2023,Geographical Information System (GIS)
 10.5194/isprs-archives-XLVIII-4-W6-2022-261-2023,Radar Altimetry Database System (RADS)
 10.5194/isprs-archives-XLVIII-4-W6-2022-261-2023,sea level rise
 10.5194/isprs-archives-XLVIII-4-W6-2022-261-2023,shoreline
-10.1145/3583788.3583819,5G
-10.1145/3583788.3583819,Fingerprint database
-10.1145/3583788.3583819,Indoor positioning
-10.1145/3583788.3583819,Machine learning
+10.1145/3638837.3638845,Database
+10.1145/3638837.3638845,OpenFlow
+10.1145/3638837.3638845,Ryu
+10.1145/3638837.3638845,SDN
 10.3233/ATDE221245,Bibliometric Analysis
 10.3233/ATDE221245,Crop Disease
 10.3233/ATDE221245,Deep Learning
@@ -22,10 +21,14 @@ paper_id,keywords
 10.3233/ATDE221245,Network Analysis
 10.3233/ATDE221245,Neural Networks
 10.3233/ATDE221245,Plant Disease
-10.1145/3595647.3595651,Concurrency
-10.1145/3595647.3595651,Merkle Trees
-10.1145/3595647.3595651,Outsourced Databases
-10.1145/3595647.3595651,Verifiable Databases
+10.1145/3634848.3634859,A/B Test
+10.1145/3634848.3634859,Software Requirements
+10.1145/3634848.3634859,Software Testing
+10.1145/3634848.3634859,UX/UI Design
+10.1145/3584371.3612997,enhancer-promoter interaction
+10.1145/3584371.3612997,maximum flow
+10.1145/3584371.3612997,negative set
+10.1145/3584371.3612997,TransEPI
 10.4230/LIPIcs.ICDT.2023.6,Conjunctive Queries
 10.4230/LIPIcs.ICDT.2023.6,Subgraph Pattern Counting
 10.4230/LIPIcs.ICDT.2023.6,Subgraph Pattern Listing
@@ -71,21 +74,18 @@ paper_id,keywords
 10.4230/LIPIcs.ICDT.2023.10,Complexity
 10.4230/LIPIcs.ICDT.2023.10,Diversity of Solutions
 10.4230/LIPIcs.ICDT.2023.10,Query Answering
-10.1145/3594315.3594407,anchor-free
-10.1145/3594315.3594407,lightweight network
-10.1145/3594315.3594407,one-stage detector
-10.1145/3589462.3589488,Error
-10.1145/3589462.3589488,Hamming distance
-10.1145/3589462.3589488,Neural network
-10.1145/3589462.3589488,Noise
-10.1145/3589462.3589488,Phoneme
-10.1145/3589462.3589488,Signal
-10.1145/3589462.3589488,Speech recognition
-10.1145/3592307.3592330,Deep learning
-10.1145/3592307.3592330,Fingerprint technique
-10.1145/3592307.3592330,Generative Adversarial Networks (GANs)
-10.1145/3592307.3592330,Indoor localization
-10.1145/3592307.3592330,Multilayer Perceptron (MLP)
+10.1145/3584371.3612990,computational genomics
+10.1145/3584371.3612990,distributed computing
+10.1145/3584371.3612990,genotyping algorithms
+10.1145/3584371.3613022,computational models
+10.1145/3584371.3613022,crowdsourcing
+10.1145/3584371.3613022,data integration
+10.1145/3584371.3613022,knowledge ecosystem
+10.1145/3584371.3613022,molecular mechanism
+10.1145/3584371.3613022,query reformulation
+10.1145/3620678.3624668,database system
+10.1145/3620678.3624668,multi-tenant
+10.1145/3620678.3624668,user disengagement ratio
 10.1145/3588195.3592982,compaction
 10.1145/3588195.3592982,key-value storage
 10.1145/3588195.3592982,LSM-tree
@@ -107,12 +107,8 @@ paper_id,keywords
 10.1145/3552326.3587434,key distribution
 10.1145/3552326.3567492,Databases
 10.1145/3552326.3567492,Verification
-10.1145/3592307.3592335,Fingerprint indoor localization
-10.1145/3592307.3592335,K-Nearest Neighbor
-10.1145/3592307.3592335,Linear Regression
-10.1145/3592307.3592335,Pathloss model
-10.1145/3592307.3592335,Polynomial Regression
-10.1145/3592307.3592335,RSSI
+10.1145/3620678.3624656,Decision Forest
+10.1145/3620678.3624656,Machine Learning System
 10.1145/3544549.3585794,database management system
 10.1145/3544549.3585794,error
 10.1145/3544549.3585794,query execution plan
@@ -138,40 +134,44 @@ paper_id,keywords
 10.1145/3544549.3585884,human-robot interaction
 10.1145/3544549.3585884,kitchen
 10.1145/3544549.3585884,robots
-10.1145/3594441.3594448,Ivey case
-10.1145/3594441.3594448,Metauniverse model
-10.1145/3594441.3594448,Reform of Accounting Case Teaching
-10.1145/3594441.3594448,The Harvard case
+10.1145/3576841.3589614,Cyber-Risk assessment
+10.1145/3576841.3589614,Cybersecurity
+10.1145/3576841.3589614,Industrial Control Systems
+10.1145/3576841.3589614,MITRE ATT&CK Database
+10.1145/3576841.3589614,NVD Database
+10.1145/3576841.3589614,Programmable Logic Controller
 10.1145/3630202.3630225,databases
 10.1145/3630202.3630225,embedded
 10.1145/3630202.3630225,serverless
 10.1145/3583133.3590662,Ising Machines
 10.1145/3583133.3590662,Quantum Annealing
 10.1145/3583133.3590662,QUBO
+10.1145/3616712.3616791,current issues
+10.1145/3616712.3616791,Digital marketing
+10.1145/3616712.3616791,literature review
+10.1145/3616712.3616791,tourism destination
+10.1145/3614321.3614381,Brazil
+10.1145/3614321.3614381,e-court
+10.1145/3614321.3614381,e-justice
+10.1145/3614321.3614381,judicial database
+10.1145/3614321.3614381,jurimetry
+10.1145/3614321.3614381,justice administration
+10.1145/3614321.3614381,open-data
+10.1145/3615522.3615555,Algorithmic Generation
+10.1145/3615522.3615555,Database Aesthetics
+10.1145/3615522.3615555,Deep Learning
+10.1145/3615522.3615555,Found Footage
+10.1145/3615522.3615555,Video
+10.1145/3579856.3582826,inner product
+10.1145/3579856.3582826,private intersection-sum
+10.1145/3579856.3582826,private join and compute
+10.1145/3579856.3582826,private set intersection
+10.1145/3579856.3582826,secure computation
+10.1145/3579856.3582826,two-party computation
 10.1145/3609956.3609968,Interval Adjustment
 10.1145/3609956.3609968,Query Processing
 10.1145/3609956.3609968,Temporal Data
 10.1145/3609956.3609968,Temporal Joins
-10.1145/3579027.3608990,database evolution
-10.1145/3579027.3608990,software product lines
-10.1145/3606843.3606859,classification
-10.1145/3606843.3606859,Electrocardiogram
-10.1145/3606843.3606859,long short-term memory
-10.1145/3606843.3606859,residual network
-10.1145/3606843.3606859,Squeeze-and-Excitation attention
-10.1145/3613917.3613923,classifier fusion
-10.1145/3613917.3613923,deep learning
-10.1145/3613917.3613923,handwritten character recognition
-10.1145/3613917.3613923,Houma alliance book
-10.1145/3609987.3609994,Database
-10.1145/3609987.3609994,Developers
-10.1145/3609987.3609994,Interview
-10.1145/3609987.3609994,Perceptions
-10.1145/3609987.3609994,Students
-10.1145/3609987.3609994,Technology adoption
-10.1145/3614008.3614044,Downhole positioning
-10.1145/3614008.3614044,PnP
-10.1145/3614008.3614044,pose estimation
 10.1145/3592980.3595316,B+ tree
 10.1145/3592980.3595316,cache-aware layout
 10.1145/3592980.3595316,in-memory index
@@ -189,31 +189,29 @@ paper_id,keywords
 10.1145/3592980.3595323,database accelerator
 10.1145/3592980.3595323,Processing-in-Memory
 10.1145/3592980.3595323,query processing
-10.1145/3615522.3615555,Algorithmic Generation
-10.1145/3615522.3615555,Database Aesthetics
-10.1145/3615522.3615555,Deep Learning
-10.1145/3615522.3615555,Found Footage
-10.1145/3615522.3615555,Video
+10.1145/3595647.3595651,Concurrency
+10.1145/3595647.3595651,Merkle Trees
+10.1145/3595647.3595651,Outsourced Databases
+10.1145/3595647.3595651,Verifiable Databases
 10.1145/3617694.3623223,AI harms
 10.1145/3617694.3623223,AI safety
 10.1145/3617694.3623223,classroom exploration
 10.1145/3617694.3623223,educational tool
 10.1145/3617694.3623223,incident database
-10.1145/3614321.3614381,Brazil
-10.1145/3614321.3614381,e-court
-10.1145/3614321.3614381,e-justice
-10.1145/3614321.3614381,judicial database
-10.1145/3614321.3614381,jurimetry
-10.1145/3614321.3614381,justice administration
-10.1145/3614321.3614381,open-data
-10.1145/3616712.3616791,current issues
-10.1145/3616712.3616791,Digital marketing
-10.1145/3616712.3616791,literature review
-10.1145/3616712.3616791,tourism destination
-10.1145/3633053.3633059,Automated Assessment
-10.1145/3633053.3633059,Databases
-10.1145/3633053.3633059,SQL
-10.1145/3633053.3633059,Web-based Learning
+10.1109/MODELS-C59198.2023.00009,data exchange optimization
+10.1109/MODELS-C59198.2023.00009,data interoperability
+10.1109/MODELS-C59198.2023.00009,data specification
+10.1109/MODELS-C59198.2023.00009,multi-model databases
+10.1145/3555041.3589402,failure recovery
+10.1145/3555041.3589402,in-memory database
+10.1145/3555041.3589402,main memory
+10.1145/3555041.3589404,databases
+10.1145/3555041.3589404,quantum computing
+10.1145/3555041.3589404,quantum machine learning
+10.1145/3555041.3589400,join sampling framework
+10.1145/3555041.3589400,multi-way joins
+10.1145/3555041.3589400,random sampling
+10.1145/3555041.3589400,union sampling
 10.5194/isprs-archives-XLVIII-4-W7-2023-261-2023,COVID-19
 10.5194/isprs-archives-XLVIII-4-W7-2023-261-2023,Database
 10.5194/isprs-archives-XLVIII-4-W7-2023-261-2023,FOSS GIS
@@ -225,38 +223,17 @@ paper_id,keywords
 10.5194/isprs-archives-XLVIII-M-2-2023-1665-2023,interoperability
 10.5194/isprs-archives-XLVIII-M-2-2023-1665-2023,vocabularies
 10.5194/isprs-archives-XLVIII-M-2-2023-1665-2023,WebGIS
-10.1145/3634848.3634859,A/B Test
-10.1145/3634848.3634859,Software Requirements
-10.1145/3634848.3634859,Software Testing
-10.1145/3634848.3634859,UX/UI Design
-10.1145/3631802.3631821,Data Systems Education
-10.1145/3631802.3631821,Databases
-10.1145/3631802.3631821,Misconceptions
-10.1145/3631802.3631821,SQL
+10.1145/3555041.3590817,database systems
+10.1145/3555041.3590817,simple but effective ideas
+10.1145/3555041.3590817,simplicity
+10.1145/3555041.3590816,compilers
+10.1145/3555041.3590816,databases
+10.1145/3555041.3590816,modern hardware
+10.1145/3555041.3590816,networking
 10.1145/3637494.3637516,Database
 10.1145/3637494.3637516,Feature Encoding
 10.1145/3637494.3637516,Query Optimization
 10.1145/3637494.3637516,Transformer
-10.1145/3639390.3639393,Articulated Body Pose Estimation
-10.1145/3639390.3639393,Artificial Intelligence
-10.1145/3639390.3639393,Data Mining
-10.1145/3639390.3639393,Gait Recognition
-10.1145/3639390.3639393,Sequential Pattern Mining
-10.1145/3638837.3638845,Database
-10.1145/3638837.3638845,OpenFlow
-10.1145/3638837.3638845,Ryu
-10.1145/3638837.3638845,SDN
-10.1145/3640824.3640869,database
-10.1145/3640824.3640869,evolutionary algorithm
-10.1145/3640824.3640869,query perception
-10.1145/3640824.3640869,reinforcement learning
-10.1145/3640824.3640869,tuning parameters
-10.1145/3641819,Additional Key Words and PhrasesVulnerability
-10.1145/3641819,knowledge graph
-10.1145/3641819,link prediction
-10.1145/3641819,threat modeling
-10.1145/3593856.3595905,access control
-10.1145/3593856.3595905,database-backed applications
 10.1145/3543873.3587563,Chase
 10.1145/3543873.3587563,Data Provenance
 10.1145/3543873.3587563,Research Data Management
@@ -265,43 +242,69 @@ paper_id,keywords
 10.1145/3543873.3587586,pattern mining
 10.1145/3543873.3587586,significant pattern
 10.1145/3543873.3587586,weighted pattern.
-10.1145/3584371.3612997,enhancer-promoter interaction
-10.1145/3584371.3612997,maximum flow
-10.1145/3584371.3612997,negative set
-10.1145/3584371.3612997,TransEPI
-10.1145/3584371.3612990,computational genomics
-10.1145/3584371.3612990,distributed computing
-10.1145/3584371.3612990,genotyping algorithms
-10.1145/3584371.3613022,computational models
-10.1145/3584371.3613022,crowdsourcing
-10.1145/3584371.3613022,data integration
-10.1145/3584371.3613022,knowledge ecosystem
-10.1145/3584371.3613022,molecular mechanism
-10.1145/3584371.3613022,query reformulation
-10.1145/3615833.3628590,learned index
-10.1145/3615833.3628590,spatial relationship query
-10.1145/3576915.3624394,DBMS
-10.1145/3576915.3624394,Isolation Level
-10.1145/3576915.3624394,Race Condition
-10.1145/3576915.3624394,Transaction
-10.1145/3576915.3624394,Web Application
-10.1145/3611643.3613893,database-centric system
-10.1145/3611643.3613893,field testing
-10.1145/3611643.3613893,Performance analysis
-10.1145/3611643.3613893,performance issue
-10.1145/3611643.3613893,performance regression
-10.1145/3611643.3613893,root cause analysis
-10.1145/3615887.3627753,Californian History
-10.1145/3615887.3627753,Digital Humaities
-10.1145/3615887.3627753,Geospatial Database
-10.1145/3615887.3627753,The American Civil War
-10.1145/3615887.3627753,United Daughters of the Confederacy
+10.1145/3618257.3624843,bgp
+10.1145/3618257.3624843,internet routing registry
+10.1145/3618257.3624843,routing security
+10.1145/3593856.3595905,access control
+10.1145/3593856.3595905,database-backed applications
+10.1145/3631802.3631821,Data Systems Education
+10.1145/3631802.3631821,Databases
+10.1145/3631802.3631821,Misconceptions
+10.1145/3631802.3631821,SQL
+10.1145/3579027.3608990,database evolution
+10.1145/3579027.3608990,software product lines
+10.1145/3589462.3589488,Error
+10.1145/3589462.3589488,Hamming distance
+10.1145/3589462.3589488,Neural network
+10.1145/3589462.3589488,Noise
+10.1145/3589462.3589488,Phoneme
+10.1145/3589462.3589488,Signal
+10.1145/3589462.3589488,Speech recognition
+10.1145/3580305.3599543,clinical time series
+10.1145/3580305.3599543,irregularly sampled time series
+10.1145/3580305.3599543,multi-scale representation
+10.1145/3580305.3599405,autoregressive models
+10.1145/3580305.3599405,in-database operators
+10.1145/3580305.3599405,lsm store
+10.1145/3580305.3599395,database middleware
+10.1145/3580305.3599395,pre-trained language model
+10.1145/3580305.3599395,trojan attack
+10.1145/3580305.3599352,preference learning
+10.1145/3580305.3599352,streaming algorithms
+10.1145/3580305.3599352,user interaction
+10.1145/3627535.3638478,GPU-Parallel Algorithm
+10.1145/3627535.3638478,Radix Select
+10.1145/3627535.3638478,Top-K
 10.1145/3615890.3628537,pictorial querying
 10.1145/3615890.3628537,searching geospatial objects
 10.1145/3615890.3628537,spatial pattern matching
 10.1145/3581641.3584067,database systems
 10.1145/3581641.3584067,Empirical study
 10.1145/3581641.3584067,human-computer interaction
+10.1145/3609987.3609994,Database
+10.1145/3609987.3609994,Developers
+10.1145/3609987.3609994,Interview
+10.1145/3609987.3609994,Perceptions
+10.1145/3609987.3609994,Students
+10.1145/3609987.3609994,Technology adoption
+10.1145/3576915.3624394,DBMS
+10.1145/3576915.3624394,Isolation Level
+10.1145/3576915.3624394,Race Condition
+10.1145/3576915.3624394,Transaction
+10.1145/3576915.3624394,Web Application
+10.1145/3581783.3611860,deep learning
+10.1145/3581783.3611860,feature fusion
+10.1145/3581783.3611860,video database
+10.1145/3581783.3611860,video quality assessment
+10.4230/LIPIcs.MFCS.2023.39,Dynamic Complexity
+10.4230/LIPIcs.MFCS.2023.39,Planar embedding
+10.4230/LIPIcs.MFCS.2023.39,Planar graphs
+10.1145/3611643.3613893,database-centric system
+10.1145/3611643.3613893,field testing
+10.1145/3611643.3613893,Performance analysis
+10.1145/3611643.3613893,performance issue
+10.1145/3611643.3613893,performance regression
+10.1145/3611643.3613893,root cause analysis
 10.1145/3589132.3625623,Apache parquet
 10.1145/3589132.3625623,mobility data
 10.1145/3589132.3625623,spatio-temporal
@@ -310,58 +313,39 @@ paper_id,keywords
 10.1145/3589132.3625601,decision trees
 10.1145/3589132.3625601,index structures
 10.1145/3589132.3625601,search engine
+10.1145/3597926.3598116,Static Taint Analysis
+10.1145/3597926.3598116,Stored XSS
+10.1145/3597926.3598116,Vulnerability Detection
+10.1145/3597926.3598116,Web Application Security
 10.1145/3603163.3609049,algorithmic profiling
 10.1145/3603163.3609049,content moderation
 10.1145/3603163.3609049,database aesthetics
 10.1145/3603163.3609049,Digital literacy
 10.1145/3603163.3609049,hyperlinking
-10.4230/LIPIcs.MFCS.2023.39,Dynamic Complexity
-10.4230/LIPIcs.MFCS.2023.39,Planar embedding
-10.4230/LIPIcs.MFCS.2023.39,Planar graphs
-10.1145/3576841.3589614,Cyber-Risk assessment
-10.1145/3576841.3589614,Cybersecurity
-10.1145/3576841.3589614,Industrial Control Systems
-10.1145/3576841.3589614,MITRE ATT&CK Database
-10.1145/3576841.3589614,NVD Database
-10.1145/3576841.3589614,Programmable Logic Controller
-10.1109/TNET.2024.3352029,age of information
-10.1109/TNET.2024.3352029,caching
-10.1109/TNET.2024.3352029,Content distribution networks
-10.1109/TNET.2024.3352029,Costs
-10.1109/TNET.2024.3352029,Databases
-10.1109/TNET.2024.3352029,dynamic content
-10.1109/TNET.2024.3352029,Measurement
-10.1109/TNET.2024.3352029,Social networking (online)
-10.1109/TNET.2024.3352029,Sociology
-10.1109/TNET.2024.3352029,Statistics
-10.1109/TNET.2024.3352029,Video on demand
-10.1145/3577163.3595091,digital watermarking
-10.1145/3577163.3595091,histogram shifting
-10.1145/3577163.3595091,prediction error.
-10.1145/3577163.3595091,reversible database watermarking
-10.1145/3597926.3598116,Static Taint Analysis
-10.1145/3597926.3598116,Stored XSS
-10.1145/3597926.3598116,Vulnerability Detection
-10.1145/3597926.3598116,Web Application Security
-10.1145/3633512,conjunctive queries
-10.1145/3633512,I/O-efficient
-10.1145/3633512,Joins
-10.1145/3633512,lower bounds
-10.1145/3633512,massively parallel computation
-10.1145/3581783.3611860,deep learning
-10.1145/3581783.3611860,feature fusion
-10.1145/3581783.3611860,video database
-10.1145/3581783.3611860,video quality assessment
-10.1109/MODELS-C59198.2023.00009,data exchange optimization
-10.1109/MODELS-C59198.2023.00009,data interoperability
-10.1109/MODELS-C59198.2023.00009,data specification
-10.1109/MODELS-C59198.2023.00009,multi-model databases
-10.1145/3579856.3582826,inner product
-10.1145/3579856.3582826,private intersection-sum
-10.1145/3579856.3582826,private join and compute
-10.1145/3579856.3582826,private set intersection
-10.1145/3579856.3582826,secure computation
-10.1145/3579856.3582826,two-party computation
+10.1145/3555776.3577652,ad hoc querying
+10.1145/3555776.3577652,biological databases
+10.1145/3555776.3577652,data integration
+10.1145/3555776.3577652,query reformulation
+10.1145/3555776.3577652,schema abstraction
+10.1145/3555776.3577652,schema graph
+10.1145/3555776.3577772,bioinformatics
+10.1145/3555776.3577772,high-performance computing
+10.1145/3555776.3577772,lncRNA-RNA
+10.1145/3555776.3577772,MPI
+10.1145/3555776.3577772,OpenMP
+10.1145/3555776.3577772,parallel computing
+10.1145/3555776.3577733,database systems
+10.1145/3555776.3577733,log optimization
+10.1145/3555776.3577733,non volatile memory
+10.1145/3555776.3577733,relational database
+10.1145/3555776.3577733,storage systems
+10.1145/3592686.3592756,Archaeological
+10.1145/3592686.3592756,Database
+10.1145/3592686.3592756,Database construction
+10.1145/3592686.3592756,Heritage Protection
+10.1145/3592686.3592756,Model reconstruction
+10.1145/3592686.3592756,Model repair
+10.1145/3592686.3592756,System design
 10.1145/3584372.3589935,bottom-$k$
 10.1145/3584372.3589935,coordinated samples
 10.1145/3584372.3589935,distance sketches
@@ -389,18 +373,20 @@ paper_id,keywords
 10.1145/3584372.3588667,enumeration
 10.1145/3584372.3588667,fine-grained
 10.1145/3584372.3588667,self-joins
-10.1145/3618257.3624843,bgp
-10.1145/3618257.3624843,internet routing registry
-10.1145/3618257.3624843,routing security
-10.1145/3580305.3599543,clinical time series
-10.1145/3580305.3599543,irregularly sampled time series
-10.1145/3580305.3599543,multi-scale representation
-10.1145/3580305.3599405,autoregressive models
-10.1145/3580305.3599405,in-database operators
-10.1145/3580305.3599405,lsm store
-10.1145/3580305.3599395,database middleware
-10.1145/3580305.3599395,pre-trained language model
-10.1145/3580305.3599395,trojan attack
+10.1145/3539618.3591637,heterogeneous data lake
+10.1145/3539618.3591637,query answering
+10.1145/3539618.3591637,relational schema
+10.1145/3539618.3592061,fairness
+10.1145/3539618.3592061,independence
+10.1145/3539618.3592061,inner product search
+10.1145/3539618.3591702,Personalized recommendation
+10.1145/3539618.3591702,Ranking ensemble
+10.1145/3539618.3591702,User intents
+10.1145/3545945.3569727,context
+10.1145/3545945.3569727,database
+10.1145/3545945.3569727,design
+10.1145/3545945.3569727,education
+10.1145/3545945.3569727,engagement
 10.1145/3577193.3593734,array database
 10.1145/3577193.3593734,scientific data management
 10.1145/3577193.3593734,versioning
@@ -408,9 +394,13 @@ paper_id,keywords
 10.1145/3575693.3575699,Database constraints
 10.1145/3575693.3575699,Static analysis
 10.1145/3575693.3575699,Web applications
-10.1145/3580305.3599352,preference learning
-10.1145/3580305.3599352,streaming algorithms
-10.1145/3580305.3599352,user interaction
+10.1145/3545947.3576350,auditing
+10.1145/3545947.3576350,authentication
+10.1145/3545947.3576350,authorization
+10.1145/3545947.3576350,change tracking
+10.1145/3545947.3576350,data encryption
+10.1145/3545947.3576350,database administration
+10.1145/3545947.3576350,database security
 10.1109/BIOSIG58226.2023.10345997,eHealth
 10.1109/BIOSIG58226.2023.10345997,Face database
 10.1109/BIOSIG58226.2023.10345997,Thermal spectrum
@@ -450,22 +440,21 @@ paper_id,keywords
 10.1109/DSC61021.2023.10354217,cyber risk evaluation
 10.1109/DSC61021.2023.10354217,mobile security
 10.1109/DSC61021.2023.10354217,software security
-10.1145/3555041.3589402,failure recovery
-10.1145/3555041.3589402,in-memory database
-10.1145/3555041.3589402,main memory
-10.1145/3555041.3589404,databases
-10.1145/3555041.3589404,quantum computing
-10.1145/3555041.3589404,quantum machine learning
+10.1145/3564246.3585175,doubly efficient PIR
+10.1145/3564246.3585175,FHE for RAM
+10.1145/3606843.3606859,classification
+10.1145/3606843.3606859,Electrocardiogram
+10.1145/3606843.3606859,long short-term memory
+10.1145/3606843.3606859,residual network
+10.1145/3606843.3606859,Squeeze-and-Excitation attention
 10.1109/SmartCloud58862.2023.00020,content-addressable memory
 10.1109/SmartCloud58862.2023.00020,DNA Sequencing. Bioinformatics
 10.1109/SmartCloud58862.2023.00020,Field-programmable gate array
-10.1145/3555041.3589400,join sampling framework
-10.1145/3555041.3589400,multi-way joins
-10.1145/3555041.3589400,random sampling
-10.1145/3555041.3589400,union sampling
-10.1145/3555041.3590817,database systems
-10.1145/3555041.3590817,simple but effective ideas
-10.1145/3555041.3590817,simplicity
+10.1145/3592307.3592330,Deep learning
+10.1145/3592307.3592330,Fingerprint technique
+10.1145/3592307.3592330,Generative Adversarial Networks (GANs)
+10.1145/3592307.3592330,Indoor localization
+10.1145/3592307.3592330,Multilayer Perceptron (MLP)
 10.1109/GHTC56179.2023.10354568,database
 10.1109/GHTC56179.2023.10354568,integration
 10.1109/GHTC56179.2023.10354568,sustainable management
@@ -482,10 +471,12 @@ paper_id,keywords
 10.1109/ICEBE59045.2023.00043,multi-factor authentication
 10.1109/ICEBE59045.2023.00043,security
 10.1109/ICEBE59045.2023.00043,Value Proposition Canvas
-10.1145/3555041.3590816,compilers
-10.1145/3555041.3590816,databases
-10.1145/3555041.3590816,modern hardware
-10.1145/3555041.3590816,networking
+10.1145/3592307.3592335,Fingerprint indoor localization
+10.1145/3592307.3592335,K-Nearest Neighbor
+10.1145/3592307.3592335,Linear Regression
+10.1145/3592307.3592335,Pathloss model
+10.1145/3592307.3592335,Polynomial Regression
+10.1145/3592307.3592335,RSSI
 10.1109/CISCT57197.2023.10351356,Chest radiography pictures
 10.1109/CISCT57197.2023.10351356,CNN
 10.1109/CISCT57197.2023.10351356,Computed tomography (CT) scan
@@ -585,9 +576,9 @@ paper_id,keywords
 10.1109/IW_MSS59200.2023.10368597,multiclass classification
 10.1109/IW_MSS59200.2023.10368597,Non-Destructive Testing (NDT)
 10.1109/IW_MSS59200.2023.10368597,X-ray images
-10.1145/3627535.3638478,GPU-Parallel Algorithm
-10.1145/3627535.3638478,Radix Select
-10.1145/3627535.3638478,Top-K
+10.1145/3614008.3614044,Downhole positioning
+10.1145/3614008.3614044,PnP
+10.1145/3614008.3614044,pose estimation
 10.1109/SIPAIM56729.2023.10373523,cytology
 10.1109/SIPAIM56729.2023.10373523,machine learning
 10.1109/SIPAIM56729.2023.10373523,malignancy prediction
@@ -630,12 +621,11 @@ paper_id,keywords
 ,digital platform
 ,generative adversarial networks. training data sets
 ,image generation
-10.1145/3555776.3577652,ad hoc querying
-10.1145/3555776.3577652,biological databases
-10.1145/3555776.3577652,data integration
-10.1145/3555776.3577652,query reformulation
-10.1145/3555776.3577652,schema abstraction
-10.1145/3555776.3577652,schema graph
+10.1145/3615887.3627753,Californian History
+10.1145/3615887.3627753,Digital Humaities
+10.1145/3615887.3627753,Geospatial Database
+10.1145/3615887.3627753,The American Civil War
+10.1145/3615887.3627753,United Daughters of the Confederacy
 10.1016/j.procs.2023.11.108,Database Design
 10.1016/j.procs.2023.11.108,DB2 Database
 10.1016/j.procs.2023.11.108,Digital Teaching Case Base System
@@ -686,12 +676,10 @@ paper_id,keywords
 ,Machine Translation
 ,Natural Language Processing
 ,Prompt Engineering
-10.1145/3555776.3577772,bioinformatics
-10.1145/3555776.3577772,high-performance computing
-10.1145/3555776.3577772,lncRNA-RNA
-10.1145/3555776.3577772,MPI
-10.1145/3555776.3577772,OpenMP
-10.1145/3555776.3577772,parallel computing
+10.1145/3583788.3583819,5G
+10.1145/3583788.3583819,Fingerprint database
+10.1145/3583788.3583819,Indoor positioning
+10.1145/3583788.3583819,Machine learning
 10.1109/SSI58917.2023.10387755,AI
 10.1109/SSI58917.2023.10387755,database
 10.1109/SSI58917.2023.10387755,IMU
@@ -779,18 +767,20 @@ paper_id,keywords
 10.1109/CANDARW60564.2023.00013,OLTP
 10.1109/CANDARW60564.2023.00013,real-time database system
 10.1109/CANDARW60564.2023.00013,transaction priority
-10.1145/3555776.3577733,database systems
-10.1145/3555776.3577733,log optimization
-10.1145/3555776.3577733,non volatile memory
-10.1145/3555776.3577733,relational database
-10.1145/3555776.3577733,storage systems
-10.1145/3564246.3585175,doubly efficient PIR
-10.1145/3564246.3585175,FHE for RAM
-10.1145/3545945.3569727,context
-10.1145/3545945.3569727,database
-10.1145/3545945.3569727,design
-10.1145/3545945.3569727,education
-10.1145/3545945.3569727,engagement
+10.1145/3639390.3639393,Articulated Body Pose Estimation
+10.1145/3639390.3639393,Artificial Intelligence
+10.1145/3639390.3639393,Data Mining
+10.1145/3639390.3639393,Gait Recognition
+10.1145/3639390.3639393,Sequential Pattern Mining
+10.1145/3633053.3633059,Automated Assessment
+10.1145/3633053.3633059,Databases
+10.1145/3633053.3633059,SQL
+10.1145/3633053.3633059,Web-based Learning
+10.1145/3640824.3640869,database
+10.1145/3640824.3640869,evolutionary algorithm
+10.1145/3640824.3640869,query perception
+10.1145/3640824.3640869,reinforcement learning
+10.1145/3640824.3640869,tuning parameters
 10.1109/BIGCOM61073.2023.00024,Partial Video Copy Detection
 10.1109/BIGCOM61073.2023.00024,Video Copy Detection
 10.1109/BIGCOM61073.2023.00024,Video Copy Localization
@@ -919,13 +909,10 @@ paper_id,keywords
 10.1109/ISCTech60480.2023.00094,data management
 10.1109/ISCTech60480.2023.00094,real estate mass appraisal
 10.1109/ISCTech60480.2023.00094,spatial database
-10.1145/3545947.3576350,auditing
-10.1145/3545947.3576350,authentication
-10.1145/3545947.3576350,authorization
-10.1145/3545947.3576350,change tracking
-10.1145/3545947.3576350,data encryption
-10.1145/3545947.3576350,database administration
-10.1145/3545947.3576350,database security
+10.1145/3594441.3594448,Ivey case
+10.1145/3594441.3594448,Metauniverse model
+10.1145/3594441.3594448,Reform of Accounting Case Teaching
+10.1145/3594441.3594448,The Harvard case
 ,Collocation
 ,corpora
 ,database
@@ -961,16 +948,17 @@ paper_id,keywords
 10.1109/PuneCon58714.2023.10450006,facial biometric
 10.1109/PuneCon58714.2023.10450006,privacy
 10.1109/PuneCon58714.2023.10450006,security
-10.1145/3539618.3591637,heterogeneous data lake
-10.1145/3539618.3591637,query answering
-10.1145/3539618.3591637,relational schema
+10.1145/3613917.3613923,classifier fusion
+10.1145/3613917.3613923,deep learning
+10.1145/3613917.3613923,handwritten character recognition
+10.1145/3613917.3613923,Houma alliance book
 10.1109/ICEFEET59656.2023.10452246,face database
 10.1109/ICEFEET59656.2023.10452246,Heterogeneous face recognition
 10.1109/ICEFEET59656.2023.10452246,NIR-VIS face recognition
 10.1109/ICEFEET59656.2023.10452246,Sketch-VIS face recognition
-10.1145/3539618.3592061,fairness
-10.1145/3539618.3592061,independence
-10.1145/3539618.3592061,inner product search
+10.1145/3594315.3594407,anchor-free
+10.1145/3594315.3594407,lightweight network
+10.1145/3594315.3594407,one-stage detector
 10.4230/LIPIcs.ICDT.2024.23,Degree Constraints
 10.4230/LIPIcs.ICDT.2024.23,Join Sampling
 10.4230/LIPIcs.ICDT.2024.23,Polymatroid Bounds
@@ -1585,9 +1573,10 @@ paper_id,keywords
 10.1007/s00778-024-00846-z,Instant recovery
 10.1007/s00778-024-00846-z,Main memory database
 10.1007/s00778-024-00846-z,System failure
-10.1145/3539618.3591702,Personalized recommendation
-10.1145/3539618.3591702,Ranking ensemble
-10.1145/3539618.3591702,User intents
+10.1145/3641819,Additional Key Words and PhrasesVulnerability
+10.1145/3641819,knowledge graph
+10.1145/3641819,link prediction
+10.1145/3641819,threat modeling
 10.1016/j.specom.2024.103039,Convolutional neural network
 10.1016/j.specom.2024.103039,Machine learning
 10.1016/j.specom.2024.103039,Sound pressure level
@@ -1731,9 +1720,6 @@ paper_id,keywords
 10.1016/j.cad.2023.103630,Database expansion
 10.1016/j.cad.2023.103630,Part retrieval and reuse
 10.1016/j.cad.2023.103630,Reassembly strategies
-10.1145/3620678.3624668,database system
-10.1145/3620678.3624668,multi-tenant
-10.1145/3620678.3624668,user disengagement ratio
 10.1007/s41019-023-00235-6,Database
 10.1007/s41019-023-00235-6,Large language model
 10.1007/s11042-023-15393-y,Agricultural pests and diseases
@@ -2011,8 +1997,17 @@ paper_id,keywords
 10.1109/JIOT.2024.3358349,privacy preserving
 10.1109/JIOT.2024.3358349,WiFi localization
 10.1109/JIOT.2024.3358349,Wireless fidelity
-10.1145/3620678.3624656,Decision Forest
-10.1145/3620678.3624656,Machine Learning System
+10.1109/TNET.2024.3352029,age of information
+10.1109/TNET.2024.3352029,caching
+10.1109/TNET.2024.3352029,Content distribution networks
+10.1109/TNET.2024.3352029,Costs
+10.1109/TNET.2024.3352029,Databases
+10.1109/TNET.2024.3352029,dynamic content
+10.1109/TNET.2024.3352029,Measurement
+10.1109/TNET.2024.3352029,Social networking (online)
+10.1109/TNET.2024.3352029,Sociology
+10.1109/TNET.2024.3352029,Statistics
+10.1109/TNET.2024.3352029,Video on demand
 10.1007/s11042-023-16261-5,Mutual information
 10.1007/s11042-023-16261-5,PCA
 10.1007/s11042-023-16261-5,RMSE
@@ -2030,6 +2025,11 @@ paper_id,keywords
 10.1109/TMM.2024.3371218,Transformer
 10.1109/TMM.2024.3371218,Transformers
 10.1109/TMM.2024.3371218,Underwater image
+10.1145/3633512,conjunctive queries
+10.1145/3633512,I/O-efficient
+10.1145/3633512,Joins
+10.1145/3633512,lower bounds
+10.1145/3633512,massively parallel computation
 10.1007/s11042-024-18488-2,Auto-correloblock
 10.1007/s11042-024-18488-2,CBIR
 10.1007/s11042-024-18488-2,Feature vector

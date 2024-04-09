@@ -1,8 +1,17 @@
 start_id,end_id
-10.1145/3641819,ACM Transactions on Privacy and Security
-10.1145/3624717,Communications of the ACM
-10.1109/TNET.2024.3352029,IEEE/ACM Transactions on Networking
-10.1145/3633512,Journal of the ACM
+10.1145/3606843.3606859,ACM International Conference Proceeding Series
+10.1145/3570991.3571009,ACM International Conference Proceeding Series
+10.1145/3592307.3592330,ACM International Conference Proceeding Series
+10.1145/3592307.3592335,ACM International Conference Proceeding Series
+10.1145/3614008.3614044,ACM International Conference Proceeding Series
+10.1145/3617695.3617702,ACM International Conference Proceeding Series
+10.1145/3583788.3583819,ACM International Conference Proceeding Series
+10.1145/3639390.3639393,ACM International Conference Proceeding Series
+10.1145/3633053.3633059,ACM International Conference Proceeding Series
+10.1145/3640824.3640869,ACM International Conference Proceeding Series
+10.1145/3594441.3594448,ACM International Conference Proceeding Series
+10.1145/3613917.3613923,ACM International Conference Proceeding Series
+10.1145/3594315.3594407,ACM International Conference Proceeding Series
 10.1109/TLA.2024.10431420,IEEE Latin America Transactions
 10.3390/s24051698,Sensors
 10.1016/j.patcog.2023.110240,Pattern Recognition
@@ -119,6 +128,7 @@ start_id,end_id
 10.1109/MITS.2023.3346842,IEEE Intelligent Transportation Systems Magazine
 10.3934/electreng.2024004,AIMS Electronics and Electrical Engineering
 10.1007/s00778-024-00846-z,VLDB Journal
+10.1145/3641819,ACM Transactions on Privacy and Security
 10.1016/j.specom.2024.103039,Speech Communication
 10.1109/TAI.2024.3376319,IEEE Transactions on Artificial Intelligence
 10.2478/amns.2023.2.01665,Applied Mathematics and Nonlinear Sciences
@@ -140,6 +150,7 @@ start_id,end_id
 10.1080/09540091.2024.2323059,Connection Science
 10.1007/s40031-024-01006-1,Journal of The Institution of Engineers (India): Series B
 10.1016/j.cad.2023.103630,CAD Computer Aided Design
+10.1145/3624717,Communications of the ACM
 10.1007/s41019-023-00235-6,Data Science and Engineering
 10.1007/s11042-023-15393-y,Multimedia Tools and Applications
 10.1109/THMS.2023.3329536,IEEE Transactions on Human-Machine Systems
@@ -183,8 +194,10 @@ start_id,end_id
 10.1007/s40031-024-01027-w,Journal of The Institution of Engineers (India): Series B
 10.1016/j.compgeo.2023.105967,Computers and Geotechnics
 10.1109/JIOT.2024.3358349,IEEE Internet of Things Journal
+10.1109/TNET.2024.3352029,IEEE/ACM Transactions on Networking
 10.1007/s11042-023-16261-5,Multimedia Tools and Applications
 10.1109/TMM.2024.3371218,IEEE Transactions on Multimedia
+10.1145/3633512,Journal of the ACM
 10.1007/s11042-024-18488-2,Multimedia Tools and Applications
 10.1109/TSC.2024.3356728,IEEE Transactions on Services Computing
 10.1109/JIOT.2024.3352016,IEEE Internet of Things Journal

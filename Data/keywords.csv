@@ -1,20 +1,19 @@
 keywords
-Archaeological
-Database
-Database construction
-Heritage Protection
-Model reconstruction
-Model repair
-System design
+learned index
+spatial relationship query
+digital watermarking
+histogram shifting
+prediction error.
+reversible database watermarking
 Coastal inundation
 Geographical Information System (GIS)
 Radar Altimetry Database System (RADS)
 sea level rise
 shoreline
-5G
-Fingerprint database
-Indoor positioning
-Machine learning
+Database
+OpenFlow
+Ryu
+SDN
 Bibliometric Analysis
 Crop Disease
 Deep Learning
@@ -22,10 +21,14 @@ Machine Learning
 Network Analysis
 Neural Networks
 Plant Disease
-Concurrency
-Merkle Trees
-Outsourced Databases
-Verifiable Databases
+A/B Test
+Software Requirements
+Software Testing
+UX/UI Design
+enhancer-promoter interaction
+maximum flow
+negative set
+TransEPI
 Conjunctive Queries
 Subgraph Pattern Counting
 Subgraph Pattern Listing
@@ -71,21 +74,18 @@ Algorithms
 Complexity
 Diversity of Solutions
 Query Answering
-anchor-free
-lightweight network
-one-stage detector
-Error
-Hamming distance
-Neural network
-Noise
-Phoneme
-Signal
-Speech recognition
-Deep learning
-Fingerprint technique
-Generative Adversarial Networks (GANs)
-Indoor localization
-Multilayer Perceptron (MLP)
+computational genomics
+distributed computing
+genotyping algorithms
+computational models
+crowdsourcing
+data integration
+knowledge ecosystem
+molecular mechanism
+query reformulation
+database system
+multi-tenant
+user disengagement ratio
 compaction
 key-value storage
 LSM-tree
@@ -106,12 +106,8 @@ dynamic datasets
 index structure
 key distribution
 Verification
-Fingerprint indoor localization
-K-Nearest Neighbor
-Linear Regression
-Pathloss model
-Polynomial Regression
-RSSI
+Decision Forest
+Machine Learning System
 database management system
 error
 query execution plan
@@ -137,43 +133,46 @@ human-computer interaction
 human-robot interaction
 kitchen
 robots
-Ivey case
-Metauniverse model
-Reform of Accounting Case Teaching
-The Harvard case
+Cyber-Risk assessment
+Cybersecurity
+Industrial Control Systems
+MITRE ATT&CK Database
+NVD Database
+Programmable Logic Controller
 databases
 embedded
 serverless
 Ising Machines
 Quantum Annealing
 QUBO
+current issues
+Digital marketing
+literature review
+tourism destination
+Brazil
+e-court
+e-justice
+judicial database
+jurimetry
+justice administration
+open-data
+Algorithmic Generation
+Database Aesthetics
+Found Footage
+Video
+inner product
+private intersection-sum
+private join and compute
+private set intersection
+secure computation
+two-party computation
 Interval Adjustment
 Query Processing
 Temporal Data
 Temporal Joins
-database evolution
-software product lines
-classification
-Electrocardiogram
-long short-term memory
-residual network
-Squeeze-and-Excitation attention
-classifier fusion
-deep learning
-handwritten character recognition
-Houma alliance book
-Developers
-Interview
-Perceptions
-Students
-Technology adoption
-Downhole positioning
-PnP
-pose estimation
 B+ tree
 cache-aware layout
 in-memory index
-database system
 FPGA
 large key
 sorting
@@ -187,28 +186,28 @@ Memory pool
 database accelerator
 Processing-in-Memory
 query processing
-Algorithmic Generation
-Database Aesthetics
-Found Footage
-Video
+Concurrency
+Merkle Trees
+Outsourced Databases
+Verifiable Databases
 AI harms
 AI safety
 classroom exploration
 educational tool
 incident database
-Brazil
-e-court
-e-justice
-judicial database
-jurimetry
-justice administration
-open-data
-current issues
-Digital marketing
-literature review
-tourism destination
-Automated Assessment
-Web-based Learning
+data exchange optimization
+data interoperability
+data specification
+multi-model databases
+failure recovery
+in-memory database
+main memory
+quantum computing
+quantum machine learning
+join sampling framework
+multi-way joins
+random sampling
+union sampling
 COVID-19
 FOSS GIS
 health geography
@@ -218,33 +217,15 @@ database
 Emilia
 interoperability
 vocabularies
-A/B Test
-Software Requirements
-Software Testing
-UX/UI Design
-Data Systems Education
-Misconceptions
+database systems
+simple but effective ideas
+simplicity
+compilers
+modern hardware
+networking
 Feature Encoding
 Query Optimization
 Transformer
-Articulated Body Pose Estimation
-Artificial Intelligence
-Data Mining
-Gait Recognition
-Sequential Pattern Mining
-OpenFlow
-Ryu
-SDN
-evolutionary algorithm
-query perception
-reinforcement learning
-tuning parameters
-Additional Key Words and PhrasesVulnerability
-knowledge graph
-link prediction
-threat modeling
-access control
-database-backed applications
 Chase
 Data Provenance
 Research Data Management
@@ -253,97 +234,100 @@ multiple hypothesis testing
 pattern mining
 significant pattern
 weighted pattern.
-enhancer-promoter interaction
-maximum flow
-negative set
-TransEPI
-computational genomics
-distributed computing
-genotyping algorithms
-computational models
-crowdsourcing
-data integration
-knowledge ecosystem
-molecular mechanism
-query reformulation
-learned index
-spatial relationship query
+bgp
+internet routing registry
+routing security
+access control
+database-backed applications
+Data Systems Education
+Misconceptions
+database evolution
+software product lines
+Error
+Hamming distance
+Neural network
+Noise
+Phoneme
+Signal
+Speech recognition
+clinical time series
+irregularly sampled time series
+multi-scale representation
+autoregressive models
+in-database operators
+lsm store
+database middleware
+pre-trained language model
+trojan attack
+preference learning
+streaming algorithms
+user interaction
+GPU-Parallel Algorithm
+Radix Select
+Top-K
+pictorial querying
+searching geospatial objects
+spatial pattern matching
+Empirical study
+Developers
+Interview
+Perceptions
+Students
+Technology adoption
 Isolation Level
 Race Condition
 Transaction
 Web Application
+deep learning
+feature fusion
+video database
+video quality assessment
+Dynamic Complexity
+Planar embedding
+Planar graphs
 database-centric system
 field testing
 Performance analysis
 performance issue
 performance regression
 root cause analysis
-Californian History
-Digital Humaities
-Geospatial Database
-The American Civil War
-United Daughters of the Confederacy
-pictorial querying
-searching geospatial objects
-spatial pattern matching
-database systems
-Empirical study
 Apache parquet
 mobility data
 spatio-temporal
 trajectories
+classification
 decision trees
 index structures
 search engine
+Static Taint Analysis
+Stored XSS
+Vulnerability Detection
+Web Application Security
 algorithmic profiling
 content moderation
 database aesthetics
 Digital literacy
 hyperlinking
-Dynamic Complexity
-Planar embedding
-Planar graphs
-Cyber-Risk assessment
-Cybersecurity
-Industrial Control Systems
-MITRE ATT&CK Database
-NVD Database
-Programmable Logic Controller
-age of information
-caching
-Content distribution networks
-Costs
-dynamic content
-Measurement
-Social networking (online)
-Sociology
-Statistics
-Video on demand
-digital watermarking
-histogram shifting
-prediction error.
-reversible database watermarking
-Static Taint Analysis
-Stored XSS
-Vulnerability Detection
-Web Application Security
-I/O-efficient
-Joins
-lower bounds
-massively parallel computation
-feature fusion
-video database
-video quality assessment
-data exchange optimization
-data interoperability
-data specification
-multi-model databases
-inner product
-private intersection-sum
-private join and compute
-private set intersection
-secure computation
-two-party computation
+ad hoc querying
+biological databases
+schema abstraction
+schema graph
+bioinformatics
+high-performance computing
+lncRNA-RNA
+MPI
+OpenMP
+parallel computing
+log optimization
+non volatile memory
+relational database
+storage systems
+Archaeological
+Database construction
+Heritage Protection
+Model reconstruction
+Model repair
+System design
 bottom-$k$
 coordinated samples
 distance sketches
@@ -357,6 +341,7 @@ New IR features
 post-retraction retrieval
 Retracted research papers
 join algorithms
+lower bounds
 sampling
 cardinality estimation
 data summary
@@ -367,18 +352,19 @@ constant delay
 enumeration
 fine-grained
 self-joins
-bgp
-internet routing registry
-routing security
-clinical time series
-irregularly sampled time series
-multi-scale representation
-autoregressive models
-in-database operators
-lsm store
-database middleware
-pre-trained language model
-trojan attack
+heterogeneous data lake
+query answering
+relational schema
+fairness
+independence
+inner product search
+Personalized recommendation
+Ranking ensemble
+User intents
+context
+design
+education
+engagement
 array database
 scientific data management
 versioning
@@ -386,9 +372,13 @@ Data integrity
 Database constraints
 Static analysis
 Web applications
-preference learning
-streaming algorithms
-user interaction
+auditing
+authentication
+authorization
+change tracking
+data encryption
+database administration
+database security
 eHealth
 Face database
 Thermal spectrum
@@ -407,7 +397,6 @@ database design
 isoprene
 polymerization
 artificial neural network
-authentication
 information system
 user
 Computer
@@ -426,20 +415,20 @@ SQL Server database
 cyber risk evaluation
 mobile security
 software security
-failure recovery
-in-memory database
-main memory
-quantum computing
-quantum machine learning
+doubly efficient PIR
+FHE for RAM
+Electrocardiogram
+long short-term memory
+residual network
+Squeeze-and-Excitation attention
 content-addressable memory
 DNA Sequencing. Bioinformatics
 Field-programmable gate array
-join sampling framework
-multi-way joins
-random sampling
-union sampling
-simple but effective ideas
-simplicity
+Deep learning
+Fingerprint technique
+Generative Adversarial Networks (GANs)
+Indoor localization
+Multilayer Perceptron (MLP)
 integration
 sustainable management
 telemetry
@@ -454,9 +443,12 @@ biometrics
 Business Model Canvas
 multi-factor authentication
 Value Proposition Canvas
-compilers
-modern hardware
-networking
+Fingerprint indoor localization
+K-Nearest Neighbor
+Linear Regression
+Pathloss model
+Polynomial Regression
+RSSI
 Chest radiography pictures
 CNN
 Computed tomography (CT) scan
@@ -547,9 +539,9 @@ Multi-Binary Classification (MBC)
 multiclass classification
 Non-Destructive Testing (NDT)
 X-ray images
-GPU-Parallel Algorithm
-Radix Select
-Top-K
+Downhole positioning
+PnP
+pose estimation
 cytology
 malignancy prediction
 pathomics
@@ -569,6 +561,7 @@ File ranking
 Neirest Neighbor
 Pattern matching
 Time Series
+Artificial Intelligence
 Morphological analysis
 NLP
 Stemming
@@ -587,10 +580,11 @@ Breast cancer
 digital platform
 generative adversarial networks. training data sets
 image generation
-ad hoc querying
-biological databases
-schema abstraction
-schema graph
+Californian History
+Digital Humaities
+Geospatial Database
+The American Civil War
+United Daughters of the Confederacy
 Database Design
 DB2 Database
 Digital Teaching Case Base System
@@ -640,12 +634,10 @@ Large Language Model
 Machine Translation
 Natural Language Processing
 Prompt Engineering
-bioinformatics
-high-performance computing
-lncRNA-RNA
-MPI
-OpenMP
-parallel computing
+5G
+Fingerprint database
+Indoor positioning
+Machine learning
 AI
 IMU
 Industry 4.0
@@ -724,16 +716,16 @@ decentralization
 OLTP
 real-time database system
 transaction priority
-log optimization
-non volatile memory
-relational database
-storage systems
-doubly efficient PIR
-FHE for RAM
-context
-design
-education
-engagement
+Articulated Body Pose Estimation
+Data Mining
+Gait Recognition
+Sequential Pattern Mining
+Automated Assessment
+Web-based Learning
+evolutionary algorithm
+query perception
+reinforcement learning
+tuning parameters
 Partial Video Copy Detection
 Video Copy Detection
 Video Copy Localization
@@ -850,12 +842,10 @@ Support vector machines
 data management
 real estate mass appraisal
 spatial database
-auditing
-authorization
-change tracking
-data encryption
-database administration
-database security
+Ivey case
+Metauniverse model
+Reform of Accounting Case Teaching
+The Harvard case
 Collocation
 corpora
 dictionaries
@@ -886,16 +876,16 @@ Instruction set randomization
 Biometric
 facial biometric
 privacy
-heterogeneous data lake
-query answering
-relational schema
+classifier fusion
+handwritten character recognition
+Houma alliance book
 face database
 Heterogeneous face recognition
 NIR-VIS face recognition
 Sketch-VIS face recognition
-fairness
-independence
-inner product search
+anchor-free
+lightweight network
+one-stage detector
 Degree Constraints
 Join Sampling
 Polymatroid Bounds
@@ -1424,9 +1414,10 @@ In-memory database
 Instant recovery
 Main memory database
 System failure
-Personalized recommendation
-Ranking ensemble
-User intents
+Additional Key Words and PhrasesVulnerability
+knowledge graph
+link prediction
+threat modeling
 Sound pressure level
 Vocal intensity
 filtering algorithm
@@ -1538,8 +1529,6 @@ Collision-free solver
 Database expansion
 Part retrieval and reuse
 Reassembly strategies
-multi-tenant
-user disengagement ratio
 Large language model
 Agricultural pests and diseases
 Multimedia technology adoption
@@ -1732,6 +1721,7 @@ monitoring of vital signs
 optical signal simulator
 Depth image-based rendering
 local distortion
+Measurement
 quality of experience (QoE)
 synthesized views
 Three-dimensional displays
@@ -1753,8 +1743,15 @@ Privacy
 privacy preserving
 WiFi localization
 Wireless fidelity
-Decision Forest
-Machine Learning System
+age of information
+caching
+Content distribution networks
+Costs
+dynamic content
+Social networking (online)
+Sociology
+Statistics
+Video on demand
 PCA
 SSIM
 WPCA
@@ -1763,6 +1760,9 @@ Image color analysis
 Image quality assessment (IQA)
 Imaging
 Underwater image
+I/O-efficient
+Joins
+massively parallel computation
 Auto-correloblock
 CBIR
 Feature vector
