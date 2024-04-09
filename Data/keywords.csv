@@ -356,13 +356,6 @@ database security'
 database threats
 integrity
 security techniques
-Conjunctive Queries
-Subgraph Pattern Counting
-Subgraph Pattern Listing
-conjunctive queries
-join algorithms
-lower bounds
-sampling
 computational genomics
 distributed computing
 genotyping algorithms
@@ -370,6 +363,13 @@ Alignment Estimation
 Detection
 Modified KLT Algorithm
 Tracking
+Conjunctive Queries
+Subgraph Pattern Counting
+Subgraph Pattern Listing
+conjunctive queries
+join algorithms
+lower bounds
+sampling
 3D colored mesh
 Mesh saliency detection
 mesh simplification

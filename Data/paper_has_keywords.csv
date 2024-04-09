@@ -375,13 +375,6 @@ paper_id,keywords
 10.1504/IJESDF.2024.136024,integrity
 10.1504/IJESDF.2024.136024,machine learning
 10.1504/IJESDF.2024.136024,security techniques
-10.4230/LIPIcs.ICDT.2023.6,Conjunctive Queries
-10.4230/LIPIcs.ICDT.2023.6,Subgraph Pattern Counting
-10.4230/LIPIcs.ICDT.2023.6,Subgraph Pattern Listing
-10.1145/3584372.3588666,conjunctive queries
-10.1145/3584372.3588666,join algorithms
-10.1145/3584372.3588666,lower bounds
-10.1145/3584372.3588666,sampling
 10.1145/3584371.3612990,computational genomics
 10.1145/3584371.3612990,distributed computing
 10.1145/3584371.3612990,genotyping algorithms
@@ -389,6 +382,13 @@ paper_id,keywords
 10.1109/IC-RVITM60032.2023.10435190,Detection
 10.1109/IC-RVITM60032.2023.10435190,Modified KLT Algorithm
 10.1109/IC-RVITM60032.2023.10435190,Tracking
+10.4230/LIPIcs.ICDT.2023.6,Conjunctive Queries
+10.4230/LIPIcs.ICDT.2023.6,Subgraph Pattern Counting
+10.4230/LIPIcs.ICDT.2023.6,Subgraph Pattern Listing
+10.1145/3584372.3588666,conjunctive queries
+10.1145/3584372.3588666,join algorithms
+10.1145/3584372.3588666,lower bounds
+10.1145/3584372.3588666,sampling
 10.1109/TMM.2023.3312924,3D colored mesh
 10.1109/TMM.2023.3312924,Mesh saliency detection
 10.1109/TMM.2023.3312924,mesh simplification
