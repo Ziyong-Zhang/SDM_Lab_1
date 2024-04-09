@@ -1,174 +1,617 @@
 name,year,city
-"11th ACM Workshop on Information Hiding and Multimedia Security, IH and MMSec 2023",2023,Chicago
-"14th International Conference on Emerging Ubiquitous Systems and Pervasive Networks / 13th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare, EUSPN/ICTH 2023",2023,Almaty
-"19th International Workshop on Data Management on New Hardware, DaMoN 2023",2023,Seattle
-"11th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data, BigSpatial 2023",2023,Hamburg
-"29th ACM Symposium on Operating Systems Principles, SOSP 2023",2023,Koblenz
-"18th International Symposium on Spatial and Temporal Data, SSTD 2023",2023,Calgary
-"31st ACM International Conference on Multimedia, MM 2023",2023,Ottawa
-"27th International Conference on Database Theory, ICDT 2024",2024,Paestum
-"1st Workshop on Verifiable Database Systems, VDBS 2023",2023,Seattle
-"14th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, ACM-BCB 2023",2023,Houston
-"5th International Conference on Information Technology and Computer Communications, ITCC 2023",2023,Tianjin
-"30th ACM SIGSAC Conference on Computer and Communications Security, CCS 2023",2023,Copenhagen
-"14th International Conference on E-business, Management and Economics, ICEME 2023",2023,Beijing
-"29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD 2023",2023,Long Beach
-"2023 ACM/SIGMOD International Conference on Management of Data, SIGMOD 2023",2023,Seattle
-"12th International Conference on Software and Information Engineering, ICSIE 2023",2023,Sharm El-Sheikh
-"8th International Conference on Control Engineering and Artificial Intelligence, CCEAI 2024",2024,Shanghai
-"14th ACM/IEEE International Conference on Cyber-Physical Systems, with CPS-IoT Week 2023, ICCPS 2023",2023,San Antonio
-"2023 International Conference on Computer, Vision and Intelligent Technology, ICCVIT 2023",2023,Chenzhou
-"14th ACM Symposium on Cloud Computing, SoCC 2023",2023,Santa Cruz
-"18th ACM ASIA Conference on Computer and Communications Security, ASIA CCS 2023",2023,Melbourne
-"8th International Conference on Multimedia Systems and Signal Processing, ICMSSP 2023",2023,Shenzhen
-"2023 Genetic and Evolutionary Computation Conference Companion, GECCO 2023 Companion",2023,Lisbon
-"6th International Conference on Signal Processing and Machine Learning, SPML 2023",2023,Tianjin
-"Workshops of the EDBT/ICDT 2024 Joint Conference, EDBT/ICDT-WS 2024",2024,Paestum
-"27th International Database Engineered Applications Symposium, IDEAS 2023",2023,Heraklion
-"32nd International Symposium on High-Performance Parallel and Distributed Computing, HPDC 2023",2023,Orlando
-"16th International Symposium on Visual Information Communication and Interaction, VINCI 2023",2023,Guangzhou
-"48th International Symposium on Mathematical Foundations of Computer Science, MFCS 2023",2023,Bordeaux
-"2nd ACM SIGSPATIAL International Workshop on Searching and Mining Large Collections of Geospatial Data, GeoSearch 2023",2023,Hamburg
-"23rd Edition of the ACM Internet Measurement Conference, IMC 2023",2023,Montreal
-"25th International Conference on Grey Literature: Confronting Climate Change with Trusted Grey Resources, GL 2023",2023,Amsterdam
-"55th Annual ACM Symposium on Theory of Computing, STOC 2023",2023,Orlando
-"2023 ACM Turing Award Celebration Conference, CHINA 2023",2023,Wuhan
-"2023 Free and Open Source Software for Geospatial, FOSS4G 2023",2023,Prizren
-"2023 CoNEXT Student Workshop, CoNEXT-SW 2023",2023,Paris
-"22nd ACM/IEEE International Conference on Information Processing in Sensor Networks, IPSN 2023",2023,San Antonio
-"7th Workshop on Data Management for End-To-End Machine Learning, DEEM 2023",2023,Seattle
-"8th Conference on Computing Education Practice, CEP 2024",2024,Durham
-"46th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2023",2023,Taipei
-"1st Workshop on Simplicity in Management of Data, SiMoD 2023",2023,Bellevue
-"2nd International Conference of the Greece ACM SIGCHI Chapter, CHIGreece 2023",2023,Athens
-"7th ACM SIGSPATIAL International Workshop on Geospatial Humanities, GeoHumanities 2023",2023,Hamburg
-"23rd International Conference on Computing Education Research, Koli Calling 2023",2023,"Hybrid, Koli"
-"7th International Conference on Video and Image Processing, ICVIP 2023",2023,Kyoto
-"7th International Conference on Big Data and Internet of Things, BDIOT 2023",2023,Beijing
-"29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP 2024",2024,Edinburgh
-"31st ACM Joint Meeting European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/FSE 2023",2023,San Francisco
-"31st ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM SIGSPATIAL GIS 2023",2023,Hamburg
-"18th European Conference on Computer Systems, EuroSys 2023",2023,Rome
-"International Conference on Artificial Intelligence, Blockchain, Computing and Security, ICABCS 2023",2023,Greater Noida
-"42nd ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems, PODS 2023",2023,Seattle
-"16th International Conference on Theory and Practice of Electronic Governance, ICEGOV 2023",2023,Belo Horizonte
-"18th Conference of the European Chapter of the Association for Computational Linguistics, EACL 2024 - Findings of EACL 2024",2024,St. Julian's
-"19th Workshop on Hot Topics in Operating Systems, HotOS 2023",2023,Providence
-"34th ACM Conference on Hypertext and Social Media, HT 2023",2023,Rome
-"2023 International Conference on Electronics, Computers and Communication Technology, CECCT 2023",2023,Guilin
-"2023 ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization, EAAMO 2023",2023,Boston
-"37th ACM International Conference on Supercomputing, ICS 2023",2023,Orlando
-"12th International Symposium on Mobile Mapping Technology, MMT 2023",2023,Padua
-"12th International Conference on Networks, Communication and Computing, Conference Proceedings, ICNCC 2023",2023,Osaka
-"2023 Workshop on Human-In-the-Loop Data Analytics, HILDA 2023 - Co-located with SIGMOD 2023",2023,Seattle
-"18th International Conference on Ubiquitous Information Management and Communication, IMCOM 2024",2024,Kuala Lumpur
-"2024 International Conference on Electronics, Information, and Communication, ICEIC 2024",2024,Taipei
-"29th CIPA Symposium on Documenting, Understanding, Preserving Cultural Heritage. Humanities and Digital Technologies for Shaping the Future",2023,Florence
-"27th ACM International Systems and Software Product Line Conference, SPLC 2023",2023,Tokyo
-"32nd ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2023",2023,Seattle
-2022 Geoinformation Week: Broadening Geospatial Science and Technology,2022,"Virtual, Online"
-"3rd International Conference on Bioinformatics and Intelligent Computing, BIC 2023",2023,Sanya
-"26th International Conference on Database Theory, ICDT 2023",2023,Ioannina
-"54th ACM Technical Symposium on Computer Science Education, SIGCSE 2023",2023,Toronto
-"7th International Conference on Electronics, Materials Engineering and Nano-Technology, IEMENTech 2023",2023,"Hybrid, Kolkata"
-"2023 IEEE International Conference on Visual Communications and Image Processing, VCIP 2023",2023,Jeju
-"13th International Conference on Dependable Systems, Services and Technologies, DESSERT 2023",2023,Athens
-"2023 IEEE Latin American Conference on Computational Intelligence, LA-CCI 2023",2023,Recife-Pe
-"8th International Conference on Information Technology and Digital Applications, ICITDA 2023",2023,Yogyakarta
+"Federated Conference on Computer Science and Information Systems, FedCSIS",2020,"Virtual, Sofia"
+"International Conference on Frontiers of Information Technology, FIT",2019,Islamabad
+"International Conference on Behavioral, Economic, and Socio-Cultural Computing, BESC",2018,Kaohsiung
+"IEEE Conference on Communications and Network Security, CNS",2021,Tempe
+"Mining Software Repositories Conference, MSR",2022,Pittsburgh
+"IEEE INFOCOM Conference on Computer Communications Workshops, INFOCOM WKSHPS",2020,Toronto
+"IEEE Globecom Workshops, GC Wkshps",2021,Madrid
+"IEEE International Conference on Big Data, Big Data",2019,Los Angeles
+"IEEE International Conference on Machine Learning and Applications, ICMLA",2018,Orlando
+"International Conference on Computer and Communication Engineering, ICCCE",2018,Kuala Lumpur
+"IEEE/ACM Workshop on Workflows in Support of Large-Scale Science, WORKS",2022,Dallas
+"IEEE International Conference on Computing, Engineering and Design, ICCED",2022,Sukabumi
+"ACM International Conference on Information and Knowledge Management, CIKM",2022,Atlanta
+"IEEE Intelligent Transportation Systems Conference, ITSC",2019,Auckland
+"IEEE SmartWorld, Ubiquitous Intelligence and Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Internet of People and Smart City Innovation, SmartWorld/UIC/ATC/SCALCOM/IOP/SCI",2019,Leicester
+"IEEE Global Emerging Technology Blockchain Forum: Blockchain and Beyond, iGETblockchain",2022,Irvine
+"International Conference on Signal Processing and Information Security, ICSPIS",2020,"Virtual, Dubai"
+"IEEE International Conference on Intelligence and Security Informatics, ISI",2020,"Virtual, Arlington"
+"International Conference on Information and Communication Systems, ICICS",2020,Irbid
+"International Conference on COMmunication Systems and NETworkS, COMSNETS",2022,Bangalore
+"IEEE Symposium Series on Computational Intelligence, SSCI",2022,Singapore
+"International Conference on Computer and Information Technology, ICCIT",2021,Dhaka
+"International Conference on Intelligent Engineering and Management, ICIEM",2022,London
+"IEEE Conference on Computational Intelligence for Financial Engineering and Economics, CIFEr",2019,Shenzhen
+"IEEE International Mediterranean Conference on Communications and Networking, MeditCom",2021,Athens
+"International Conference on Computer Communication and Informatics, ICCCI",2022,Coimbatore
+"2020 World Conference on Smart Trends in Systems, Security and Sustainability, WS4 2020",2020,"Virtual, London"
+"eCrime Researchers Summit, eCrime",2012,"Las Croabas, PR"
+"IEEE European Symposium on Security and Privacy, Euro S and P",2021,"Virtual, Online"
+"IEEE India Council International Conference, INDICON",2019,Rajkot
+"IEEE Conference on Network Function Virtualization and Software Defined Networks, NFV-SDN",2022,Chandler
+"IEEE International Conference on Distributed Computing Systems Workshops, ICDCSW",2022,Bologna
+"International Conference on Smart Electronics and Communication, ICOSEC",2020,Trichy
+"International Conference on Artificial Intelligence in Information and Communication, ICAIIC",2021,Jeju Island
+"IEEE International Conference on Computational Intelligence and Knowledge Economy, ICCIKE",2021,Dubai
+"International Conference on Innovative Computing, ICIC",2021,Lahore
+"IEEE/ACM International Symposium on Big Data Computing, BDC",2015,Limassol
+"IEEE Asia-Pacific Conference on Computer Science and Data Engineering, CSDE",2020,Gold Coast
+"International Conference on Decision Aid Sciences and Application, DASA",2020,"Virtual, Sakheer"
+"IEEE Symposium on Security and Privacy Workshops, SPW",2022,San Francisco
+"International Conference on Cyber Science and Technology Congress, DASC/PiCom/CBDCom/CyberSciTech",2021,"Virtual, Online"
+"IEEE International Conference on Software Services Engineering, SSE",2023,"Hybrid, Chicago"
+"2018 International Conference on Information and Communication Technology for the Muslim World, ICT4M 2018",2018,Kuala Lumpur
+"IEEE International Conference on Big Data, BigData",2023,Sorrento
+"Conference on Computer Science and Intelligence Systems, FedCSIS",2023,Warsaw
+"North American Power Symposium, NAPS",2021,College Station
+"International Conference on Digital Information Management, ICDIM",2015,Jeju Island
+"International Conference on Cyber Resilience, ICCR",2022,Dubai
+"APWG Symposium on Electronic Crime Research, eCrime",2018,San Diego
+"IEEE International Conference on Connected Health: Applications, Systems and Engineering Technologies, CHASE",2016,Washington
+"IEEE International Conference on Omni-Layer Intelligent Systems, COINS",2022,Barcelona
+"Annual Modeling and Simulation Conference, ANNSIM",2022,San Diego
+"IEEE International Conference on Smart Internet of Things, SmartIoT",2023,Xining
+"International Conference on Automation and Computing, ICAC",2022,Bristol
+"IEEE International Conference on Blockchain, Blockchain",2022,Espoo
+"International Symposium on Parallel and Distributed Computing, ISPDC",2019,Amsterdam
+"Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshop, DSN-W",2022,Baltimore
+"IEEE World Forum on Internet of Things, WF-IoT",2021,New Orleans
+"Conference on Data Science and Machine Learning Applications, CDMA",2020,Riyadh
+"IEEE International Conference on Cyber Security and Resilience, CSR",2021,"Virtual, Rhodes"
+"IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, ASONAM",2019,Vancouver
+"International Conference on Social Networks Analysis, Management and Security, SNAMS",2019,Granada
+"IEEE International Conference on Web Services, ICWS",2021,"Virtual, Online"
+"Annual IEEE/IFIP International Conference on Dependable Systems and Networks, DSN",2020,Valencia
+"Distributed Computing and Applications for Business Engineering and Science, DCABES",2020,"Xuzhou, Jiangsu"
+"International Conference on Data Analytics for Business and Industry, ICDABI",2021,"Virtual, Online"
+"IEEE International Conference on Smart Communities: Improving Quality of Life using ICT, IoT and AI, HONET",2020,"Virtual, Charlotte"
+"IEEE International Multi-Topic Conference, INMIC",2020,Bahawalpur
+"International Conference on Operations Research and Enterprise Systems, ICORES",2017,Porto
+"IEEE/ACM International Conference on Big Data Computing, Applications and Technologies, BDCAT",2022,Vancouver
+"IEEE/IFIP Network Operations and Management Symposium, NOMS",2016,Istanbul
+"International Conference on Cyber Security and Protection of Digital Services, Cyber Security",2019,Oxford
+"International Conference on Data Analytics for Business and Industry: Way Towards a Sustainable Economy, ICDABI",2020,Sakheer
+"IEEE International Symposium on Intelligent Systems and Informatics, SISY",2017,Subotica
+"IEEE International Conference on Services Computing, SCC",2022,Barcelona
+"IEEE International Conference on Data Science and Advanced Analytics, DSAA",2020,"Virtual, Sydney"
+"IEEE International Congress on Internet of Things, ICIOT",2019,Milan
+"IEEE International Conference on Smart Computing, SMARTCOMP",2020,"Virtual, Bologna"
+"IEEE Conference on Decision and Control, CDC",2016,Las Vegas
+"IEEE Annual Computing and Communication Workshop and Conference, CCWC",2023,"Virtual, Online"
+"UK/China Emerging Technologies, UCET",2019,"Glasgow, Scotland"
+"International Conference on Future Internet of Things and Cloud, FiCloud",2021,"Virtual, Online"
+"IEEE/ACM International Conference on Utility and Cloud Computing, UCC",2020,"Virtual, Leicester"
+"International Conference on Advances in Computing and Communication Engineering, ICACCE",2020,Las Vegas
+"International Conference on Advance Computing and Innovative Technologies in Engineering, ICACITE",2022,Greater Noida
+"IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks, WoWMoM",2020,"Virtual, Cork"
+"IEEE International Parallel and Distributed Processing Symposium Workshops, IPDPSW",2019,Rio de Janeiro
+"International Conference on Advances in the Emerging Computing Technologies, AECT",,"AlMadinah, AlManawarrah"
+"IEEE International Conference on Intelligent Transportation Systems, ITSC",2020,Rhodes
+"IEEE International Conference on Embedded and Real-Time Computing Systems and Applications, RTCSA",2021,"Virtual, Houston"
+"International Conference on Information Technologies, InfoTech",2019,Sts. Constantine and Elena
+"International Conference on Agro-Geoinformatics, Agro-Geoinformatics",2022,Quebec City
+"IEEE/ACM Symposium on Edge Computing, SEC",2022,Seattle
+"International Symposium on Networks, Computers and Communications, ISNCC",2023,Doha
+"IEEE Global Conference on Signal and Information Processing, GlobalSIP",2019,Ottawa
+"IEEE Swiss Conference on Data Science, SDS",2023,Zurich
+"International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks, PEMWN",2019,Paris
+"IEEE Workshop on Information Forensics and Security, WIFS",2017,Rennes
+"IEEE International Conference on Computer Research and Development, ICCRD",2022,"Virtual, Online"
+"International Conference on Advances in Intelligent Computing and Applications, AICAPS",2023,Kochi
+"Global Information Infrastructure and Networking Symposium, GIIS",2022,Argostoli
+"IEEE International Conference on Bioinformatics and Biomedicine, BIBM",2020,"Virtual, Seoul"
+"INFOCOM IEEE Conference on Computer Communications Workshops, INFOCOM WKSHPS",2019,Paris
+"International Conference on Fog and Mobile Edge Computing, FMEC",2022,Paris
+"IEEE International Conference on Signal Processing, Information, Communication and Systems, SPICSCON",2019,Dhaka
+"Euromicro International Conference on Parallel, Distributed and Network-Based Processing, PDP",2020,Vasteras
+"European Conference on Knowledge Management, ECKM",2020,Coventry
+"2017 International Smart Cities Conference, ISC2 2017",2017,Wuxi
+"IEEE International Conference on Communications Workshops, ICC Workshops",2021,"Virtual, Online"
+"IEEE International Conference on Smart Energy Grid Engineering, SEGE",2021,"Virtual, Oshawa"
+"IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events, PerCom Workshops",2022,Pisa
+"Annual IEEE International Systems Conference, SysCon",2022,"Virtual, Online"
+"RIVF International Conference on Computing and Communication Technologies, RIVF",2020,Ho Chi Minh
+"IEEE International Conference on Digital Health, ICDH",2022,Barcelona
+"International Workshop on Data Mining with Industrial Applications, DMIA",2015,Asuncion
+"International Conference on Information Technology, Information Systems and Electrical Engineering, ICITISEE",2019,Yogyakarta
+"IEEE-EMBS International Conference on Biomedical and Health Informatics, BHI",2022,Ioannina
+"Asian Conference on Innovation in Technology, ASIANCON",2022,Ravet
+"International Conference on Distributed Computing and High Performance Computing, DCHPC",2022,Qom
+"International Conference on Enterprise Information Systems, ICEIS",2023,Prague
+"IEEE SmartWorld Ubiquitous Intelligence and Computing, Advanced and Trusted Computed, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People and Smart City Innovation, SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI",2017,San Francisco
+"IEEE International Symposium on Signal Processing and Information Technology, ISSPIT",2019,Ajman
+"International Conference on UK-China Emerging Technologies, UCET",2020,Glasgow
+"International Informatics and Software Engineering Conference, IISEC",2021,Ankara
+"IEEE International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom",2020,Guangzhou
+"IEEE Jubilee World Symposium on Applied Machine Intelligence and Informatics, SAMI",2022,Poprad
+"IEEE International Symposium on Workload Characterization, IISWC",2021,"Virtual, Online"
+"IEEE International Conference on Security of Information and Networks, SIN",2022,Sousse
+"International Conference on System Modeling and Advancement in Research Trends, SMART",2020,Moradabad
+"Cyber Science and Technology Congress, DASC-PICom-DataCom-CyberSciTec",2018,Athens
+"Workshop on Knowledge and Data Engineering Exchange, KDEX",,Chicago
+"2022 International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies, 3ICT 2022",2022,"Virtual, Online"
+"International Conference on Computer Science and Software Engineering, CSASE",2020,"Duhok, Kurdistan Region"
+"IEEE Conference on Computer Communications Workshops, INFOCOM WKSHPS",2021,"Virtual, Online"
+"International Conference of Network and Service Management, CNSM",2022,Thessaloniki
+"International Conference on Smart Business Technologies, ICSBT",2022,Lisbon
+"International Conference on Network and Service Management, CNSM",2017,Tokyo
+"Spring Simulation Conference, SpringSim",2020,"Virtual, Fairfax"
+"IEEE Congress on Evolutionary Computation, CEC",2020,"Virtual, Glasgow"
+"Systems and Information Engineering Design Symposium, SIEDS",2023,Charlottesville
+"Annual Conference on Information Sciences and Systems, CISS",2020,Princeton
+"IEEE Conference on Business Informatics, CBI",2020,Antwerp
+"2021 International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies, 3ICT 2021",2021,"Virtual, Online"
+"International Conference on Inventive Computation Technologies, ICICT",2021,Coimbatore
+"E-Health and Bioengineering Conference, EHB",2020,"Virtual, Iasi"
+"IEEE International Conference on Big Data Computing Service and Applications, BigDataService",2023,Athens
+"International Conference on Information and Communication Technology Convergence, ICTC",2017,Jeju Island
+"IEEE International Conference on Intelligent Data and Security, IDS",2020,Baltimore
+"International Conference on Computing, Networking and Communications, ICNC",2023,Honolulu
+"International Conference on Innovative Practices in Technology and Management, ICIPTM",2021,Noida
+"Symposium on Software Engineering for Adaptive and Self-Managing Systems, SEAMS",2022,Pittsburgh
+"IEEE World Congress on Services, SERVICES",2020,"Virtual, Beijing"
+"Crypto Valley Conference on Blockchain Technology, CVCBT",2018,Zug
+"International Conference on New Trends in Computing Sciences, ICTCS",2017,Amman
+"International Conference on Computing Communication and Networking Technologies, ICCCNT",2021,Kharagpur
+"IEEE International Conference on Informatics, IoT, and Enabling Technologies, ICIoT",2020,Doha
+"International Conference on Data Science and Advanced Analytics, DSAA",2017,Tokyo
+"IEEE International Conference on Fog and Edge Computing, ICFEC",2022,Taormina
+"IEEE International Conference on Power, Energy, Control and Transmission Systems, ICPECTS",2020,"Virtual, Chennai"
+"Annual Conference of the German Classification Society (Gesellschaft fur Klassifikation) on Data Analysis, Machine Learning, and Applications, GfKl",2007,Freiburg
+"International Conference on Cryptography, Security and Privacy, CSP",2022,Tianjin
+"International Conference on Internet of Things: Systems, Management and Security, IOTSMS",2020,"Virtual, Paris"
+"International Workshop on the Future Evolution of Internet Protocols, IPFuture",2020,"Virtual, Izmir"
+"IEEE International Workshop on Information Forensics and Security, WIFS",2022,Shanghai
+"Jubilee International Convention on Information, Communication and Electronic Technology, MIPRO",2022,Opatija
+"Cyber Security in Networking Conference, CSNet",2019,Quito
+"International Conference on Information and Communications Technology, ICOIACT",2020,Yogyakarta
+"19th International Conference on Information and Knowledge Management and Co-located Workshops, CIKM'10",2010,"Toronto, ON"
+"International Conference on Business Information Systems, BIS ",2021,Hanover
+"International Conference on Information Science and Security, ICISS",2016,Pattaya
+"3rd International Conference on Advances in Computing, Communication Control and Networking, ICAC3N 2021",2021,Greater Noida
+"International Conference on Intelligent Communication Technologies and Virtual Mobile Networks, ICICV",2021,Tirunelveli
+"7th IEEE International Conference on Cloud Engineering, IC2E 2019",2019,Prague
+"International Symposium on Computing and Networking Workshops, CANDARW",2022,Himeji
+"IEEE International Conference on Data Science and Systems, HPCC/SmartCity/DSS",2019,Zhangjiajie
+"IEEE International Workshop on Metrology for Agriculture and Forestry, MetroAgriFor",2023,Pisa
+"and International Workshop on Green ICT and Smart Networking, GISN",2016,Montreal
+"IEEE International Conference on Semantic Computing, ICSC",2018,Laguna Hills
+"International Conference on Process Mining, ICPM",2023,Rome
+"Ural Symposium on Biomedical Engineering, Radioelectronics and Information Technology, USBEREIT",2020,Yekaterinburg
+"European Control Conference, ECC",2022,London
+"IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, CCGrid",2021,"Virtual, Melbourne"
+"IEEE International Black Sea Conference on Communications and Networking, BlackSeaCom",2020,Odessa
+"International Conference on Cyber Situational Awareness, Data Analytics and Assessment, CyberSA",2021,"Virtual, Online"
+"IEEE International Conference on Network Softwarization, NetSoft",2022,Milan
+"IEEE/CVF Winter Conference on Applications of Computer Vision Workshops, WACVW",2023,Waikoloa
+"IEEE Latin American Conference on Computational Intelligence, LA-CCI",2018,Gudalajara
+"IEEE International Conference on Decentralized Applications and Infrastructures, DAPPCON",2019,Newark
+"IEEE International Conference on Information Reuse and Integration for Data Science, IRI",2022,"Virtual, Online"
+"IEEE International Conference on Metaverse Computing, Networking and Applications, MetaCom",2023,Kyoto
+"International Conference on Harbor, Maritime and Multimodal Logistics Modelling and Simulation, HMS",2023,Athens
+"IEEE International Conference on Data Stream Mining and Processing, DSMP",2018,Lviv
+"International Conference on Control, Decision and Information Technologies, CoDIT",2020,Prague
+"IEEE International Conference on Behavioural and Social Computing, BESC",2022,Matsuyama
+"IEEE International Conference on Decentralized Applications and Infrastructures, DAPPS",2023,Athens
+"IEEE Conference on Visual Analytics Science and Technology, VAST",2019,Vancouver
+"IEEE European Symposium on Security and Privacy, EURO S and P",2019,Stockholm
+"IEEE International Conference on Data Engineering Workshops, ICDEW",2018,Paris
+"International Conference on the Network of the Future, NOF",2017,London
+"IEEE International Conference on Cloud Networking, CloudNet",2022,Paris
+"IFIP Wireless and Mobile Networking Conference, WMNC",2021,"Virtual, Online"
+"IEEE Global Conference on Artificial Intelligence and Internet of Things, GCAIoT",2023,Dubai
+"Brazilian Conference on Intelligent Systems, BRACIS",2019,"Salvador, Bahia"
+"International Conference on Computer Science and Engineering, UBMK",2019,Samsun
+"Conference of the International Federation of Classification Societies, IFCS",2022,Porto
+"International Conference on Intelligent Systems: Theories and Applications, SITA",2023,Casablanca
+"1st International Conference on 6G Networking, 6GNet 2022",2022,Paris
+"International Conference on Mobility, Sensing and Networking, MSN",2021,"Virtual, Exeter"
+"International Joint Conference on Computer Science and Software Engineering, JCSSE",2019,Chonburi
+"IEEE International Parallel and Distributed Processing Symposium, IPDPS",2019,Rio de Janeiro
+"Novel Intelligent and Leading Emerging Sciences Conference, NILES",2021,"Virtual, Giza"
+"IEEE International Conference on Advances in Computing, Communication and Applied Informatics, ACCAI",2022,Chennai
+"IEEE International Conference on Artificial Intelligence and Knowledge Engineering, AIKE",2019,"Cagliari, Sardinia"
+"International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery, ICNC-FSKD",2017,"Guilin, Guangxi"
+"International Conference on Big Data and Artificial Intelligence, BDAI",2021,Qingdao
+"IEEE International Congress on Big Data, BigData Congress",2016,San Francisco
+"International Conference on Advanced Cloud and Big Data, CBD",2019,Suzhou
+"International Conference on Electrical, Electronics and Information Engineering, ICEEIE",2019,"Denpasar, Bali"
+"Chinese Control and Decision Conference, CCDC",2023,Yichang
+"20th ACM Conference on Information and Knowledge Management, CIKM'11",2011,Glasgow
+"International Conference on Automated Planning and Scheduling, ICAPS",2023,Prague
+"7th IEEE International conference for Convergence in Technology, I2CT 2022",2022,Pune
+"International Conference on Intelligent Data Science Technologies and Applications, IDSTA",2022,San Antonio
+"IEEE Conference on Service-Oriented Computing and Applications, SOCA",2019,Kaohsiung
+"IEEE International Conference on Artificial Intelligence in Engineering and Technology, IICAIET",2022,Kota Kinabalu
+"Mediterranean Conference on Control and Automation, MED",2021,"Bari, Puglia"
+"IFIP International Conference on New Technologies, Mobility and Security, NTMS",2019,Canary Islands
+"International Conference on Probabilistic Methods Applied to Power Systems, PMAPS",2018,Boise
+"IEEE International Conference on Intelligent Computer Communication and Processing, ICCP",2020,"Virtual, Cluj-Napoca"
+"IEEE International Conference on eScience, eScience",2021,"Virtual, Online"
+"International Conference on Advanced Technologies for Signal and Image Processing, ATSIP",2020,Sfax
+"IEEE International Conference on Healthcare Informatics, ICHI",2022,Rochester
+"IEEE International Conference on Sustainable Computing and Communications, SustainCom",2016,Atlanta
+"IEEE International Conference on Industrial and Information Systems, ICIIS",2020,"Rupnagar, Punjab"
+"IEEE International Conference on Machine Learning and Applied Network Technologies, ICMLANT",2020,"Virtual, Hyderabad"
+"ACM-IEEE International Conference on Formal Methods and Models for System Design, MEMOCODE",2022,Shanghai
+"International Conference on Intelligent Computing in Data Sciences, ICDS",2020,"Virtual, Fez"
+"IEEE International Conference on Systems, Man, and Cybernetics, SMC",2018,Miyazaki
+"Conference on Innovation in Clouds, Internet and Networks, ICIN",2022,"Virtual, Paris"
+"9th International Conference on ICT for Sustainability, ICT4S 2023",2023,Rennes
+"IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology, CIBCB",2022,Ottawa
+"IEEE International Wireless Communications and Mobile Computing, IWCMC",2021,"Virtual, Online"
+"IEEE International Conference on High Performance Computing, Data, and Analytics, HiPC",2020,"Virtual, Pune"
 "2023 International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies, 3ICT 2023",2023,"Virtual, Online"
-"21st OITS International Conference on Information Technology, OCIT 2023",2023,Raipur
-"1st Workshop on Computational Terminology in NLP and Translation Studies, ConTeNTS 2023",2023,Varna
-"8th International Conference on Information and Education Innovations, ICIEI 2023",2023,Manchester
-"17th Workshop on Recent Advances in Slavonic Natural Language Processing, RASLAN 2023",2023,Kouty nad Desnou
-"2023 International Conference on Integration of Computational Intelligent System, ICICIS 2023",2023,Pune
-"6th International Conference on Electronics, Communications and Control Engineering, ICECC 2023",2023,Fukuoka
-"3rd International Conference on Intelligent Cybernetics Technology and Applications, ICICyTA 2023",2023,"Hybrid, Bali"
-"2023 Symposium on Internet of Things, SIoT 2023",2023,Sao Paulo
-"11th International Symposium on Computing and Networking, CANDAR 2023",2023,Matsue
-"2023 International Conference on Computer Network Security and Software Engineering, CNSSE 2023",2023,Sanya
-"8th ACM SIGIR Conference on Human Information Interaction and Retrieval, CHIIR 2023",2023,Austin
-"11th International Symposium on Computing and Networking Workshops, CANDARW 2023",2023,Matsue
-"3rd IEEE International Conference on ICT in Business Industry and Government, ICTBIG 2023",2023,Indore
-"2023 World Wide Web Conference, WWW 2023",2023,Austin
-"2nd International Conference on Ambient Intelligence in Health Care, ICAIHC 2023",2023,Bhubaneswar
-"2023 CHI Conference on Human Factors in Computing Systems, CHI 2023",2023,Hamburg
-"4th International Workshop on Computational Approaches to Historical Language Change, LChange 2023",2023,Singapore
-"2023 Learning. Knowledge. Data. Analytics, LWDA 2023",2023,Marburg
-"2023 Smart Systems Integration Conference and Exhibition, SSI 2023",2023,Brugge
-"26th International Conference on Extending Database Technology, EDBT 2023",2023,Ioannina
-"4th IEEE International Conference on Computing, Communication, and Intelligent Systems, ICCCIS 2023",2023,Greater Noida
-"2023 International Conference on Recent Advances in Science and Engineering Technology, ICRASET 2023",2023,B.G Nagara
-"11th International Conference on Information Systems and Computing Technology, ISCTech 2023",2023,Qingdao
-"9th IEEE International Conference on Smart Structures and Systems, ICSSS 2023",2023,Chennai
-"2023 IEEE Symposium on Visualization for Cyber Security, VizSec 2023",2023,"Hybrid, Melbourne"
-"2023 IEEE International Joint Conference on Biometrics, IJCB 2023",2023,Ljubljana
-"2023 Computer Applications and Technological Solutions, CATS 2023",2023,Mubarak Al-Abdullah
-"2nd International Conference on Intelligent Computing and Next Generation Networks, ICNGN 2023",2023,Hangzhou
-"3rd International Conference on Advanced Computing Technologies and Applications, ICACTA 2023",2023,Mumbai
-"2nd International Conference on Artificial Intelligence and Intelligent Information Processing, AIIIP 2023",2023,Hangzhou
-"9th International Conference on Big Data and Information Analytics, BigDIA 2023",2023,Haikou
-"9th International Conference on Big Data Computing and Communications, BigCom 2023",2023,Hainan
-"38th Annual ACM Symposium on Applied Computing, SAC 2023",2023,Tallinn
-"2023 IEEE International Conference on Next Generation Electronics, NEleX 2023",2023,Vellore
-"28th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP 2023",2023,Montreal
-"10th International Scientific Conference ""Information Technology and Implementation"", IT and I-WS 2023",2023,Kyiv
-"1st International Conference on Recent Developments in Electronics and Communication Systems, RDECS 2022",2022,Surampalem
-"2023 5th International Conference on Artificial Intelligence and Computer Applications, ICAICA 2023",2023,Dalian
-"2nd IEEE North Karnataka Subsection Flagship International Conference, NKCon 2023",2023,Karnataka
-"1st IEEE Afro-Mediterranean Conference on Artificial Intelligence, AMCAI 2023",2023,Hammamet
-"16th IEEE Malaysia International Conference on Communication, MICC 2023",2023,Kuala Lumpur
-"6th International Conference on Information and Communications Technology, ICOIACT 2023",2023,Yogyakarta
-"11th IEEE International Conference on Systems and Control, ICSC 2023",2023,Sousse
-"7th International Conference on Machine Learning and Soft Computing, ICMLSC 2023",2023,Chongqing
-"19th Machine Translation Summit, MT Summit 2023",2023,Macau
-"9th International Conference on Computing and Artificial Intelligence, ICCAI 2023",2023,Tianjin
-"6th ACM India Joint International Conference on Data Science and Management of Data, CODS-COMAD 2023",2023,Mumbai
-"11th International Conference on Affective Computing and Intelligent Interaction, ACII 2023",2023,Cambridge
-"28th International Conference on Intelligent User Interfaces, IUI 2023",2023,Sydney
-"4th International Informatics and Software Engineering Conference, IISEC 2023",2023,Ankara
-"11th IEEE International Conference on Intelligent Computing and Information Systems, ICICIS 2023",2023,Cairo
-"12th IEEE International Conference on Communication, Networks and Satellite, COMNETSAT 2023",2023,Malang
-"2023 Conference on Empirical Methods in Natural Language Processing, EMNLP 2023",2023,"Hybrid, Singapore"
-"2023 International Conference on Data Science, Agents and Artificial Intelligence, ICDSAAI 2023",2023,Chennai
-"28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS 2023",2023,Vancouver
-"2023 International Conference on the Confluence of Advancements in Robotics, Vision and Interdisciplinary Technology Management, IC-RVITM 2023",2023,Bangalore
-"3rd International Conference on Emerging Frontiers in Electrical and Electronic Technologies, ICEFEET 2023",2023,Patna
-"21st International Conference on Advanced Robotics, ICAR 2023",2023,Abu Dhabi
-"1st IEEE Colombian Caribbean Conference, C3 2023",2023,Barranquilla
-"6th IEEE Pune Section International Conference, PuneCon 2023",2023,Pune
-"7th International Conference on Electronics, Communication and Aerospace Technology, ICECA 2023",2023,Coimbatore
-"2nd International Conference on Advances in Computational Intelligence and Communication, ICACIC 2023",2023,Puducherry
-"22nd International Conference of the Biometrics Special Interest Group, BIOSIG 2023",2023,Darmstadt
-"3rd IEEE International Conference on Intelligent Technology and Embedded Systems, ICITES 2023",2023,Huzhou
-"2023 International Conference on Electronics and Devices, Computational Science, ICEDCS 2023",2023,Marseille
-"4th International Conference on Computers, Information Processing and Advanced Education, CIPAE 2023",2023,Ottawa
-"7th IEEE International Conference of Computer Science and Information Technology, ICOSNIKOM 2023",2023,"Hybrid, Binjia"
-"50th Computing in Cardiology, CinC 2023",2023,Atlanta
-"3rd International Conference on Evolutionary Computing and Mobile Sustainable Networks, ICECMSN 2023",2023,"Hybrid,Coimbatore"
-"8th IEEE International Conference on Smart Cloud, SmartCloud 2023",2023,Tokyo
-"62nd Annual Conference of the Society of Instrument and Control Engineers, SICE 2023",2023,Tsu
-"9th IEEE International Conference on Smart Instrumentation, Measurement and Applications, ICSIMA 2023",2023,Kuala Lumpur
-"14th International Conference on Intelligent Systems: Theories and Applications, SITA 2023",2023,Casablanca
-"2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems, MODELS-C 2023",2023,Vasteras
-"6th International Conference on Applied Computational Intelligence in Information Systems, ACIIS 2023",2023,Bandar Seri Begawan
-"3rd International Conference on Innovative Sustainable Computational Technologies, CISCT 2023",2023,Dehradun
-"5th International Conference on Control Systems, Mathematical Modeling, Automation and Energy Efficiency, SUMMA 2023",2023,Lipetsk
-"2023 International Conference on Radar, Antenna, Microwave, Electronics, and Telecommunications, ICRAMET 2023",2023,"Virtual, Online"
-"3rd International Conference on Machine Learning and Big Data Analytics for IoT Security and Privacy, SPIoT2023",2023,
-"2023 IEEE International Workshop on Mechatronics Systems Supervision, IW_MSS 2023",2023,Hammamet
-"19th International Symposium on Medical Information Processing and Analysis, SIPAIM 2023",2023,Mexico City
-2023 Findings of the Association for Computational Linguistics: EMNLP 2023,2023,Singapore
-"2023 IEEE High Performance Extreme Computing Conference, HPEC 2023",2023,"Virtual, Online"
-"2nd International Workshop on Social Communication and Information Activity in Digital Humanities, SCIA 2023",2023,Lviv
-"23rd IEEE International Symposium on Computational Intelligence and Informatics, CINTI 2023",2023,Budapest
-"8th IEEE Asia Pacific Conference on Wireless and Mobile, APWiMob 2023",2023,Bali
-"2nd International Conference on Data Analytics, Computing and Artificial Intelligence, ICDACAI 2023",2023,Zakopane
-"3rd International Conference on Biological Engineering and Medical Science, ICBioMed 2023",2023,"Virtual, Online"
-"6th IEEE Conference on Dependable and Secure Computing, DSC 2023",2023,Tampa
-"8th International Conference on Informatics and Computing, ICIC 2023",2023,"Hybrid, Malang"
-"13th Annual IEEE Global Humanitarian Technology Conference, GHTC 2023",2023,Radnor
-"6th International Conference on Informatics and Data-Driven Medicine, IDDM 2023",2023,Bratislava
-"1st Workshop on Generalisation (Benchmarking) in NLP, GenBench 2023",2023,Singapore
-15th ITG Conference on Speech Communication,2023,Aachen
-"19th IEEE International Conference on e-Business Engineering, ICEBE 2023",2023,Sydney
-37th EnviroInfo 2023,2023,Garching
+"IEEE Technology and Engineering Management Conference, TEMSCON",2020,Detroit
+"Annual International Conference on Privacy, Security and Trust, PST",2022,Fredericton
+"Scientific Meeting of the Classification and Data Analysis Group of the Italian Statistical Society, CLADAG",2021,"Virtual, Online"
+"International Teletraffic Congress, ITC",2020,"Virtual, Osaka"
+"International Conference on Information, Intelligence, Systems and Applications, IISA",2021,"Virtual, Chania Crete"
+"IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications, TPS-ISA",2021,"Virtual, Online"
+"International Conference on Knowledge and Systems Engineering, KSE",2019,Da Nang
+"International Conference on Advanced Science and Engineering, ICOASE",2021,Duhok
+"International Conference on Advanced Computing and Communication Systems, ICACCS",2023,Coimbatore
+"Telecommunications Forum, TELFOR",2022,Belgrade
+"International Conference on Electronics and Sustainable Communication Systems, ICESC",2020,Coimbatore
+"IEEE International Conference on Computer Design, ICCD",2019,Abu Dhabi
+"IEEE Pacific Rim Conference on Communications, Computers and Signal Processing, PACRIM",2019,Victoria
+"IEEE International Conference on Current Development in Engineering and Technology, CCET",2022,Bhopal
+"IEEE European Symposium on Security and Privacy Workshops, EUROS and PW",2019,Stockholm
+"IEEE International Conference on Multimedia Big Data, BigMM",2020,New Delhi
+"IEEE EMBS International Conference on Biomedical and Health Informatics, BHI",2021,"Virtual, Online"
+"IEEE International Conference on Engineering, Technology and Innovation, ICE/ITMC",2020,"Virtual, Cardiff"
+"IEEE International Conference on Pervasive Computing and Communications, PerCom",2021,"Virtual, Kassel"
+"International Symposium on Software Engineering for Adaptive and Self-Managing Systems, SEAMS",2021,"Virtual, Online"
+"IEEE International Conference on Bioinformatics and Bioengineering, BIBE",2022,"Virtual, Online"
+"IEEE International Conference on Wireless Communications and Signal Processing, WCSP",2022,"Virtual, Online"
+"IEEE International Conference on Computer Science and Network Technology, ICCSNT",2019,Dalian
+"International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks, WiOpt",2023,Singapore
+"IEEE European Symposium on Security and Privacy Workshops, Euro S and PW",2022,Genoa
+"IEEE International Conference on Smart Data, iThings/GreenCom/CPSCom/SmartData",2019,Atlanta
+"International Conference on Business Information Systems Engineering, WI",2021,
+"International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks, WiOpt",2021,"Virtual, Philadelphia"
+"International Conference on Big Data Computing and Communications, BigCom",2020,Deqing
+"International Telecommunications Conference, ITC-Egypt",2023,Alexandria
+"IEEE International Conference on Cryptography, Security and Privacy, CSP",2021,"Virtual, Zhuhai"
+"IEEE Global Engineering Education Conference, EDUCON",2020,Porto
+"IEEE International Conference on Computer and Communications, ICCC",2020,Chengdu
+"IEEE International Conference on Data Engineering, ICDE",2016,Helsinki
+"International Conference on Availability, Reliability and Security, ARES",2016,Salzburg
+"IEEE International Conference on Industrial Informatics, INDIN",2018,Porto
+"IEEE Conference on Cognitive Methods in Situation Awareness and Decision Support, CogSIMA",2013,"San Diego, CA"
+"East Indonesia Conference on Computer and Information Technology, EIConCIT",2021,"Virtual, Surabaya"
+"IEEE International Conference on Application of Information and Communication Technologies, AICT",2020,"Virtual, Tashkent"
+"Global Internet of Things Summit, GIoTS",2017,Geneva
+"International Workshop on Ontology-supported Business Intelligence, OBI",2008,Karlsruhe
+"Joint Urban Remote Sensing Event, JURSE",2023,Heraklion
+"IEEE International Conference on Advanced Systems and Emergent Technologies, IC_ASET",2023,Hammamet
+"3rd IEEE 5G World Forum, 5GWF 2020",2020,"Virtual, Bangalore"
+"Annual IEEE International Conference on High Performance Computing, Data, and Analytics, HiPC",2022,Bangalore
+"IEEE International Conference on Information Reuse and Integration, IRI",2015,San Francisco
+"IEEE Advanced Information Management, Communicates, Electronic and Automation Control Conference, IMCEC",2018,Xi'an
+"IEEE International Conference on Big Data Analytics, ICBDA",2020,Xiamen
+"IFIP/IEEE International Symposium on Integrated Network and Service Management, IM",2017,Lisbon
+"IEEE Conference on Industrial Cyberphysical Systems, ICPS",2020,"Virtual, Tampere"
+"IEEE International Conference on Pervasive Computing and Communications Workshops, PerCom Workshops",2019,Kyoto
+"International Conference on Cloud Computing, Data Science and Engineering, Confluence",2021,"Virtual, Nodia"
+"International Convention on Information, Communication and Electronic Technology, MIPRO",2021,Opatija
+"International Conference on Trends in Electronics and Informatics, ICOEI",2021,"Tirunelveli, Tamilnadu"
+"IEEE International Conference on Smart Data Services, SMDS",2021,"Virtual, Online"
+"International Conference on Blockchain Computing and Applications, BCCA",2022,San Antonio
+"IEEE International Conference on Knowledge Graph, ICKG",2020,"Virtual, Nanjing"
+"International Conference on Cloud Computing and Artificial Intelligence: Technologies and Applications, CloudTech",2020,Marrakesh
+"International Conference on Data Science and Machine Learning Applications, CDMA",2022,Riyadh
+"9th IEEE International Conference on Cloud Engineering, IC2E 2021",2021,"Virtual, Online"
+"Annual IEEE Information Technology, Electronics and Mobile Communication Conference, IEMCON",2020,"Virtual, Vancouver"
+"International Arab Conference on Information Technology, ACIT",2022,Abu Dhabi
+"Swiss Conference on Data Science, SDS",2022,Lucerne
+"Canadian Workshop on Information Theory, CWIT",2022,Ottawa
+"IEEE Smart World Congress, SWC",2023,Portsmouth
+"Information Theory and Applications Workshop, ITA",2020,San Diego
+"IEEE International Conference on Smart Cloud, SmartCloud",2022,Shanghai
+"7th IEEE International Conference on Advances in Computing, Communication and Control, ICAC3 2021",2021,Mumbai
+"International Conference on Computer Communications and Networks, ICCCN",2017,Vancouver
+"International Conference on Smart Systems and Inventive Technology, ICSSIT",2022,Tirunelveli
+"IEEE International Conference on Big Data Science and Engineering, Trustcom/BigDataSE",2018,New York
+"IEEE International Requirements Engineering Conference, RE",2016,Beijing
+"IEEE International Conference on Mobile Ad Hoc and Smart Systems, MASS",2023,Toronto
+"IEEE Technology and Engineering Management Conference, TEMSCON EUROPE",2022,Izmir
+"International Conference on Computational Science and Computational Intelligence, CSCI",2018,Las Vegas
+"IEEE International Conference on Smart Data, SmartData",2021,"Virtual, Melbourne"
+"International Conference on Information, Cybernetics, and Computational Social Systems, ICCSS",2020,Guangzhou
+"International Conference on Business and Industrial Research, ICBIR",2021,Bangkok
+"IEEE International Conference on Ubiquitous Intelligence and Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People and Smart City Innovations, SmartWorld/UIC/ATC/ScalCom/CBDCom/IoP/SCI",2018,Guangzhou
+"International Conference on Computing and Informatics, ICCI",2022,New Cairo
+"International Conference on Computing, Communication and Security, ICCCS",2020,Bihar
+"Prognostics and Health Management Conference - Paris, PHM-Paris",2023,Paris
+"International Conference on ICT for Smart Society, ICISS",2021,"Virtual, Bandung"
+STI,2019,Dhaka
+"2021 International Conference on Information and Communication Technology for Sustainable Development, ICICT4SD 2021",2021,Dhaka
+"IEEE International Maghreb Meeting of the Conference on Sciences and Techniques of Automatic Control and Computer Engineering, MI-STA",2022,Sabratha
+"ACM/IEEE Conference on Internet of Things Design and Implementation, IoTDI",2020,Sydney
+"IEEE International Conference on Cloud Computing and Intelligence Systems, CCIS",2022,Chengdu
+"Cyber Science and Technology Congress, DASC-PiCom-CBDCom-CyberSciTech",2019,Fukuoka
+"IEEE/ACIS International Conference on Software Engineering Research, Management and Applications, SERA",2017,London
+"IEEE International Symposium on On-Line Testing and Robust System Design, IOLTS",2022,Torino
+"IEEE International Conference on Fog and Mobile Edge Computing, FMEC",2023,Tartu
+"IEEE Belgrade PowerTech, PowerTech",2023,Belgrade
+"IEEE IAS Global Conference on Emerging Technologies, GlobConET",2023,London
+"International Conference Automatics and Informatics, ICAI",2020,Varna
+"IEEE International Conference on Information Technology, Big Data and Artificial Intelligence, ICIBA",2023,Chongqing
+"17th ACM Conference on Information and Knowledge Management, CIKM'08",2008,"Napa Valley, CA"
+"International Conference on Neural Information Processing, ICONIP",1999,Perth
+"Annual Conference of the German Classification Society (Gesellschaft fur Klassifikation) on Advances in Data Analysis, GfKl",2006,Berlin
+"Resilience Week, RWS",2021,Salt Lake City
+"Asia-Pacific Network Operations and Management Symposium, APNOMS",2019,Matsue
+"Annual IEEE International Conference on Intelligence and Security Informatics, ISI",2021,"Virtual, Online"
+"IEEE International Conference on Networking, Architecture and Storage, NAS",2019,Enshi
+"International Conference on Information Science and Technology, ICIST",2018,"Cordoba, Granada, and Seville"
+"CoNEXT Student Workshop, CoNEXT-SW",,Paris
+"International Conference on Cyber and IT Service Management, CITSM",2019,Jakarta
+"International Conference on Information Technology Trends, ITT",2022,Dubai
+"International Conference on Information Fusion, FUSION",2020,"Virtual, Pretoria"
+"IEEE/ACM International Workshop on Emerging Trends in Software Engineering for Blockchain, WETSEB",,"Virtual, Online"
+"International Conference on Data Science and Its Applications, ICoDSA",2022,Bandung
+"International Congress on Advanced Applied Informatics, IIAI-AAI",2020,Kitakyushu
+"IEEE/CIC International Conference on Communications in China, ICCC",2019,Changchun
+"IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, CCGRID",2020,Melbourne
+"International Conference on Advanced Informatics: Concepts, Theory and Applications, ICAICTA",2020,"Virtual, Tokoname"
+"International Conference on Information and Communication Technologies, ICICT",2019,Karachi
+"IEEE International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions), ICRITO",2021,Noida
+"IEEE International Conference on Intelligent Data and Security, BigDataSecurity/HPSC/IDS",2019,Washington
+"IEEE Electric Power and Energy Conference, EPEC",2020,Edmonton
+"International Conference on Smart Innovations in Design, Environment, Management, Planning and Computing, ICSIDEMPC",2020,Aurangabad
+"International Conference on Computing, Communications and Security, ICCCS",2019,Rome
+"European Conference on Product and Process Modelling, ECPPM",2018,Copenhagen
+"IEEE Annual Conference on Decision and Control, CDC",2017,Melbourne
+"International Conference on Artificial Intelligence and Data Analytics for Air Transportation, AIDA-AT",2020,Singapore
+"IEEE International Conference on Industrial Cyber-Physical Systems, ICPS",2022,"Virtual, Online"
+"5th International Conference on Contemporary Computing and Informatics, IC3I 2022",2022,Uttar Pradesh
+"IEEE International Conference on Big Data and Smart Computing, BigComp",2022,Daegu
+"IEEE International Conference on Cognitive Machine Intelligence, CogMI",2023,Atlanta
+"IEEE International Conference on Data Science in Cyberspace, DSC",2018,"Guangzhou, Guangdong"
+"International Conference on Software, Knowledge, Information Management and Applications, SKIMA",2019,Island of Ulkulhas
+"International Conference on Information Technology, IT",2023,Zabljak
+"International Universities Power Engineering Conference, UPEC",2020,"Virtual, Torino"
+"IEEE International Conference on Business Informatics, CBI",2022,Amsterdam
+"International Conference on Image Processing and Robotics, ICIPRoB",2020,Negombo
+"International Symposium on Computational Intelligence and Design, ISCID",2020,Hangzhou
+"IST-Africa Week Conference, IST-Africa",2019,Nairobi
+"International Conference on Applied Artificial Intelligence and Computing, ICAAIC",2023,Salem
+"European Conference on Data Analysis, ECDA",2014,Bremen
+"International Conference on Intelligent Computing and Control Systems, ICICCS",2020,Madurai
+"IFIP Networking Conference, IFIP Networking",2019,Warsaw
+"IEEE International Scientific and Technical Conference on Computer Sciences and Information Technologies, CSIT",2018,Lviv
+"IEEE International Conference on Advanced Information Networking and Applications Workshops, WAINA",2018,Krakow
+"Annual Conference on Privacy, Security and Trust, PST",2018,"Belfast, Northern Ireland"
+"Design, Automation and Test in Europe Conference and Exhibition, DATE",2018,Dresden
+"4th Workshop on Research Advances in Large Digital Book Repositories and Complementary Media, BooksOnline'11",2011,Glasgow
+"International Scientific and Technical Conference on Computer Sciences and Information Technologies, CSIT",2017,Lviv
+"International Symposium on Multidisciplinary Studies and Innovative Technologies, ISMSIT",2022,Ankara
+"European Conference on Cyber Warfare and Security, ECCWS",2020,"Virtual, Online"
+"International Conference on Computer, Information and Telecommunication Systems, CITS",2018,Colmar
+"IEEE International Conference on Space Mission Challenges for Information Technology, SMC-IT",2021,"Virtual, Online"
+"International Conference on Privacy, Security and Trust, PST",2021,Auckland
+"International Conference on Computing, Communication and Networking Technologies, ICCCNT",2020,Kharagpur
+"8th IEEE International Conference for Convergence in Technology, I2CT 2023",2023,Pune
+"ACM/IEEE International Conference on Information Processing in Sensor Networks, IPSN",2022,"Virtual, Online"
+"International Conference on Emerging Security Technologies, EST",2019,"Colchester, Essex"
+"Annual IEEE/IFIP International Conference on Dependable Systems and Networks - Supplemental Volume, DSN-S",2019,Portland
+"IEEE Symposium on Visualization for Cyber Security, VizSec",2019,Vancouver
+"International Symposium on Community-Centric Systems, CcS",2020,"Hachioji, Tokyo"
+"International Conference on Intelligent Metaverse Technologies and Applications, iMETA",2023,Tartu
+"5th IEEE/ACM International Workshop on Data Analysis and Reduction for Big Scientific Data, DRBSD-5 2019",,Denver
+"IEEE International Conference on Intelligent Systems and Knowledge Engineering, ISKE",2021,Chengdu
+"IEEE Network Operations and Management Symposium, NOMS",2012,"Maui, HI"
+"International Conference on Computational Intelligence and Security, CIS",2017,Hong Kong
+"IEEE International Conference on Blockchain and Cryptocurrency, ICBC",2019,Seoul
+"IIAI International Congress on Advanced Applied Informatics, IIAI-AAI",2017,"Hamamatsu, Shizuoka"
+"IEEE International Symposium on Medical Measurements and Applications, MeMeA",2023,Jeju
+"6th IEEE International Workshop on Genomic Signal Processing and Statistics, GENSIPS'08",2008,"Phoenix, AZ"
+"IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, CCGrid",2019,Larnaca
+"IEEE International Conference on Internet of Things and Intelligence Systems, IoTaIS",2021,"Virtual, Bandung"
+"Workshop on Information Processing and Control, RPIC",2019,Bahia Blanca
+"IEEE European Technology and Engineering Management Summit, E-TEMS",2020,Dortmund
+"IEEE Conference on Dependable and Secure Computing, DSC",2022,Edinburgh
+"IEEE International Conference on Dependability in Sensor, Cloud and Big Data Systems and Application, HPCC/DSS/SmartCity/DependSys",2022,Chengdu
+"IEEE International Conference on Electrical Engineering, Big Data and Algorithms, EEBDA",2022,Changchun
+"IEEE  International Wireless Communications and Mobile Computing Conference, IWCMC",2020,Limassol
+"IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications, IDAACS",2021,Cracow
+"IEEE International Conference on Service-Oriented System Engineering, SOSE",2023,Athens
+"International Symposium on iNnovative Informatics of Biskra, ISNIB",2022,Biskra
+"International Conference on Ubiquitous Information Management and Communication, IMCOM",2021,Seoul
+"International Computer Science and Engineering Conference, ICSEC",2023,"Koh Samui , Surat Thani"
+"International Conference on Information Assurance and Security, IAS",2014,Okinawa
+"International Conference on Computer Communication and the Internet, ICCCI",2020,Nagoya
+"Asia Conference on Algorithms, Computing and Machine Learning, CACML",2022,Hangzhou
+"International Conference on Information and Communication Technologies for Disaster Management, ICT-DM",2019,Paris
+"2020 International Workshop on on Semantic Big Data, SBD 2020 - In conjunction with the 2020 ACM SIGMOD/PODS Conference",2020,Portland
+"International Conference on Research in Computational Intelligence and Communication Networks, ICRCICN",2020,Bangalore
+"Annual IEEE/IFIP International Conference on Dependable Systems and Networks, DSN-W",2020,Valencia
+"Conference of the Portuguese Association for Information Systems, CAPSI",2023,Beja
+"IEEE International Conference on Service-Oriented Computing and Applications, SOCA",2018,Paris
+"IEEE International Conference on Recent Advances in Systems Science and Engineering, RASSE",2022,Tainan
+"IEEE International Conference on Advent Trends in Multidisciplinary Research and Innovation, ICATMRI",,"Buldana, Maharashtra"
+"2nd International Conference on Digital Futures and Transformative Technologies, ICoDT2 2022",2022,Rawalpindi
+"IEEE International Enterprise Distributed Object Computing Conference, EDOC",2019,Paris
+"IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering, WIECON-ECE",2021,Dhaka
+"International Computer Conference on Wavelet Active Media Technology and Information Processing, ICCWAMTIP",2020,Chengdu
+9th International Conference on Information and Knowledge Management (CIKM 2000),2000,"McLean, VA"
+"International Conference on Soft Computing, MENDEL",2019,Brno
+"International Carpathian Control Conference, ICCC",2023,"Hybrid, Miskolc"
+"International Conference on Communications, COMM",2020,Bucharest
+"International Conference on Smart Technologies, EUROCON",2019,Novi Sad
+"International Conference on Intelligent Autonomous Systems, ICoIAS",2020,Singapore
+"International Conference on Information and Communication Technology, ICoICT",2020,Yogyakarta
+"International Verification and Security Workshop, IVSW",2017,Thessaloniki
+"IEEE Global Conference on Consumer Electronics, GCCE",2022,Osaka
+"International Conference on Advances in Computer Technology, Information Science and Communications, CTISC",2019,Xiamen
+"IEEE International Conference on Industrial Engineering and Applications, ICIEA",2021,"Virtual, Chengdu"
+"OITS International Conference on Information Technology, OCIT",2022,Bhubaneswar
+"IEEE International Performance Computing and Communications Conference, IPCCC",2020,Austin
+"International Conference on Sampling Theory and Applications, SampTA",2017,Tallinn
+"IEEE Global Engineering Education Conference - Emerging Trends and Challenges of Engineering Education, EDUCON",2018,"Santa Cruz de Tenerife, Canary Islands"
+"IEEE International Conference on Artificial Intelligence, Blockchain, and Internet of Things, AIBThings",2023,Mount Pleasant
+"International Conference on Systems and Informatics, ICSAI",2021,Chongqing
+"International Conference on Biometrics, ICB",2019,Crete
+"Annual IEEE India Conference, INDICON",2012,"Kochi, Kerala"
+"Artificial Intelligence, and Communications Technology, IAICT",2022,Bali
+"European Conference on Optical Communication, ECOC",2021,Bordeaux
+"IEEE International Energy Conference, ENERGYCON",2022,Riga
+"IEEE International Conference on Cognitive Informatics and Cognitive Computing, ICCI*CC",2020,Beijing
+"Annual IEEE International Conference on High Performance Computing, HiPC",2019,Hyderabad
+"International Conference on Artificial Intelligence and Signal Processing, AISP",2022,Vijayawada
+"International Conference on Parallel, Distributed and Grid Computing, PDGC",2020,"Virtual, Waknaghat, Solan"
+"IEEE World Symposium on Applied Machine Intelligence and Informatics, SAMI",2020,Herl锟絘ny
+"Iran Workshop on Communication and Information Theory, IWCIT",2020,Tehran
+"IEEE International Conference on Collaboration and Internet Computing, CIC",2018,Philadelphia
+"IEEE Conference on Big Data and Analytics, ICBDA",2020,Kota Kinabalu
+"International Conference on Information Systems Development, ISD",2022,Cluj-Napoca
+"International Conference on Recent Trends on Electronics, Information, Communication and Technology, RTEICT",2021,Bangalore
+"IEEE International Conference on Information Technology and Nanotechnology, ITNT",2023,"Virtual, Online"
+"IEEE International Conference on Intelligent Engineering Systems, INES",2020,Reykjavik
+"International Research Conference on Smart Computing and Systems Engineering, SCSE",,Colombo
+"International Conference on Cognitive Computing and Information Processing, CCIP",2022,Bengaluru
+"International Seminar on Research of Information Technology and Intelligent Systems, ISRITI",,Yogyakarta
+"International Balkan Conference on Communications and Networking, BalkanCom",2021,Novi Sad
+"International Conference on Informatics, ICI",2023,Noida
+"International Seminar on Machine Learning, Optimization, and Data Science, ISMODE",,Jakarta
+"Conference on Innovation in Clouds, Internet and Networks and Workshops, ICIN",2021,Paris
+"National Information Technology Conference, NITC",2019,Colombo
+"4th International Conference on Computer and Informatics Engineering, IC2IE 2021",,"Virutal, Depok"
+"International Conference on Information Technology, ICIT",2021,Amman
+"IEEE/ACM International Workshop on Software Engineering Research and Industrial Practice, SER and IP",,"Virtual, Online"
+"IEEE/ACM International Workshop on Software Engineering for Healthcare, SEH",,"Virtual, Online"
+"International Conference on Advanced Computer Science and Information Systems, ICACSIS",2017,Jakarta
+"IEEE International Symposium on Applied Computational Intelligence and Informatics, SACI",2021,Timisoara
+"Intelligent Technologies and Electronic Devices in Vehicle and Road Transport Complex, TIRVED",2022,Moscow
+"IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology, WI-IAT",2022,"Virtual, Online"
+"IEEE International Conference on e-Business Engineering, ICEBE",2022,Bournemouth
+"International Conference on Digital Transformation and Intelligence, ICDI",2022,Kuching
+"IEEE International Conference on Advances in Data-Driven Analytics and Intelligent Systems, ADACIS",2023,Marrakech
+"Annual IFIP Networking Conference, IFIP Networking",2021,"Virtual, Espoo"
+"International Conference on Computational Systems and Information Technology for Sustainable Solutions, CSITSS",2018,Bengaluru
+"International Conference on Electronics, Information, and Communication, ICEIC",2022,Jeju
+"International Conference on Wireless Communications, Signal Processing and Networking, WiSPNET",2022,Chennai
+"International Conference on Computing, Communication, Control and Automation, ICCUBEA",2022,Pune
+"ACM Conference on Information-Centric Networking, ICN",2022,Osaka
+"2007 IEEE International Conference on Information Reuse and Integration, IEEE IRI-2007",2007,"Las Vegas, NV"
+"International Conference on Advances in Computing, Communication and Automation, ICACCA",2018,Subang Jaya
+"IEEE-RIVF International Conference on Computing and Communication Technologies, RIVF",2019,Danang
+"International Conference on System Science and Engineering, ICSSE",2019,"Dong Hoi City, Quang Binh Province"
+"International Conference for Emerging Technology, INCET",2022,Belgaum
+"International Conference on Smart Energy Systems and Technologies, SEST",2021,"Virtual, Vaasa"
+"IEEE International Conference on Renewable Energy Research and Applications, ICRERA",2022,Istanbul
+"International Conference on Cyber Situational Awareness, Data Analytics and Assessment, Cyber SA",2020,"Virtual, Online"
+"International Conference on Information Processing, ICINPRO",2019,Bengaluru
+"International Conference on Open Source Systems and Technologies, ICOSST",2023,Lahore
+"International Conference on Information Science and Control Engineering, ICISCE",2019,Shanghai
+"Annual IEEE International Conference on Pervasive Computing and Communications, PerCom",2020,Austin
+"International Conference on Science in Information Technology, ICSITech",2019,Yogyakarta
+"IFIP/IEEE Network Traffic Measurement and Analysis Conference, TMA",2019,Paris
+"IEEE International Conference on Big Data Science and Engineering, BigDataSE",2021,Shenyang
+"IEEE International Conference on Information Systems and Computer Aided Education, ICISCAE",2019,Dalian
+"IEEE Jordan International Joint Conference on Electrical Engineering and Information Technology, JEEIT",2019,Amman
+"International Conference on Communication and Electronics Systems, ICCES",2022,Coimbatore
+"International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery, CyberC",2022,"Virtual, Online"
+"Annual International Workshop on Innovating the Network for Data Intensive Science, INDIS",2019,Denver
+"International Conference on Advances in Electrical, Computing, Communication and Sustainable Technologies, ICAECT",2023,Bhilai
+"2021 IEEE International Smart Cities Conference, ISC2 2021",2021,Manchester
+"Workshop on Enhanced Network Techniques and Technologies for the Industrial IoT to Cloud Continuum, IIoT-NETs",,New York
+"South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference, SEEDA-CECNSM",2022,Ioannina
+"IEEE International Conference on E-Health Networking, Application and Services, HEALTHCOM",2021,Shenzhen
+"IEEE Workshop on TRust and EXpertise in Visual Analytics, TREX",,"Virtual, Online"
+"IEEE Jubilee International Symposium on Intelligent Systems and Informatics, SISY",2022,Subotica
+"IEEE Cyber Science and Technology Congress, DASC/PiCom/CBDCom/CyberSciTech",2020,"Virtual, Calgary"
+"International Conference on Artificial Intelligence and Smart Systems, ICAIS",2021,Coimbatore
+"IEEE International Conference on Condition Assessment Techniques in Electrical Systems, CATCON",2022,Durgapur
+"Global Wireless Summit, GWS",2017,Cape Town
+"IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications, TPS-ISA",2022,"Virtual, Online"
+"IEEE International Conference on Fog Computing, ICFC",2020,Sydney
+"European Dependable Computing Conference, EDCC",2022,Zaragoza
+"IEEE Power and Energy Society Innovative Smart Grid Technologies Conference, ISGT",2023,Washington
+"IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing Workshops, CCGridW",2023,Bangalore
+"International Conference on Information Technology Research, ICITR",2018,Moratuwa
+"International Conference on Communication, Control and Information Sciences, ICCISc",2021,"Virtual, Idukki"
+"International Conference on Biomedical Engineering, IBIOMED",2020,Yogyakarta
+"SC Workshops Supplementary, SCWS",2021,St. Louis
+"Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR",1998,Melbourne
+"9th Annual ACM International Workshop on Web Information and Data Management, WIDM '07, Co-located with the 16th ACM Conference on Information and Knowledge Management, CIKM '07",2007,Lisboa
+"IEEE International Conference on Mobile Cloud Computing, Services, and Engineering, MobileCloud",2021,"Virtual, Online"
+"International Conference on Computing and Data Science, CDS",2021,Stanford
+"International Conference on Circuits, Systems, Communications and Computers, CSCC",2022,Crete
+"10th ACM Workshop on Web Information and Data Management, WIDM '08, Co-located with the ACM 17th Conference on Information and Knowledge Management, CIKM '08",2008,"Napa Valley, CA"
+"International Workshop on Biometrics and Forensics, IWBF",2020,Porto
+"IEEE International Conference on Communications, Computing, Cybersecurity, and Informatics, CCCI",2020,Sharjah
+"IEEE/IFIP Network Operations and Management Symposium Workshops, NOMS",2010,Osaka
+"IEEE International Conference on Imaging Systems and Techniques, IST",2021,"Virtual, New York"
+"IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing, SNPD",2018,Busan
+"IEEE Annual Information Technology, Electronics and Mobile Communication Conference, IEMCON",2019,Vancouver
+"IEEE International Symposium on Network Computing and Applications, NCA",2019,Cambridge
+"IEEE International Conference on Research Methodologies in Knowledge Management, Artificial Intelligence and Telecommunication Engineering, RMKMATE",2023,Chennai
+"International Conference on Intelligent Systems and Knowledge Engineering, ISKE",2017,"NanJing, JiangSu"
+"International Conference on Computation, Automation and Knowledge Management, ICCAKM",2021,Dubai
+"IEEE Annual Ubiquitous Computing, Electronics and Mobile Communication Conference, UEMCON",2023,New York
+"IEEE International Conference on Innovative Technologies in Intelligent Systems and Industrial Applications, CITISIA",2020,Sydney
+"International Conference on Technological Advancements in Computational Sciences, ICTACS",2022,Tashkent
+"IEEE World AI IoT Congress, AIIoT",2023,"Virtual, Online"
+"International Multi-Conference on Engineering, Computer and Information Sciences, SIBIRCON",2019,Novosibirsk
+"International Conference on System Reliability and Safety, ICSRS",2019,Rome
+"IEEE International Conference on Electrical, Computer and Communication Technologies, ICECCT",2023,Erode
+"IEEE Conference on Industrial Electronics and Applications, ICIEA",2022,Chengdu
+"International Conference on Data Science and Information Technology, DSIT",2022,Shanghai
+"Asia-Pacific World Congress on Computer Science and Engineering, APWC on CSE",2017,Nadi
+"International Workshop on Big Data and Information Security, IWBIS",,Bali
+"Wireless and Optical Communications Conference, WOCC",2019,Beijing
+"International Conference on Advanced Computational Intelligence, ICACI",2021,Wanzhou
+"International Congress on Applied Information Technology, AIT",2019,Yogyakarta
+"3rd International Conference on Contemporary Computing and Informatics, IC3I 2018",2018,Gurgaon
+"IEEE International Symposium on Real-Time Distributed Computing, ISORC",2020,Nashville
+"International Conference on Computer Science and Its Application in Agriculture, ICOSICA",2020,"Virtual, Bogor"
+co-located with POPL,2021,"Virtual, Online"
+"2022 Research, Invention, and Innovation Congress: Innovative Electricals and Electronics, RI2C 2022",2022,"Virtual, Bangkok"
+"IEEE International Workshop on Sport, Technology and Research, STAR",2022,Cavalese
+"International Conference on Computing, Networks and Internet of Things, CNIOT",2022,Qingdao
+"IEEE International Conference on Computer and Communication Systems, ICCCS",2021,Chengdu
+"IEEE PES Innovative Smart Grid Technologies Europe, ISGT Europe",2021,Espoo
+"IEEE International Workshop on Metrology for Living Environment, MetroLivEnv",2023,Milano
+"IEEE Bombay Section Signature Conference, IBSSC",2020,Mumbai
+"Prognostics and System Health Management Conference, PHM-Paris",2019,Paris
+"Swedish Workshop on Data Science, SweDS",2021,"Virtual, Vaxjo"
+"10th IEEE International Conference on Cloud Engineering, IC2E 2022",2022,Pacific Grove
+"International Workshop on Content-Based Multimedia Indexing, CBMI",2008,London
+"IEEE International Conference on Digital Twins and Parallel Intelligence, DTPI",2021,Beijing
+"International Conference on Internet of Things: Smart Innovation and Usages, IoT-SIU",2019,Ghaziabad
+"IEEE International Conference on Applied Intelligence and Sustainable Computing, ICAISC",2023,"Hybrid, Dharwad"
+"International Conference on Data Intelligence and Security, ICDIS",2022,Shenzhen
+"International Conference on Computing, Electronics and Communications Engineering. iCCECE",2022,Southend
+"International Multidisciplinary Moratuwa Engineering Research Conference, MERCon",2020,Moratuwa
+"International Conference on Cybernetics and Intelligent System, ICORIS",2020,"Virtual, Manado"
+"International Conference on Intelligent Informatics and Biomedical Sciences, ICIIBMS",2020,Okinawa
+"International Conference on Intelligent Cybernetics Technology and Applications, ICICyTA",2023,"Hybrid, Bali"
+"International Symposium on Digital Forensics and Security, ISDFS",2023,TN
+"IEEE International Conference on Computer Supported Cooperative Work in Design, CSCWD",2018,Nanjing
+"International Conference on Technologies and Applications of Artificial Intelligence, TAAI",2021,Taichung
+"International Conference on Computational Intelligence and Applications, ICCIA",2020,Beijing
+"International Conference on Machine Learning, Big Data and Business Intelligence, MLBDBI",2020,Chengdu
+"International Conference on Computer Engineering and Application, ICCEA",2021,Kunming
+"IEEE International Conference on Power Data Science, ICPDS",2019,Taizhou
+"IEEE World Conference on Applied Intelligence and Computing, AIC",2023,"Hybrid, Sonbhadra"
+"International Conference on Artificial Intelligence and Big Data, ICAIBD",2019,Chengdu
+"International Conference on Computer Engineering and Knowledge, ICCKE",2021,Mashhad
+"International Conference on Cyber Security and Internet of Things, ICSIoT",2019,Accra
+"International Conference on Computer Applications and Information Security, ICCAIS",2020,Riyadh
+"International Conference on Computer Supported Cooperative Work in Design, CSCWD",2023,Rio de Janeiro
+"International Conference on Machine Learning and Data Engineering, iCMLDE",2019,Taipei
+"International Conference on Web Research, ICWR",2023,Tehran
+"International Conference on Models and Technologies for Intelligent Transportation Systems, MT-ITS",2023,Nice
+"International Conference on Challenges to National Defence in Contemporary Geopolitical Situation, CNDCGS",2022,Vilnius
+"IEEE International Conference on Dependability in Sensor, Cloud and Big Data Systems and Applications, HPCC-DSS-SmartCity-DependSys",2021,"Haikou, Hainan"
+"Prognostics and Health Management Conference, PHM-Besancon",2020,Besancon
+"International Conference on Service Systems and Service Management, ICSSSM ",2016,Kunming
+"IEEE International Conference on Autonomic Computing and Self-Organizing Systems, ACSOS",2021,"Virtual, Online"
+"IEEE International Conference on Healthcare Informatics Workshops, ICHI-W",2018,New York
+"IEEE International Conference on Computer and Information Technology, iThings/GreenCom/CPSCom/SmartData/Blockchain/CIT",2018,Halifax
+"Conference on Blockchain Research and Applications for Innovative Networks and Services, BRAINS",2020,Paris
+"IEEE International Conference on Networking, Sensing and Control, ICNSC",2021,Xiamen
